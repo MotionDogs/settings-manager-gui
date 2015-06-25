@@ -1,0 +1,1154 @@
+GUI opened at 05:17
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+java.io.IOException: Saved data not found. A new file will be created.
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+Beginning update of all GUI Values
+GUI closed at 05:23
+GUI opened at 05:24
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+java.io.IOException: Saved data not found. A new file will be created.
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Beginning update of all GUI Values
+GUI closed at 05:25
+GUI opened at 05:26
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+java.io.IOException: Saved data not found. A new file will be created.
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Beginning update of all GUI Values
+GUI closed at 05:27
+GUI opened at 05:27
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+java.io.IOException: Saved data not found. A new file will be created.
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Beginning update of all GUI Values
+GUI closed at 05:28
+GUI opened at 05:50
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+java.io.IOException: Saved data not found. A new file will be created.
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+Beginning update of all GUI Values
+GUI closed at 05:51
+GUI opened at 06:11
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+java.io.IOException: Saved data not found. A new file will be created.
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+GUI closed at 06:13
+GUI opened at 06:32
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+java.io.IOException: Saved data not found. A new file will be created.
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+Beginning update of all GUI Values
+GUI closed at 06:32
+GUI opened at 06:33
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+java.io.IOException: Saved data not found. A new file will be created.
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 1: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 2: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 3: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 4: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 5: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 6: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 7: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 8: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 9: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+
+Could not find serial port.
+Update Started...
+Unable to initially open port. Ensure the correct port is being targeted. Process is beingaborted.
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+GUI closed at 06:34
+GUI opened at 06:34
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+java.io.IOException: Saved data not found. A new file will be created.
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+/dev/tty.serial1 /dev/tty.usbmodem1491 
+Beginning update of all GUI Values
+GUI closed at 06:37
+GUI opened at 06:37
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+java.io.IOException: Saved data not found. A new file will be created.
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+Incorrect responce--check failed.
+
+Scan 1: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 2: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 3: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 4: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 5: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 6: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 7: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 8: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 9: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+
+Could not find serial port.
+Update Started...
+Unable to initially open port. Ensure the correct port is being targeted. Process is beingaborted.
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+Opening firmware update utility.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Beginning update of all GUI Values
+GUI closed at 06:39
+GUI opened at 07:14
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+java.io.IOException: Saved data not found. A new file will be created.
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Beginning update of all GUI Values
+GUI closed at 07:15
+GUI opened at 07:16
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+java.io.IOException: Saved data not found. A new file will be created.
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Beginning update of all GUI Values
+GUI closed at 07:16
+GUI opened at 07:17
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+java.io.IOException: Saved data not found. A new file will be created.
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Beginning update of all GUI Values
+GUI closed at 07:17
+GUI opened at 07:18
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+java.io.IOException: Saved data not found. A new file will be created.
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Beginning update of all GUI Values
+GUI closed at 07:18
+GUI opened at 07:18
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+java.io.IOException: Saved data not found. A new file will be created.
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Beginning update of all GUI Values
+GUI closed at 07:18
+GUI opened at 07:19
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+java.io.IOException: Saved data not found. A new file will be created.
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Beginning update of all GUI Values
+GUI closed at 07:19
+GUI opened at 07:20
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+java.io.IOException: Saved data not found. A new file will be created.
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+GUI closed at 07:30

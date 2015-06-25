@@ -1,0 +1,519 @@
+GUI opened at 10:05
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 1722
+	7 1
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+GUI closed at 10:06
+GUI opened at 10:06
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 1722
+	7 1
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 10:06
+GUI opened at 10:15
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 1722
+	7 1
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+GUI closed at 10:17
+GUI opened at 11:29
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 1722
+	7 1
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+GUI closed at 11:29
+GUI opened at 11:32
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 1722
+	7 1
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+GUI closed at 11:33
+GUI opened at 11:33
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 1722
+	7 1
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 11:33
+GUI opened at 11:37
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 1722
+	7 1
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+GUI closed at 11:37
+GUI opened at 11:37
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 1722
+	7 1
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+GUI closed at 11:38
+GUI opened at 11:38
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 1722
+	7 1
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+GUI closed at 11:38
+GUI opened at 11:39
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 1722
+	7 1
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+GUI closed at 11:39
+GUI opened at 11:53
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 1722
+	7 1
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+GUI closed at 11:54
+GUI opened at 11:58
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 1722
+	7 1
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [COM8]
+
+	COM8
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+Starting Ports: [COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[]
+	[COM6]
+Found Port: COM6
+C:\Users\Thayer\Desktop\Lenzhound GUI\avr\bin/avrdude.exe
+-v
+-CC:\Users\Thayer\Desktop\Lenzhound GUI\avr\etc/avrdude.conf
+-p
+atmega32u4
+-cavr109
+-PCOM6
+-b19200
+-Uflash:w:C:\Users\Thayer\Documents\Rxr.cpp.hex:i
+Device successfully updated firmware.
+
+avrdude.exe: Version 6.0.1, compiled on Apr 15 2015 at 19:59:58
+             Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/
+             Copyright (c) 2007-2009 Joerg Wunsch
+
+             System wide configuration file is "C:\Users\Thayer\Desktop\Lenzhound GUI\avr\etc/avrdude.conf"
+
+             Using Port                    : COM6
+             Using Programmer              : avr109
+             Overriding Baud Rate          : 19200
+             AVR Part                      : ATmega32U4
+             Chip Erase delay              : 9000 us
+             PAGEL                         : PD7
+             BS2                           : PA0
+             RESET disposition             : dedicated
+             RETRY pulse                   : SCK
+             serial program mode           : yes
+             parallel program mode         : yes
+             Timeout                       : 200
+             StabDelay                     : 100
+             CmdexeDelay                   : 25
+             SyncLoops                     : 32
+             ByteDelay                     : 0
+             PollIndex                     : 3
+             PollValue                     : 0x53
+             Memory Detail                 :
+
+                                      Block Poll               Page                       Polled
+               Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack
+               ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------
+               eeprom        65    20     4    0 no       1024    4      0  9000  9000 0x00 0x00
+               flash         65     6   128    0 yes     32768  128    256  4500  4500 0x00 0x00
+               lfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+               hfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+               efuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+               lock           0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+               calibration    0     0     0    0 no          1    0      0     0     0 0x00 0x00
+               signature      0     0     0    0 no          3    0      0     0     0 0x00 0x00
+
+             Programmer Type : butterfly
+             Description     : Atmel AppNote AVR109 Boot Loader
+
+Connecting to programmer: .
+Found programmer: Id = "CATERIN"; type = S
+    Software Version = 1.0; No Hardware Version given.
+Programmer supports auto addr increment.
+Programmer supports buffered memory access with buffersize=128 bytes.
+
+Programmer supports the following devices:
+    Device code: 0x44
+
+avrdude.exe: devcode selected: 0x44
+avrdude.exe: AVR device initialized and ready to accept instructions
+
+Reading | ################################################## | 100% 0.00s
+
+avrdude.exe: Device signature = 0x1e9587
+avrdude.exe: NOTE: "flash" memory has been specified, an erase cycle will be performed
+             To disable this feature, specify the -D option.
+avrdude.exe: erasing chip
+avrdude.exe: reading input file "C:\Users\Thayer\Documents\Rxr.cpp.hex"
+avrdude.exe: writing flash (19322 bytes):
+
+Writing | ################################################## | 100% 1.45s
+
+avrdude.exe: 19322 bytes of flash written
+avrdude.exe: verifying flash memory against C:\Users\Thayer\Documents\Rxr.cpp.hex:
+avrdude.exe: load data flash data from input file C:\Users\Thayer\Documents\Rxr.cpp.hex:
+avrdude.exe: input file C:\Users\Thayer\Documents\Rxr.cpp.hex contains 19322 bytes
+avrdude.exe: reading on-chip flash data:
+
+Reading | ################################################## | 100% 0.19s
+
+avrdude.exe: verifying ...
+avrdude.exe: 19322 bytes of flash verified
+
+avrdude.exe done.  Thank you.
+
+
+Beginning update of all GUI Values
+GUI closed at 11:58

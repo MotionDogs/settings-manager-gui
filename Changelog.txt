@@ -1,0 +1,82 @@
+1.1.11 Changes:
+        -Detecting and fixing permissions issues on application launch.
+1.1.10 Changes:
+        -Now Passes array to processbuilder instead of string for more consistant
+            behaivior.
+1.1.9  Changes:
+        -First release candidate
+        -Split unix and dos flashing sequences, the require different delays to
+            be successful
+        -outputField cleared on starting firmware update
+1.1.8  Changes:
+        -Added an auto scrolling text area to display firmware update output
+        -Lowered level of verbosity on avrdude output to speed up flash time
+1.1.7  Changes:
+        -Now uses relative pathing to find avrdude components
+        -portComboBox now disabled while uploading
+        -now displays a dialog box aesynchronously at the begining of flash process
+1.1.6  Changes:
+        -Moved all logs into a subdirectory within the lenzdirectory to facilitate
+            neatly storing avrdude related files
+        -Added the firmwareUtility class
+        -Added findBootLoaderPort() method to SerialCommunicator
+        -Added SerialCommunicator contructor where a port is specified to work
+            with the firmwareUtility.
+        -Changed the main directory from "Lenzhound GUI" to "Lenzhound"
+        -Changed the application icon from the default java cup to the lenzhound
+            icon
+1.1.5  Changes:
+        -Adding KeyboardFocusManager to track when text fields lose and gain
+            focus
+        -Added TextTraversalPolicy, a custom class for determining tab order
+            for GUI components
+        -Added focus listeners to textfields, then consolidated the code for both
+            the action and focus listeners into a jointly-called function.
+        -Moved time expensive operations(just those requiring serial communication
+            for the time being) to separate threads.
+1.1.4  Changes:
+        -Additional delay when reading from device, hoping to smooth handshaking
+            between device and unix systems.
+        -Timelapse button should not depress when returning an error anymore
+1.1.3  Changes:
+        -Sets saved position combo boxes to valid values upon sending a 
+            camera to the timelapse window
+        -Added a missed File.separator from the last build
+        -Reworked how polling device handled old firmware
+1.1.2  Changes:
+        -SerialCommunicator reads in saved positions for timeLapse
+        -Remodeled the timelapse utility
+            -"wizard" setup style
+            -ramp time turned out to be meaningless, removed
+            -formula based only on time parameter
+1.1.1  Changes:
+        -Addressed directory issue on macs by replacings \\ with File.separator
+1.1.0  Milestone:
+        -Basic functionality complete
+        -Stores settings
+        -Writes/Polls Device
+       Changes:
+        -First iteration of timelapse implemented.
+        -ToDo: SerialCommunicator update to support timelaspse
+        -ToDo: Device firmware update to allow settings write
+1.0.10 Changes:
+	-Changed path to store data and logs to a lenzhound folder in the home directory
+	-Split logs by date
+	-Revamped logging to record more actions.
+1.0.9 Changes:
+	-Save all and Save as buttons added.
+	-Unaccessable form added for timelapse, to be filled out later.
+1.0.8 Changes:
+        -Changed upload buttons to toggle buttons to indicate whether current
+            settings have been successfully uploaded.
+1.0.7 Changes:
+        -Added multiple readBytes() commands and stitched them together to solve
+            ongoing issues polling on mac systems.
+1.0.6 Changes:
+	-Autosaving on default, delete, and import commands.
+1.0.5 Changes:
+	-Removed upload in progress dialog box, redundant
+	-Added cycles when searching for import
+1.0.3 - 1.0.4 4/13-4/14 Changes:
+	-Fixed display bug resulting in prior change of slider functionality.
+	-Fixed several issues that could arise in importing from a device.
