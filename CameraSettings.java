@@ -198,7 +198,7 @@ public class CameraSettings {
         return savedPositions;
     }
     
-    public static boolean readImport(SerialCommunicator comms, CameraSettings target, DigUploader gui) throws SerialPortException{
+    public static boolean readImport(SerialCommunicator comms, CameraSettings target, MainGUI gui) throws SerialPortException{
         String[] temp;
         boolean startPointFound = false;
         int startPoint = 0;

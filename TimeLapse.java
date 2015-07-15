@@ -216,7 +216,7 @@ public class TimeLapse extends javax.swing.JFrame {
                 return;
             }
 
-            DigUploader.newCameraSettings(timeLapseCamera);
+            MainGUI.newCameraSettings(timeLapseCamera);
             this.hide();
         });
         t.start();
@@ -224,7 +224,7 @@ public class TimeLapse extends javax.swing.JFrame {
 
     private void cancelButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_cancelButtonActionPerformed
         this.hide();
-        DigUploader.setTimeLapseButtonSelected(false);
+        MainGUI.setTimeLapseButtonSelected(false);
     }//GEN-LAST:event_cancelButtonActionPerformed
 
     private int roundToNearestWholeNumber(double rawValue){
@@ -239,7 +239,7 @@ public class TimeLapse extends javax.swing.JFrame {
         this.addWindowListener(new WindowAdapter() {
             @Override
             public void windowClosing(WindowEvent e) {
-                DigUploader.setTimeLapseButtonSelected(false);
+                MainGUI.setTimeLapseButtonSelected(false);
             }
 
         });
