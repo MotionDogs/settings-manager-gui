@@ -6,6 +6,7 @@
 package lenzhoundgui;
 
 import java.awt.Cursor;
+import java.awt.Dimension;
 import java.awt.Frame;
 import java.awt.Toolkit;
 import java.beans.PropertyChangeEvent;
@@ -13,13 +14,19 @@ import java.beans.PropertyChangeListener;
 import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
+import java.util.Arrays;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 import javax.swing.JFileChooser;
 import javax.swing.JOptionPane;
 import javax.swing.SwingWorker;
+import javax.swing.UIManager;
+import javax.swing.UnsupportedLookAndFeelException;
 import javax.swing.event.PopupMenuEvent;
 import javax.swing.event.PopupMenuListener;
 import javax.swing.filechooser.FileNameExtensionFilter;
-import jssc.SerialPortException;
+import javax.swing.plaf.ColorUIResource;
+import javax.swing.text.DefaultCaret;
 import jssc.SerialPortList;
 
 /**
@@ -28,21 +35,41 @@ import jssc.SerialPortList;
  */
 public final class FirmwareUtility extends javax.swing.JFrame
                              implements PropertyChangeListener{
+    
+    static String updatePath = DigUploader.lenzhoundDirectory + "avr" + File.separator;
+    int TOGGLE_HEIGHT_CONSTANT;
+    final JFileChooser fc = new JFileChooser();
+    boolean outputHidden = false;
+    StringBuilder b = null;
+    InputStream inStream = null;
+    InputStream outStream = null;
+    Process process = null;
+    static final String TEXT_HIDDEN = "Show Advanced Output   ▼";
+    static final String TEXT_SHOWN = "Hide Advanced Output     ";
+    Thread a;
 
     /**
      * Creates new form FirmwareUtility
      */
     public FirmwareUtility() {
         initComponents();
+        UIManager.put("ToolTip.background", new ColorUIResource(255, 247, 200));//ensures none of the tooltips default to gray background
+        TOGGLE_HEIGHT_CONSTANT = outputField.getHeight() + 25;
         setUpListeners();
         setLocationRelativeTo(null);
         FileNameExtensionFilter hexFilter = new FileNameExtensionFilter("Hex Files", "hex");
         fc.addChoosableFileFilter(hexFilter);
         fc.setFileFilter(hexFilter);
         updatePortComboBox();
+        outputToggleButtonActionPerformed(null);
+        if(!OSUtils.isWindows()&&!OSUtils.isMac()){
+            this.setSize(this.size().width, this.size().height - 30);//Correcting for weird sizing on unix machines
+        }
+        
+        //auto-scrolls the textarea to the bottom
+        DefaultCaret caret = (DefaultCaret)outputField.getCaret();
+        caret.setUpdatePolicy(DefaultCaret.ALWAYS_UPDATE);
     }
-    String updatePath = MainGUI.lenzhoundDirectory + "avr" + File.separator;
-    final JFileChooser fc = new JFileChooser();
 
     public void updatePortComboBox(){
         String[] availablePorts = SerialPortList.getPortNames();
@@ -66,6 +93,70 @@ public final class FirmwareUtility extends javax.swing.JFrame
         } 
     }
     
+    public static void findNecessaryFiles(){
+        File avrdude = new File(updatePath + "bin/avrdude");
+        File bin = new File(updatePath + "bin/avrdude_bin");
+        File avrdudeUnix = new File(updatePath + "bin/avrdudeUnix");
+        if(!avrdude.exists()||!bin.exists()){
+            LenzLogger.log("Missing files required for flashing device. Firmware"
+                            +" updates will be disabled");
+            DigUploader.setFirmwareUpdateEnabled(false);
+            return;
+        }
+        checkFilePermissions(avrdude,bin,avrdudeUnix);
+    }
+    
+    private static void checkFilePermissions(File avrdude, File bin, File avrdudeUnix){
+        String[] cmd = new String[]{avrdude.getAbsolutePath()};
+        StringBuilder b1 = new StringBuilder();
+        StringBuilder b2 = new StringBuilder();
+        Process process = null;
+        try {
+            process = Runtime.getRuntime().exec(cmd);
+            InputStream stream1 = process.getInputStream();
+            InputStream stream2 = process.getErrorStream();
+            int in;
+            while(process.isAlive()){
+                try {
+                    Thread.sleep(300);
+                    if((in = stream1.read()) != -1)
+                        b1.append((char)in);
+                    if((in = stream2.read()) != -1)
+                        b2.append((char)in);
+                } catch (InterruptedException e) {System.out.println(e.toString());}
+            }
+            while(stream1.available() > 0){
+                b2.append((char)stream1.read());
+            }
+            while(stream2.available() > 0){
+                b2.append((char)stream2.read());
+            }
+        } catch (IOException ex) {
+            LenzLogger.log("Avrdude test failed, likely a permissions issue.");
+        }
+        System.out.print(b1.toString());
+        System.out.println(b2.toString());
+        
+        if(process!=null){
+            System.out.println("avrdude exit value: " + process.exitValue());
+            if(process.exitValue()==0)
+                return;
+        }
+        
+        if(!OSUtils.isWindows()){
+            String[] avrPerm = new String[]{"chmod", "755", avrdude.getAbsolutePath()};
+            String[] binPerm = new String[]{"chmod", "755", bin.getAbsolutePath()};
+            String[] unixAvr = new String[]{"chmod", "755", avrdudeUnix.getAbsolutePath()};
+            try {
+                Runtime.getRuntime().exec(avrPerm);
+                Runtime.getRuntime().exec(binPerm);
+                Runtime.getRuntime().exec(unixAvr);
+            } catch (IOException ex) {
+                LenzLogger.log("Setting Permissions Failed");            
+            }
+        }    
+    }
+    
     public void setUpListeners(){
         portComboBox.addPopupMenuListener(new PopupMenuListener() {
             @Override
@@ -82,9 +173,9 @@ public final class FirmwareUtility extends javax.swing.JFrame
             }
          });
     }
-
+    
     class Task extends SwingWorker<Void, Void> {
-        String cmd = null;
+        String[] cmd = null;
         Frame linkedFrame = null;
         
         public Task(Frame in){
@@ -92,6 +183,8 @@ public final class FirmwareUtility extends javax.swing.JFrame
         }
         @Override
         public Void doInBackground() {
+            portComboBox.setEnabled(false);
+            locateButton.setEnabled(false);
             try{
                 SerialCommunicator sComms = new SerialCommunicator();
                 setProgress(5);
@@ -99,9 +192,11 @@ public final class FirmwareUtility extends javax.swing.JFrame
                 
                 if(sComms.serialErrorThrown()){
                     LenzLogger.log("Unable to initially open port. Ensure the"
-                        + " correct port is being targeted. Process is being"
+                        + " correct port is being targeted. Process is being "
                         + "aborted.");
-                    return null;
+                    throw new Exception("Unable to initially open port. Ensure the"
+                        + " correct port is being targeted. Process is being "
+                        + "aborted.");
                 }
                 
                 sComms.flushBuffer();
@@ -109,52 +204,126 @@ public final class FirmwareUtility extends javax.swing.JFrame
                 LenzLogger.log("Buffer flushed", 1);
                 
                 sComms.resetPort();
-                setProgress(50);
+                setProgress(25);
                 LenzLogger.log("Port Reset", 1);
                 
-                cmd = updatePath + "avrdude -v -v -v -v "
-                    +"-C " + updatePath + "avrdude.conf -p atmega32u4 -cavr109 -P "
-                    +SerialCommunicator.findBootLoaderPort()+" -b19200 -Uflash:w:"
-                    + fileLocationField.getText() + ":i";
-                LenzLogger.log(cmd, 1);
-                setProgress(35);
-                Process process = Runtime.getRuntime().exec(cmd);
+                if(OSUtils.isWindows()){
+                    String targetPort = SerialCommunicator.findBootLoaderPort();
+                    if(targetPort != null)
+                        cmd = new String[]{updatePath + "bin/avrdude.exe", "-v",
+                            "-C" + updatePath + "etc/avrdude.conf", "-p", "atmega32u4",
+                            "-cavr109", "-P" + targetPort, "-b57600", "-D",
+                            "-Uflash:w:" + fileLocationField.getText() + ":i"};
+                    else //handles the case of no code on device, todo:differentiate from actual broken cases
+                        cmd = new String[]{updatePath + "bin/avrdude.exe", "-v",
+                            "-C" + updatePath + "etc/avrdude.conf", "-p", "atmega32u4",
+                            "-cavr109", "-P" + portComboBox.getSelectedItem().toString(),
+                            "-b57600", "-D", "-Uflash:w:" + fileLocationField.getText() + ":i"};
+                }
+                else{
+                    String portName = fileLocationField.getText();
+                    if(portName.startsWith("/dev/"))
+                        portName = portName.substring(5);
+                    if(OSUtils.isMac())
+                        cmd = new String[]{updatePath + "bin/avrdude", "-F", "-v", "-v",
+                            "-C" + updatePath + "etc/avrdude.conf", "-patmega32u4",
+                            "-cavr109", "-P" + portComboBox.getSelectedItem().toString(),
+                            "-b57600", "-D", "-Uflash:w:" + portName + ":i"};
+                    else
+                        cmd = new String[]{updatePath + "bin/avrdudeUnix", "-F", "-v", "-v",
+                            "-C" + updatePath + "etc/avrdude.conf", "-patmega32u4",
+                            "-cavr109", "-P" + portComboBox.getSelectedItem().toString(),
+                            "-b57600", "-D", "-Uflash:w:" + portName + ":i"};
+                    try {
+                        Thread.sleep(4000);
+                    } catch (InterruptedException e) {}
+                    sComms.resetPort();//This delay and reset doesn't make a lot of sense
+                                       //but restructuring this block to something neater
+                                       //causes avrdude to not connect to device 
+                    //throw new Exception("Port search timed out. Port could not be found");
+                }
                 
+                LenzLogger.log(cmd,true,1);
+                outputField.append(Arrays.toString(cmd) + '\n');
+                setProgress(35);
+                process = Runtime.getRuntime().exec(cmd);
+                /*Thread t = new Thread(() -> {
+                    JOptionPane.showMessageDialog(null,
+                            "Device Firmware is being installed, please allow a few "
+                            +"moments for the process\n to complete. You may"
+                            +" use your computer for other tasks during this time, "
+                            +"but do\n not disconnect the Lenzhound device or attempt"
+                            +" to send any other information.",
+                            "Begining Process",
+                            JOptionPane.INFORMATION_MESSAGE);
+                });
+                t.start();*/
                 uploadProgressBar.setIndeterminate(true);
                 
-                InputStream inStream = process.getErrorStream();
-                StringBuilder b = new StringBuilder();
+                inStream = process.getErrorStream();
+                outStream = process.getInputStream();
+                b = new StringBuilder();
                 while(process.isAlive()){
                     while(inStream.available() > 0){
                         char holder = ((char)inStream.read());
-                        LenzLogger.log(holder);
+                        System.out.print(holder);
                         b.append(holder);
+                        outputField.append(String.valueOf(holder));
                     }
                 }
                 //perform loop once more to get last bits of output
                 while(inStream.available() > 0){
                         char holder = ((char)inStream.read());
-                        LenzLogger.log(holder);
+                        System.out.print(holder);
                         b.append(holder);
+                        outputField.append(String.valueOf(holder));
                 }
-                System.out.println("Exit Value: " + process.exitValue());
                 
                 uploadProgressBar.setIndeterminate(false);
                 if(process.exitValue() == 0){
-                    setProgress(100);
+                    setProgress(99);
                     JOptionPane.showMessageDialog(null,
                         "Device firmware has been updated.", "Success!",
-                        JOptionPane.INFORMATION_MESSAGE);                    
+                        JOptionPane.INFORMATION_MESSAGE);
                 }
                 else{
                     setProgress(0);
+                    locateButton.setEnabled(true);
+                    portComboBox.setEnabled(true);
+                    startButton.setEnabled(true);
                     JOptionPane.showMessageDialog(null,
                         "Upload did not complete successfully", "Error Message",
                         JOptionPane.ERROR_MESSAGE);
+                    LenzLogger.log("Device update failed.");
                 }
             }
-            catch(SerialPortException | IOException e){
+            catch(Exception e){
+                setProgress(0);
+                locateButton.setEnabled(true);
+                portComboBox.setEnabled(true);
                 System.out.println(e);
+                JOptionPane.showMessageDialog(null,
+                        "Upload did not complete successfully", "Error Message",
+                        JOptionPane.ERROR_MESSAGE);
+            } finally{
+                if(b!=null){
+                    try {
+                        while(outStream.available() > 0){
+                            LenzLogger.log((char)outStream.read());
+                        }
+                        while(inStream.available() > 0){
+                            char holder = ((char)inStream.read());
+                            b.append(holder);
+                            System.out.print(holder);
+                            outputField.append(String.valueOf(holder));
+                        }
+                    } catch (Exception ex) {
+                        LenzLogger.log(ex.toString());
+                    }
+                }
+                LenzLogger.logOnly(b.toString());
+                System.out.println("Exit Value: " + process.exitValue());
+                setProgress(100);
             }
             return null;
         }
@@ -184,15 +353,23 @@ public final class FirmwareUtility extends javax.swing.JFrame
         portComboBox = new javax.swing.JComboBox();
         locateButton = new javax.swing.JButton();
         startButton = new javax.swing.JButton();
+        jScrollPane1 = new javax.swing.JScrollPane();
+        outputField = new javax.swing.JTextArea();
+        outputToggleButton = new javax.swing.JButton();
 
         setTitle("Firmware Update Utility");
+        setLocation(new java.awt.Point(21, 23));
         setResizable(false);
         setType(java.awt.Window.Type.UTILITY);
 
-        fileLocationField.setText("Please select a hex file...");
+        uploadProgressBar.setToolTipText("This shows the current progress of the firmware update.");
+
+        fileLocationField.setText("Locate a firmware file to upload...");
+        fileLocationField.setToolTipText("Locate the hex file containing the new firmware version.");
         fileLocationField.setEnabled(false);
 
         portComboBox.setModel(new javax.swing.DefaultComboBoxModel(new String[] { "Item 1", "Item 2", "Item 3", "Item 4" }));
+        portComboBox.setToolTipText("Select the port to target");
 
         locateButton.setText("Locate File");
         locateButton.addActionListener(new java.awt.event.ActionListener() {
@@ -209,23 +386,45 @@ public final class FirmwareUtility extends javax.swing.JFrame
             }
         });
 
+        outputField.setColumns(20);
+        outputField.setRows(5);
+        jScrollPane1.setViewportView(outputField);
+
+        outputToggleButton.setFont(new java.awt.Font("Times New Roman", 0, 10)); // NOI18N
+        outputToggleButton.setText("Show Advanced Output   ▼");
+        outputToggleButton.setBorderPainted(false);
+        outputToggleButton.setContentAreaFilled(false);
+        outputToggleButton.setMargin(new java.awt.Insets(0, 0, 0, 0));
+        outputToggleButton.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                outputToggleButtonActionPerformed(evt);
+            }
+        });
+
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
-                .addGap(21, 21, 21)
-                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                    .addComponent(uploadProgressBar, javax.swing.GroupLayout.PREFERRED_SIZE, 338, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(layout.createSequentialGroup()
-                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING, false)
-                            .addComponent(portComboBox, javax.swing.GroupLayout.Alignment.LEADING, 0, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                            .addComponent(fileLocationField, javax.swing.GroupLayout.Alignment.LEADING, javax.swing.GroupLayout.DEFAULT_SIZE, 237, Short.MAX_VALUE))
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                            .addComponent(locateButton, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                            .addComponent(startButton, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))))
-                .addContainerGap(21, Short.MAX_VALUE))
+                        .addGap(21, 21, 21)
+                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                            .addComponent(uploadProgressBar, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                            .addGroup(layout.createSequentialGroup()
+                                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING, false)
+                                    .addComponent(portComboBox, javax.swing.GroupLayout.Alignment.LEADING, 0, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                                    .addComponent(fileLocationField, javax.swing.GroupLayout.Alignment.LEADING, javax.swing.GroupLayout.DEFAULT_SIZE, 237, Short.MAX_VALUE))
+                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                                    .addComponent(locateButton, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                                    .addComponent(startButton, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)))
+                            .addComponent(jScrollPane1, javax.swing.GroupLayout.Alignment.TRAILING)))
+                    .addGroup(layout.createSequentialGroup()
+                        .addGap(14, 14, 14)
+                        .addComponent(outputToggleButton, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                        .addGap(214, 214, 214)))
+                .addGap(21, 21, 21))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -242,6 +441,10 @@ public final class FirmwareUtility extends javax.swing.JFrame
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(portComboBox, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                     .addComponent(startButton))
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addComponent(outputToggleButton, javax.swing.GroupLayout.PREFERRED_SIZE, 18, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(1, 1, 1)
+                .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 96, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addContainerGap(21, Short.MAX_VALUE))
         );
 
@@ -267,15 +470,36 @@ public final class FirmwareUtility extends javax.swing.JFrame
     private void startButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_startButtonActionPerformed
         startButton.setEnabled(false);
         setCursor(Cursor.getPredefinedCursor(Cursor.WAIT_CURSOR));
+        outputField.setText("");
 
         Task task = new Task(this);
         task.addPropertyChangeListener(this);
         task.execute();
     }//GEN-LAST:event_startButtonActionPerformed
+
+    private void outputToggleButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_outputToggleButtonActionPerformed
+        if(outputHidden){
+            outputToggleButton.setText(TEXT_SHOWN);
+            this.setSize(new Dimension(this.getWidth(),
+                    this.getHeight() + TOGGLE_HEIGHT_CONSTANT));
+            outputField.show();
+            outputHidden = false;
+        }
+        else{
+            outputToggleButton.setText(TEXT_HIDDEN);
+            this.setSize(new Dimension(this.getWidth(),
+                    this.getHeight() - TOGGLE_HEIGHT_CONSTANT));
+            outputField.hide();
+            outputHidden = true;
+        }
+    }//GEN-LAST:event_outputToggleButtonActionPerformed
     
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JTextField fileLocationField;
+    private javax.swing.JScrollPane jScrollPane1;
     private javax.swing.JButton locateButton;
+    private javax.swing.JTextArea outputField;
+    private javax.swing.JButton outputToggleButton;
     private javax.swing.JComboBox portComboBox;
     private javax.swing.JButton startButton;
     private javax.swing.JProgressBar uploadProgressBar;

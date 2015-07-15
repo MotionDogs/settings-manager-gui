@@ -92,7 +92,7 @@ public class SerialCommunicator{
         for(int i = 0; i < 10; i++){                
             String[] availablePorts = SerialPortList.getPortNames();
             LenzLogger.log("Scan " + i + ": ");
-            LenzLogger.log("\n\n\tPorts Found: " + Arrays.toString(availablePorts));
+            
             for(String s : availablePorts){                
                 LenzLogger.log("\n\t" + s);
 
@@ -274,17 +274,17 @@ public class SerialCommunicator{
     }
     
     public void resetPort() throws SerialPortException{
-        if(serialPort.isOpened())//prevents erros before the reset happens
+        if(serialPort.isOpened())//ensures the port is closed to start
             serialPort.closePort();
+        System.out.println("Resetting port: " + serialPort.getPortName());
         serialPort.openPort();
         serialPort.setParams(SerialPort.BAUDRATE_1200, 
                              SerialPort.DATABITS_8,
                              SerialPort.STOPBITS_1,
                              SerialPort.PARITY_NONE);
-        try {
-            Thread.sleep(300);
-        } catch (InterruptedException e) {}
+        serialPort.setDTR(false);
         serialPort.closePort();
+        //System.out.println(Arrays.toString(SerialPortList.getPortNames()));
     }
     
     public void flushBuffer() throws SerialPortException{
@@ -295,20 +295,33 @@ public class SerialCommunicator{
             } catch (InterruptedException e) {}
         }
     }
+    
     //random enumeration of ports when hitting the reset switch requires this function
     public static String findBootLoaderPort(){
+        //get list of strings that are available on; the Leonardo is being reset
+        //so it will not be part of this list
         ArrayList<String> startingPorts = new ArrayList<>(Arrays.asList(SerialPortList.getPortNames()));
-        while(true){
+        LenzLogger.log("Starting Ports: " + startingPorts.toString());
+        int timeoutCycles = 0;
+        while(timeoutCycles < 100){
             String[] curPorts = SerialPortList.getPortNames();
+            LenzLogger.log(Arrays.toString(curPorts),1);
             for(String s : curPorts){
+                //we look for the Leonardo automatically reconnecting in bootloader mode
                 if(!startingPorts.contains(s)){
+                    LenzLogger.log("Found Port: " + s);
                     return s;
                 }
             }
             try {
                 Thread.sleep(100);
-            } catch (InterruptedException ex) {LenzLogger.log(ex.toString());}
+            } catch (InterruptedException ex) {
+                LenzLogger.log(ex.toString());
+                return null;
+            }
+            timeoutCycles++;
         }
+        return null;
     }
     
     public boolean serialErrorThrown(){
