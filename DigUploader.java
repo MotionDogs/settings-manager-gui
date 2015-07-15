@@ -12,24 +12,33 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.FocusEvent;
 import java.awt.event.FocusListener;
+import java.awt.event.MouseAdapter;
+import java.awt.event.MouseEvent;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 import java.awt.event.WindowFocusListener;
 import java.beans.PropertyChangeEvent;
-import java.nio.file.Files;
-import java.nio.file.LinkOption;
-import java.nio.file.Path;
+import java.net.URI;
+import java.net.URISyntaxException;
+import java.net.URL;
+import java.nio.file.Paths;
 import java.text.SimpleDateFormat;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 import javax.swing.event.ChangeEvent;
+import javax.swing.plaf.ColorUIResource;
 import lenzhoundgui.SerialCommunicator.DeviceType;
 
 /**
  *
  * @author Thayer
  */
-public final class MainGUI extends javax.swing.JFrame{
+public final class DigUploader extends javax.swing.JFrame{
     
     public static void main(String args[]) {
+        System.setProperty("apple.laf.useScreenMenuBar", "false");
+            System.setProperty(
+                "com.apple.mrj.application.apple.menu.about.name", "Dig-Uploader");
         /* Set the Nimbus look and feel */
         //<editor-fold defaultstate="collapsed" desc=" Look and feel setting code (optional) ">
         /* If Nimbus (introduced in Java SE 6) is not available, stay with the default look and feel.
@@ -42,9 +51,10 @@ public final class MainGUI extends javax.swing.JFrame{
                     break;
                 }
             }
+            //UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
         } catch (ClassNotFoundException | InstantiationException |
                 IllegalAccessException | javax.swing.UnsupportedLookAndFeelException ex) {
-            java.util.logging.Logger.getLogger(MainGUI.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(DigUploader.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         }
         //</editor-fold>
         /* Create and display the form */
@@ -52,17 +62,23 @@ public final class MainGUI extends javax.swing.JFrame{
         //</editor-fold>
         /* Create and display the form */
         
-        java.awt.EventQueue.invokeLater(() -> {
-            new MainGUI().setVisible(true);
-        });
+        showSplashScreen();
+        new DigUploader().setVisible(true);
+        /*java.awt.EventQueue.invokeLater(() -> {
+            new DigUploader().setVisible(true);            
+        }); */       
     }
     /**
-     * Creates new form MainGUI
+     * Creates new form DigUploader
      */
-    public MainGUI() {
+    public DigUploader() {
+        lenzhoundDirectory = filePath() + File.separator;
+        UIManager.put("ToolTip.background", new ColorUIResource(255, 247, 200));//ensures none of the tooltips default to gray background
+        DATA = new File(lenzhoundDirectory + ".data.txt");
         LenzLogger.initialize(new File(lenzhoundDirectory));
         LenzLogger.log("GUI opened at " 
                 + new SimpleDateFormat("hh:mm").format(new Date()));
+        LenzLogger.log("GUI stored at " + lenzhoundDirectory);
         LenzLogger.log("Begining component set up.");
         initComponents();
         LenzLogger.log("Components finished, starting listeners.");
@@ -100,7 +116,34 @@ public final class MainGUI extends javax.swing.JFrame{
         Image img = kit.createImage(url);
         this.setIconImage(img);
         
+        FirmwareUtility.findNecessaryFiles();
+        
+        if(!UIManager.getLookAndFeel().getName().equals("Nimbus")){
+        //if(!OSUtils.isWindows()&&!OSUtils.isMac()){
+            this.setSize(this.size().width, this.size().height - 30);//Correcting for weird sizing on unix machines
+        }
+        
+        
         LenzLogger.log("Setup process finished.");
+    }
+    
+    private String filePath(){
+        System.out.println("Finding application path:");
+        String applicationDir = getClass().getProtectionDomain().getCodeSource().getLocation().getPath();
+        applicationDir = applicationDir.replaceAll("%20", " ");
+        applicationDir = new File(applicationDir).getParent();
+        System.out.println("\t1: checking " + applicationDir);
+        if(new File(applicationDir + File.separator + "avr").exists())
+            return applicationDir;
+        //checks parent directory if avr not found, common if you run outside of jar
+        applicationDir = new File(applicationDir).getParent();
+        System.out.println("\t2: checking " + applicationDir);
+        if(new File(applicationDir + File.separator + "avr").exists())
+            return applicationDir;
+        System.out.println("Defaulting to user.dir, checking:");
+        if(new File(System.getProperty("user.dir") + File.separator + "avr").exists())
+            return System.getProperty("user.dir");
+        return applicationDir;
     }
 
     /**
@@ -153,9 +196,10 @@ public final class MainGUI extends javax.swing.JFrame{
         saveAsButton = new javax.swing.JButton();
         saveAllButton = new javax.swing.JButton();
         firmwareButton = new javax.swing.JButton();
+        logoLabel = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Lenzhound Settings Manager");
+        setTitle("Lenzhound D.I.G. Uploader");
         setResizable(false);
 
         exitButton.setText("Exit");
@@ -200,7 +244,7 @@ public final class MainGUI extends javax.swing.JFrame{
             }
         });
 
-        versionLabel.setText("Vesion 1.1.6");
+        versionLabel.setText("Vesion 1.2.0");
 
         jPanel1.setBorder(javax.swing.BorderFactory.createEtchedBorder());
 
@@ -252,17 +296,17 @@ public final class MainGUI extends javax.swing.JFrame{
                     .addGroup(jPanel1Layout.createSequentialGroup()
                         .addGap(23, 23, 23)
                         .addComponent(jLabel2)
-                        .addGap(26, 26, 26)
-                        .addComponent(tStatusLabel, javax.swing.GroupLayout.PREFERRED_SIZE, 275, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                        .addComponent(tUploadButton, javax.swing.GroupLayout.PREFERRED_SIZE, 110, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                        .addComponent(tStatusLabel, javax.swing.GroupLayout.PREFERRED_SIZE, 275, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addComponent(tUploadButton, javax.swing.GroupLayout.PREFERRED_SIZE, 110, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                         .addComponent(tPollButton, javax.swing.GroupLayout.PREFERRED_SIZE, 110, javax.swing.GroupLayout.PREFERRED_SIZE))
                     .addGroup(jPanel1Layout.createSequentialGroup()
                         .addGap(57, 57, 57)
                         .addComponent(powerAmpLabel)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                        .addComponent(powerAmpComboBox, 0, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                        .addComponent(powerAmpComboBox, 0, 324, Short.MAX_VALUE)
                         .addGap(18, 18, 18)
                         .addComponent(channelLabel)
                         .addGap(18, 18, 18)
@@ -380,7 +424,7 @@ public final class MainGUI extends javax.swing.JFrame{
                         .addComponent(jLabel1)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                         .addComponent(rStatusLabel, javax.swing.GroupLayout.PREFERRED_SIZE, 275, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                         .addComponent(rUploadButton, javax.swing.GroupLayout.PREFERRED_SIZE, 110, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                         .addComponent(rPollButton, javax.swing.GroupLayout.PREFERRED_SIZE, 110, javax.swing.GroupLayout.PREFERRED_SIZE))
@@ -405,7 +449,7 @@ public final class MainGUI extends javax.swing.JFrame{
                                 .addComponent(accelerationSlider, javax.swing.GroupLayout.PREFERRED_SIZE, 343, javax.swing.GroupLayout.PREFERRED_SIZE)
                                 .addComponent(zVelocitySlider, javax.swing.GroupLayout.PREFERRED_SIZE, 343, javax.swing.GroupLayout.PREFERRED_SIZE)
                                 .addComponent(zAccelerationSlider, javax.swing.GroupLayout.PREFERRED_SIZE, 343, javax.swing.GroupLayout.PREFERRED_SIZE)))
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 25, Short.MAX_VALUE)
                         .addComponent(velocityTextField, javax.swing.GroupLayout.PREFERRED_SIZE, 67, javax.swing.GroupLayout.PREFERRED_SIZE))
                     .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel2Layout.createSequentialGroup()
                         .addComponent(timeLapseButton)
@@ -479,11 +523,16 @@ public final class MainGUI extends javax.swing.JFrame{
         });
 
         firmwareButton.setText("Firmware");
+        firmwareButton.setToolTipText("Update device programming");
         firmwareButton.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 firmwareButtonActionPerformed(evt);
             }
         });
+
+        logoLabel.setIcon(new javax.swing.ImageIcon(getClass().getResource("/lenzhoundgui/res/MotionDogsBanner.png"))); // NOI18N
+        logoLabel.setMinimumSize(new java.awt.Dimension(28, 17));
+        logoLabel.setPreferredSize(new java.awt.Dimension(56, 23));
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
@@ -506,8 +555,10 @@ public final class MainGUI extends javax.swing.JFrame{
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                         .addComponent(deleteButton, javax.swing.GroupLayout.PREFERRED_SIZE, 100, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addGap(12, 12, 12))
-                    .addGroup(layout.createSequentialGroup()
-                        .addComponent(versionLabel, javax.swing.GroupLayout.PREFERRED_SIZE, 137, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
+                        .addComponent(logoLabel, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addComponent(versionLabel)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                         .addComponent(firmwareButton)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
@@ -533,18 +584,24 @@ public final class MainGUI extends javax.swing.JFrame{
                 .addComponent(jPanel1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addGap(18, 18, Short.MAX_VALUE)
                 .addComponent(jPanel2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(saveButton)
-                    .addComponent(saveAllButton)
-                    .addComponent(exitButton)
-                    .addComponent(defaultButton)
-                    .addComponent(versionLabel)
-                    .addComponent(firmwareButton))
-                .addGap(45, 45, 45))
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(layout.createSequentialGroup()
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                            .addComponent(saveButton)
+                            .addComponent(saveAllButton)
+                            .addComponent(exitButton)
+                            .addComponent(defaultButton)
+                            .addComponent(firmwareButton)
+                            .addComponent(versionLabel))
+                        .addGap(45, 45, 45))
+                    .addGroup(layout.createSequentialGroup()
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addComponent(logoLabel, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))))
         );
 
-        setSize(new java.awt.Dimension(673, 509));
+        setSize(new java.awt.Dimension(673, 504));
         setLocationRelativeTo(null);
     }// </editor-fold>//GEN-END:initComponents
 
@@ -820,6 +877,7 @@ public final class MainGUI extends javax.swing.JFrame{
 
     private void firmwareButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_firmwareButtonActionPerformed
         LenzLogger.log("Opening firmware update utility.");
+        firmwareUtility = new FirmwareUtility();
         firmwareUtility.show();
     }//GEN-LAST:event_firmwareButtonActionPerformed
     // </editor-fold> 
@@ -1067,6 +1125,18 @@ public final class MainGUI extends javax.swing.JFrame{
             {               
             }
         });
+        
+        logoLabel.addMouseListener(new MouseAdapter(){  
+            public void mouseClicked(MouseEvent e)  
+            {
+                try {
+                    openWebpage(new URL("https://www.motiondogs.com/").toURI());
+                } catch (Exception ex) {
+                    LenzLogger.log("Unable to open website.");
+                    ex.printStackTrace();
+                }
+            }  
+        }); 
     }
     
     // <editor-fold defaultstate="collapsed" desc="Text Change Callbacks">
@@ -1187,6 +1257,18 @@ public final class MainGUI extends javax.swing.JFrame{
     }
     // </editor-fold>
     
+    
+    public static void openWebpage(URI uri) {
+        Desktop desktop = Desktop.isDesktopSupported() ? Desktop.getDesktop() : null;
+        if (desktop != null && desktop.isSupported(Desktop.Action.BROWSE)) {
+            try {
+                desktop.browse(uri);
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+        }
+    }
+    
     private void updateComboBox(){
         String[] nameArray = new String[cameraList.size()];
         for(int i = 0; i<nameArray.length; i++){
@@ -1202,18 +1284,14 @@ public final class MainGUI extends javax.swing.JFrame{
             try{
                 LenzLogger.log("Using file: " + DATA.getPath());
                 try{
-                    Path path = DATA.toPath();                
-                    Boolean hidden = (Boolean) Files.getAttribute(path,"dos:hidden", LinkOption.NOFOLLOW_LINKS);
-                    if (hidden != null && hidden) {
-                        Files.setAttribute(path,"dos:hidden", Boolean.FALSE, LinkOption.NOFOLLOW_LINKS);
-                    }
+                    if(OSUtils.isWindows())
+                        OSUtils.setShow(DATA.toPath());
                 }
                 catch(Exception e){
                     System.out.println(e.toString());
                     LenzLogger.log(e.toString());
                 }
                 if(!DATA.exists()){
-                    new File(System.getProperty("user.home") + "\\Lenzhound GUI").mkdirs();
                     DATA.createNewFile();
                 }
                 writer = new PrintWriter(DATA);
@@ -1238,11 +1316,8 @@ public final class MainGUI extends javax.swing.JFrame{
             }
 
             try{
-                Path path = DATA.toPath();
-                Boolean hidden = (Boolean) Files.getAttribute(path,"dos:hidden", LinkOption.NOFOLLOW_LINKS);
-                if (hidden != null && !hidden) {
-                    Files.setAttribute(path,"dos:hidden", Boolean.TRUE, LinkOption.NOFOLLOW_LINKS);
-                }
+                if(OSUtils.isWindows())
+                    OSUtils.setHide(DATA.toPath());
             }
             catch(Exception e){
                 LenzLogger.log("Not a pc, skipping file attribute set.");
@@ -1255,11 +1330,8 @@ public final class MainGUI extends javax.swing.JFrame{
         BufferedReader lineReader;
         try{
             try{
-                Path path = DATA.toPath();
-                Boolean hidden = (Boolean) Files.getAttribute(path,"dos:hidden", LinkOption.NOFOLLOW_LINKS);
-                if (hidden != null && hidden) {
-                    Files.setAttribute(path,"dos:hidden", Boolean.FALSE, LinkOption.NOFOLLOW_LINKS);
-                }
+                if(OSUtils.isWindows())
+                    OSUtils.setShow(DATA.toPath());
             }
             catch(Exception e){
                 System.out.println("Not a pc, skipping file attribute set.");
@@ -1303,14 +1375,31 @@ public final class MainGUI extends javax.swing.JFrame{
     
     private static void setLabelToSuccess(JLabel statusLabel){
         statusLabel.setForeground(Color.black);
-        statusLabel.setText("Communications Synced");
+        statusLabel.setText("");//("Communications Synced");
         statusLabel.setToolTipText("The most recently uploaded channels match across devices.");
     }
     
+    /**
+     *
+     * @param selected
+     */
     public static void setTimeLapseButtonSelected(boolean selected){
         timeLapseButton.setSelected(selected);
     }
     
+    /**
+     *This function toggles the enabled status of the button
+     * that brings users to the firmware update utility form.
+     * @param newStatus
+     */
+    public static void setFirmwareUpdateEnabled(boolean newStatus){
+        if(newStatus == true)
+            firmwareButton.setEnabled(true);
+        if(newStatus == false)
+            firmwareButton.setEnabled(false);
+        firmwareButton.setToolTipText("Unable to upload new programming to device. "
+                                     +"Some necessary files are missing.");
+    }
     private static void setUpDialogFrame(){
         dialogFrame.setSize(400, 100);
         dialogFrame.setLayout(new BorderLayout());
@@ -1340,6 +1429,14 @@ public final class MainGUI extends javax.swing.JFrame{
             }
         });
     }                
+    
+    private static void showSplashScreen(){
+        splash = new SplashForm();
+    }
+    
+    private static void hideSplashScreen(){
+        splash.hide();
+    }
     
     public void checkLabel(boolean rLabel){
         if(rLabel){
@@ -1437,7 +1534,7 @@ public final class MainGUI extends javax.swing.JFrame{
     private boolean editLock = false;
     private static final JFrame dialogFrame = new JFrame();    
     private static TimeLapse timeLapseWindow = null;
-    private static FirmwareUtility firmwareUtility = null;
+    protected static FirmwareUtility firmwareUtility = null;
     private static final int MAX_VELOCITY = 32768;
     private static final int MAX_ACCELERATION = 1024;
     private static final int MAX_CHANNEL = 81;
@@ -1445,9 +1542,9 @@ public final class MainGUI extends javax.swing.JFrame{
     private static final String TIMELAPSE_ACTIVE_TOOLTIP = "A calculator utility for setting up timelapse shots.";
     private static final String TIMELAPSE_INACTIVE_TOOLTIP = "Calclutor cannot be used without polling saved " + 
                                                              "positions from your TXR";
-    public static final String lenzhoundDirectory = System.getProperty("user.home") 
-            + File.separator + "Lenzhound" + File.separator;
-    private static final File DATA = new File(lenzhoundDirectory + ".data.txt");
+    private static SplashForm splash;
+    public static String lenzhoundDirectory = null;
+    private static File DATA = null;//
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JLabel accelerationLabel;
     private javax.swing.JSlider accelerationSlider;
@@ -1457,11 +1554,12 @@ public final class MainGUI extends javax.swing.JFrame{
     private javax.swing.JButton defaultButton;
     private javax.swing.JButton deleteButton;
     private javax.swing.JButton exitButton;
-    private javax.swing.JButton firmwareButton;
+    protected static javax.swing.JButton firmwareButton;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel2;
     private javax.swing.JPanel jPanel1;
     private javax.swing.JPanel jPanel2;
+    private javax.swing.JLabel logoLabel;
     private javax.swing.JButton newButton;
     private javax.swing.JLabel normalModeLabel;
     private javax.swing.JComboBox powerAmpComboBox;

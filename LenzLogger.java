@@ -8,8 +8,11 @@ package lenzhoundgui;
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
+import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 
 /**
@@ -24,6 +27,20 @@ public final class LenzLogger {
     
     private LenzLogger(){
         
+    }
+    
+    public static void logOnly(String output){
+        try {
+            myWriter.write(output);
+        } catch (IOException e) {
+            if(showErrorDialogs)
+                    JOptionPane.showMessageDialog(null,
+                        //the following line cuts off the Java.IOException
+                        //prefix to the error string
+                        e.toString().split(":")[1],
+                        "Alert", JOptionPane.ERROR_MESSAGE);
+                System.out.println(e.toString());
+        }
     }
     
     //Call this method with the directory you wish your logs to be written to
@@ -91,6 +108,42 @@ public final class LenzLogger {
                     "Alert", JOptionPane.ERROR_MESSAGE);
             System.out.println(e.toString());
         }
+    }
+    
+    public static void log(String[] arrOut, boolean makeNewLine, int indents){
+        for(String s : arrOut){
+            StringBuilder b = new StringBuilder(s);
+            for(int i = 0; i < indents; i++)
+                b.insert(0, '\t');
+            if(makeNewLine)
+                log(s,true);
+            else
+                log(s);
+        }
+    }
+    
+    public static void log(String[] arrOut, boolean makeNewLine){
+        if(makeNewLine)
+            for(String s : arrOut){
+                s = s + '\n';
+            }
+        log(arrOut);
+    }
+    
+    public static void log(String[] arrOut, int indents){
+        StringBuilder b = new StringBuilder(arrOut[0]);
+        for(int i = 0; i < indents; i++)
+            b.insert(0, '\t');
+        arrOut[0] = b.toString();
+        for(String s : arrOut){
+            s = s + ' ';
+        }
+        log(arrOut);
+    }
+    
+    public static void log(String[] arrOut){
+        for(String s : arrOut)
+            log(s);
     }
     
     public static boolean close(){
