@@ -198,13 +198,14 @@ public class CameraSettings {
         return savedPositions;
     }
     
-    public static boolean readImport(SerialCommunicator comms, CameraSettings target, MainGUI gui) throws SerialPortException{
+    public static boolean readImport(SerialCommunicator comms, CameraSettings target, DigUploader gui) throws SerialPortException{
         String[] temp;
         boolean startPointFound = false;
         int startPoint = 0;
         try{
             LenzLogger.log("Begining Import");
             for(int i = 0; startPointFound == false && i < 10; i++){//timeout
+                int type = 0; //1 motor, 2 transmitter, 0 not finding correct device
                 LenzLogger.log("Attempt:" + (i+ 1));               
                 String hold = comms.serialRead();
                 if(hold == null)
@@ -214,6 +215,13 @@ public class CameraSettings {
                 LenzLogger.log("Lines read:" + temp.length);
                 for(int j = 0; j < temp.length; j++){                    
                     if(startPointFound == false){
+                        if(temp[j].contains("Available commands")){
+                            if(temp[j].contains("Dogbone")){
+                                type = 1;
+                            } else if (temp[j].contains("Txr")){
+                                type = 2;
+                            }
+                        }
                         if(temp[j]!= null && temp[j].contains("Current values")){
                             LenzLogger.log("Starting point found in: " + temp[j]);
                             startPoint = j;
@@ -233,35 +241,42 @@ public class CameraSettings {
                 }
 
                 if(!deviceContents.isEmpty()){
-                    if(deviceContents.get(1).contains("Max Vel:")){//receiver
-                        LenzLogger.log("Contents size 8");
+                    if(type == 1){//receiver
+                        int counter = 0;
                         //velocity
-                        String holder = deviceContents.get(1).split(": ")[1];
+                        while(!(deviceContents.get(counter).contains("Vel")))
+                            counter++;
+                        String holder = deviceContents.get(counter).split(": ")[1];
                         holder = holder.replaceAll("\\s","");//removes space at the end
                         LenzLogger.log("Setting velocity: " + holder);
                         target.setVelocity(Integer.parseInt(holder));
                         //acceleration
-                        holder = deviceContents.get(2).split(": ")[1];
+                        while(!(deviceContents.get(counter).contains("Accel")))
+                            counter++;
+                        holder = deviceContents.get(counter).split(": ")[1];
                         holder = holder.replaceAll("\\s","");
                         LenzLogger.log("Setting acceleration: " + holder);
                         target.setAcceleration(Integer.parseInt(holder));
                         //channel
-                        holder = deviceContents.get(4).split(": ")[1];
+                        while(!(deviceContents.get(counter).contains("Channel")))
+                            counter++;
+                        holder = deviceContents.get(counter).split(": ")[1];
                         holder = holder.replaceAll("\\s","");
                         LenzLogger.log("Setting channel: " + holder);
                         target.setChannel(Integer.parseInt(holder));
                         gui.lastRChannel = target.getChannel();
                         gui.checkLabel(true);
-                        int adjuster = 0;
-                        if(!deviceContents.get(6).contains("Max Vel"))//handles old firmware, there was an option removed
-                            adjuster++;
                         //zVelocity
-                        holder = deviceContents.get(6+adjuster).split(": ")[1];
+                        while(!(deviceContents.get(counter).contains("ZMode Max Vel")))
+                            counter++;
+                        holder = deviceContents.get(counter).split(": ")[1];
                         holder = holder.replaceAll("\\s","");
                         LenzLogger.log("Setting z-velocity: " + holder);
                         target.setZVelocity(Integer.parseInt(holder));
                         //zAccel
-                        holder = deviceContents.get(7+adjuster).split(": ")[1];
+                        while(!(deviceContents.get(counter).contains("ZMode Accel")))
+                            counter++;
+                        holder = deviceContents.get(counter).split(": ")[1];
                         holder = holder.replaceAll("\\s","");
                         LenzLogger.log("Setting z-acceleration: " + holder);
                         target.setZAcceleration(Integer.parseInt(holder));
@@ -278,60 +293,20 @@ public class CameraSettings {
                                     throw new Exception("Error parsing data: one or more values" +
                                             " out of bounds.");
                     }
-                    /*else if(deviceContents.size() == 9 && deviceContents.get(1).contains("Max Vel:")){//receiver with old firmware
-                        LenzLogger.log("Contents size 9");
-                        //velocity
-                        String holder = deviceContents.get(1).split(": ")[1];   //removes the label at the front of line  
-                        holder = holder.replaceAll("\\s","");                   //removes space at the end
-                        LenzLogger.log("Setting velocity: " + holder);
-                        target.setVelocity(Integer.parseInt(holder));
-                        //acceleration
-                        holder = deviceContents.get(2).split(": ")[1];
-                        holder = holder.replaceAll("\\s","");
-                        LenzLogger.log("Setting acceleration: " + holder);
-                        target.setAcceleration(Integer.parseInt(holder));
-                        //channel
-                        holder = deviceContents.get(4).split(": ")[1];
-                        holder = holder.replaceAll("\\s","");
-                        LenzLogger.log("Setting channel: " + holder);
-                        target.setChannel(Integer.parseInt(holder));
-                        gui.lastRChannel = target.getChannel();
-                        gui.checkLabel(true);
-                        //zVelocity
-                        holder = deviceContents.get(7).split(": ")[1];
-                        holder = holder.replaceAll("\\s","");
-                        LenzLogger.log("Setting z-velocity: " + holder);
-                        target.setZVelocity(Integer.parseInt(holder));
-                        //zAccel
-                        holder = deviceContents.get(8).split(": ")[1];
-                        holder = holder.replaceAll("\\s","");
-                        LenzLogger.log("Setting z-acceleration: " + holder);
-                        target.setZAcceleration(Integer.parseInt(holder));
-                        if(!(   target.getVelocity()        <= MAX_VELOCITY     &&
-                                target.getVelocity()        >= 0                &&
-                                target.getAcceleration()    <= MAX_ACCELERATION &&
-                                target.getAcceleration()    >= 0                &&
-                                target.getChannel()         <= MAX_CHANNEL      &&
-                                target.getChannel()         >= 0                &&
-                                target.getZVelocity()       <= MAX_VELOCITY     &&
-                                target.getZVelocity()       >= 0                &&
-                                target.getZAcceleration()   <= MAX_ACCELERATION &&
-                                target.getZAcceleration()   >= 0))
-                                    throw new Exception("Error parsing data: one or more values" +
-                                            " out of bounds.");
-                    }*/
-                    //else if((deviceContents.size() == 3 || deviceContents.size() == 4) && deviceContents.get(1).contains("Channel")){ //transmitter
-                    else if(deviceContents.get(1).contains("Channel")){
+                    else if(type == 2){
                     LenzLogger.log("transmitter contents");
+                        int counter = 0;
+                        while(!(deviceContents.get(counter).contains("Channel")))
+                            counter++;
                         //channel
-                        String holder = deviceContents.get(1).split(": ")[1];
+                        String holder = deviceContents.get(counter++).split(": ")[1];
                         holder = holder.replaceAll("\\s","");
                         LenzLogger.log("Setting t-channel: " + holder);
                         target.setTChannel(Integer.parseInt(holder));
                         gui.lastTChannel = target.getTChannel();
                         gui.checkLabel(false);
                         //Power Level
-                        holder = deviceContents.get(2).split(": ")[1];
+                        holder = deviceContents.get(counter++).split(": ")[1];
                         holder = holder.replaceAll("\\s","");
                         LenzLogger.log("Setting power-level: " + holder);
                         target.setPowerLevel(Integer.parseInt(holder));
@@ -342,12 +317,12 @@ public class CameraSettings {
                                     throw new Exception("Error parsing data: one or more values" +
                                             " out of bounds.");
                         int y = 3;//next value
-                        while(!(holder = deviceContents.get(y++)).contains("Saved Positions:"))
+                        while(!(holder = deviceContents.get(counter++)).contains("Saved Positions:"))
                             LenzLogger.log("Skipping junk data " + holder);
                         int[] arrHolder = new int[4];
                         try{
                             for(int k = 0; k < 4; k++){
-                                holder = deviceContents.get(y++).trim();
+                                holder = deviceContents.get(counter++).trim();
                                 LenzLogger.log("Saved postion " + k + " " + holder);
                                 arrHolder[k] = Integer.parseInt(holder);
                             }

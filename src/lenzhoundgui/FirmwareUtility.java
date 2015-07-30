@@ -15,12 +15,17 @@ import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.Arrays;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 import javax.swing.JFileChooser;
 import javax.swing.JOptionPane;
 import javax.swing.SwingWorker;
+import javax.swing.UIManager;
+import javax.swing.UnsupportedLookAndFeelException;
 import javax.swing.event.PopupMenuEvent;
 import javax.swing.event.PopupMenuListener;
 import javax.swing.filechooser.FileNameExtensionFilter;
+import javax.swing.plaf.ColorUIResource;
 import javax.swing.text.DefaultCaret;
 import jssc.SerialPortList;
 
@@ -31,7 +36,7 @@ import jssc.SerialPortList;
 public final class FirmwareUtility extends javax.swing.JFrame
                              implements PropertyChangeListener{
     
-    static String updatePath = MainGUI.lenzhoundDirectory + "avr" + File.separator;
+    static String updatePath = DigUploader.lenzhoundDirectory + "avr" + File.separator;
     int TOGGLE_HEIGHT_CONSTANT;
     final JFileChooser fc = new JFileChooser();
     boolean outputHidden = false;
@@ -48,6 +53,7 @@ public final class FirmwareUtility extends javax.swing.JFrame
      */
     public FirmwareUtility() {
         initComponents();
+        UIManager.put("ToolTip.background", new ColorUIResource(255, 247, 200));//ensures none of the tooltips default to gray background
         TOGGLE_HEIGHT_CONSTANT = outputField.getHeight() + 25;
         setUpListeners();
         setLocationRelativeTo(null);
@@ -56,6 +62,9 @@ public final class FirmwareUtility extends javax.swing.JFrame
         fc.setFileFilter(hexFilter);
         updatePortComboBox();
         outputToggleButtonActionPerformed(null);
+        if(!OSUtils.isWindows()&&!OSUtils.isMac()){
+            this.setSize(this.size().width, this.size().height - 30);//Correcting for weird sizing on unix machines
+        }
         
         //auto-scrolls the textarea to the bottom
         DefaultCaret caret = (DefaultCaret)outputField.getCaret();
@@ -87,16 +96,17 @@ public final class FirmwareUtility extends javax.swing.JFrame
     public static void findNecessaryFiles(){
         File avrdude = new File(updatePath + "bin/avrdude");
         File bin = new File(updatePath + "bin/avrdude_bin");
+        File avrdudeUnix = new File(updatePath + "bin/avrdudeUnix");
         if(!avrdude.exists()||!bin.exists()){
             LenzLogger.log("Missing files required for flashing device. Firmware"
                             +" updates will be disabled");
-            MainGUI.setFirmwareUpdateEnabled(false);
+            DigUploader.setFirmwareUpdateEnabled(false);
             return;
         }
-        checkFilePermissions(avrdude,bin);
+        checkFilePermissions(avrdude,bin,avrdudeUnix);
     }
     
-    private static void checkFilePermissions(File avrdude, File bin){
+    private static void checkFilePermissions(File avrdude, File bin, File avrdudeUnix){
         String[] cmd = new String[]{avrdude.getAbsolutePath()};
         StringBuilder b1 = new StringBuilder();
         StringBuilder b2 = new StringBuilder();
@@ -136,10 +146,11 @@ public final class FirmwareUtility extends javax.swing.JFrame
         if(!OSUtils.isWindows()){
             String[] avrPerm = new String[]{"chmod", "755", avrdude.getAbsolutePath()};
             String[] binPerm = new String[]{"chmod", "755", bin.getAbsolutePath()};
+            String[] unixAvr = new String[]{"chmod", "755", avrdudeUnix.getAbsolutePath()};
             try {
                 Runtime.getRuntime().exec(avrPerm);
                 Runtime.getRuntime().exec(binPerm);
-
+                Runtime.getRuntime().exec(unixAvr);
             } catch (IOException ex) {
                 LenzLogger.log("Setting Permissions Failed");            
             }
@@ -213,10 +224,16 @@ public final class FirmwareUtility extends javax.swing.JFrame
                     String portName = fileLocationField.getText();
                     if(portName.startsWith("/dev/"))
                         portName = portName.substring(5);
-                    cmd = new String[]{updatePath + "bin/avrdude", "-F", "-v", "-v",
-                        "-C" + updatePath + "etc/avrdude.conf", "-patmega32u4",
-                        "-cavr109", "-P" + portComboBox.getSelectedItem().toString(),
-                        "-b57600", "-D", "-Uflash:w:" + portName + ":i"};
+                    if(OSUtils.isMac())
+                        cmd = new String[]{updatePath + "bin/avrdude", "-F", "-v", "-v",
+                            "-C" + updatePath + "etc/avrdude.conf", "-patmega32u4",
+                            "-cavr109", "-P" + portComboBox.getSelectedItem().toString(),
+                            "-b57600", "-D", "-Uflash:w:" + portName + ":i"};
+                    else
+                        cmd = new String[]{updatePath + "bin/avrdudeUnix", "-F", "-v", "-v",
+                            "-C" + updatePath + "etc/avrdude.conf", "-patmega32u4",
+                            "-cavr109", "-P" + portComboBox.getSelectedItem().toString(),
+                            "-b57600", "-D", "-Uflash:w:" + portName + ":i"};
                     try {
                         Thread.sleep(4000);
                     } catch (InterruptedException e) {}
@@ -230,7 +247,7 @@ public final class FirmwareUtility extends javax.swing.JFrame
                 outputField.append(Arrays.toString(cmd) + '\n');
                 setProgress(35);
                 process = Runtime.getRuntime().exec(cmd);
-                Thread t = new Thread(() -> {
+                /*Thread t = new Thread(() -> {
                     JOptionPane.showMessageDialog(null,
                             "Device Firmware is being installed, please allow a few "
                             +"moments for the process\n to complete. You may"
@@ -240,7 +257,7 @@ public final class FirmwareUtility extends javax.swing.JFrame
                             "Begining Process",
                             JOptionPane.INFORMATION_MESSAGE);
                 });
-                t.start();
+                t.start();*/
                 uploadProgressBar.setIndeterminate(true);
                 
                 inStream = process.getErrorStream();
@@ -345,10 +362,14 @@ public final class FirmwareUtility extends javax.swing.JFrame
         setResizable(false);
         setType(java.awt.Window.Type.UTILITY);
 
-        fileLocationField.setText("Please select a hex file...");
+        uploadProgressBar.setToolTipText("This shows the current progress of the firmware update.");
+
+        fileLocationField.setText("Locate a firmware file to upload...");
+        fileLocationField.setToolTipText("Locate the hex file containing the new firmware version.");
         fileLocationField.setEnabled(false);
 
         portComboBox.setModel(new javax.swing.DefaultComboBoxModel(new String[] { "Item 1", "Item 2", "Item 3", "Item 4" }));
+        portComboBox.setToolTipText("Select the port to target");
 
         locateButton.setText("Locate File");
         locateButton.addActionListener(new java.awt.event.ActionListener() {

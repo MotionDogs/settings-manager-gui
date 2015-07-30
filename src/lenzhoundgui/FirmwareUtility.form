@@ -89,10 +89,14 @@
   </Layout>
   <SubComponents>
     <Component class="javax.swing.JProgressBar" name="uploadProgressBar">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value="This shows the current progress of the firmware update."/>
+      </Properties>
     </Component>
     <Component class="javax.swing.JTextField" name="fileLocationField">
       <Properties>
-        <Property name="text" type="java.lang.String" value="Please select a hex file..."/>
+        <Property name="text" type="java.lang.String" value="Locate a firmware file to upload..."/>
+        <Property name="toolTipText" type="java.lang.String" value="Locate the hex file containing the new firmware version."/>
         <Property name="enabled" type="boolean" value="false"/>
       </Properties>
     </Component>
@@ -106,6 +110,7 @@
             <StringItem index="3" value="Item 4"/>
           </StringArray>
         </Property>
+        <Property name="toolTipText" type="java.lang.String" value="Select the port to target"/>
       </Properties>
     </Component>
     <Component class="javax.swing.JButton" name="locateButton">

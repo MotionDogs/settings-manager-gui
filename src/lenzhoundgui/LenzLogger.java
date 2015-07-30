@@ -44,7 +44,8 @@ public final class LenzLogger {
     }
     
     //Call this method with the directory you wish your logs to be written to
-    public static boolean initialize(File path){
+    public static boolean initialize(File path, boolean time){
+        timeStamp = time;
         if(myWriter==null){
             try{
                 path = new File(path + File.separator + "logs");
@@ -90,6 +91,10 @@ public final class LenzLogger {
     
     public static void log(String output, boolean makeNewLine){
         try{
+            if(timeStamp){
+                output = '[' + (new SimpleDateFormat("hh:mm:ss").format(new Date()))
+                        + "] " + output;
+            }
             if(makeNewLine){
                 myWriter.write(output + newLine);                
                 System.out.println(output);
@@ -167,4 +172,6 @@ public final class LenzLogger {
     public static void setShowErrorDialogs(boolean newValue){
         showErrorDialogs = newValue;
     }
+    
+    private static boolean timeStamp;
 }

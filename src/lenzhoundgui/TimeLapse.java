@@ -19,11 +19,12 @@ public class TimeLapse extends javax.swing.JFrame {
     /**
      * Creates new form TimeLapse
      */
-    public TimeLapse() {
+    public TimeLapse(DigUploader callback) {
         initComponents();
         setLookAndFeel();
         setUpListeners();
         setLocationRelativeTo(null);
+        gui = callback;
     }
 
     public void setCamera(CameraSettings cameraIn){
@@ -182,6 +183,10 @@ public class TimeLapse extends javax.swing.JFrame {
                 this.hide();
                 String inString = JOptionPane.showInputDialog("How long should the move last?");
                 while(totalDuration == 0){
+                    if(inString==null){//cancel button pressed                        
+                        DigUploader.setTimeLapseButtonSelected(false);
+                        return;
+                    }
                     try{
                         totalDuration = Double.parseDouble(inString);
                     }catch(Exception e){
@@ -216,7 +221,8 @@ public class TimeLapse extends javax.swing.JFrame {
                 return;
             }
 
-            MainGUI.newCameraSettings(timeLapseCamera);
+            DigUploader.newCameraSettings(timeLapseCamera);
+            gui.updateGUIValues();
             this.hide();
         });
         t.start();
@@ -224,7 +230,7 @@ public class TimeLapse extends javax.swing.JFrame {
 
     private void cancelButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_cancelButtonActionPerformed
         this.hide();
-        MainGUI.setTimeLapseButtonSelected(false);
+        DigUploader.setTimeLapseButtonSelected(false);
     }//GEN-LAST:event_cancelButtonActionPerformed
 
     private int roundToNearestWholeNumber(double rawValue){
@@ -239,7 +245,7 @@ public class TimeLapse extends javax.swing.JFrame {
         this.addWindowListener(new WindowAdapter() {
             @Override
             public void windowClosing(WindowEvent e) {
-                MainGUI.setTimeLapseButtonSelected(false);
+                DigUploader.setTimeLapseButtonSelected(false);
             }
 
         });
@@ -280,6 +286,7 @@ public class TimeLapse extends javax.swing.JFrame {
     private CameraSettings timeLapseCamera = null;
     private static final double STEPS_PER_SECOND = 6000;
     private static final int BITSHIFT_CONSTANT = 15;
+    private static DigUploader gui = null;
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JFormattedTextField accelTimeTextField;
     private javax.swing.JButton acceptButton;

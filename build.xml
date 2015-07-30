@@ -71,7 +71,7 @@
 
     -->
 <target name="package-for-store" depends="jar">
-        <property name="store.jar.name" value="Lenzhound_Settings_Manager_"/>
+        <property name="store.jar.name" value="DIG_Uploader_"/>
         <property name="store.dir" value="store"/>
         <property name="store.jar" value="${store.dir}/${store.jar.name}.jar"/>
 
@@ -102,7 +102,7 @@
 <!-- provide the path to the shared native libraries directory -->
 <property name="natives.dir" value="./Lib/natives/"/>
 <!-- provide a base name for your executable. -->
-<property name="standalone.jar.name" value="Lenzhound Settings Manager"/>
+<property name="standalone.jar.name" value="Lenzhound DIG Uploader"/>
 
     <import file="one-jar-ant-task.xml" />
     <target name="dist-all" depends="jar"

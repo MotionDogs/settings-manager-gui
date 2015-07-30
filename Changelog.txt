@@ -1,3 +1,21 @@
+1.2.2  Changes:
+        -GUI more reliably redraws values after TimeLapse.
+        -Changed File names to match the new "DIG Uploader" title
+        -Added timestamping to logs
+        -Timelapse utility responds correctly to cancel button during duration
+            prompt
+1.2.1  Changes:
+        -Edited polling sequence to account for the removal of version number
+            from the consol interface.
+1.2.0  Changes:
+        -Added link to our website
+        -Added a splash screen
+        -Removed status text indicating sync'ed channels.
+1.1.13 Changes:
+        -Changed tooltip colors
+1.1.12 Changes:
+        -Added Linux support via specific avrdude version
+        -Fixed autolayout issues with unix(hopefully, first pass)
 1.1.11 Changes:
         -Detecting and fixing permissions issues on application launch.
 1.1.10 Changes:
