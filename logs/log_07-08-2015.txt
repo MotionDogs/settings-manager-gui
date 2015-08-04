@@ -1,0 +1,221 @@
+GUI opened at 04:08
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Beginning update of all GUI Values
+GUI closed at 04:09
+GUI opened at 05:27
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 05:28
+GUI opened at 05:28
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Beginning update of all GUI Values
+Channel changed to 60
+Scan 0: 
+
+	COM7
+Check success!
+
+1,32768;
+2,256;
+3,0;
+4,60;
+5,3;
+6,0;
+7,32768;
+8,256;
+last-r: 60,last-t: 1
+Beginning update of all GUI Values
+last-r60,last-t:1
+Using file: C:\Users\Thayer\Desktop\Lenzhound GUI\.data.txt
+Beginning file write...
+Writing Base Setup
+Ending file write.
+Beginning update of all GUI Values
+GUI closed at 05:33
+GUI opened at 06:20
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+Begining Import from Device
+Beginning update of all GUI Values
+Scan 0: 
+
+	COM8
+java.lang.NullPointerException
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+Using file: C:\Users\Thayer\Desktop\Lenzhound GUI\.data.txt
+Beginning file write...
+Writing Base Setup
+Ending file write.
+Begining Import from Device
+Beginning update of all GUI Values
+Scan 0: 
+
+	COM8
+jssc.SerialPortException: Port name - COM8; Method name - closePort(); Exception type - Port not opened.
+java.lang.Exception: Port not found
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+Using file: C:\Users\Thayer\Desktop\Lenzhound GUI\.data.txt
+Beginning file write...
+Writing Base Setup
+Ending file write.
+Opening firmware update utility.
+Beginning update of all GUI Values
+Begining Import from Device
+Beginning update of all GUI Values
+Scan 0: 
+
+	COM8
+jssc.SerialPortException: Port name - COM8; Method name - closePort(); Exception type - Port not opened.
+java.lang.Exception: Port not found
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+Using file: C:\Users\Thayer\Desktop\Lenzhound GUI\.data.txt
+Beginning file write...
+Writing Base Setup
+Ending file write.
+Begining Import from Device
+Beginning update of all GUI Values
+Scan 0: 
+
+	COM6
+Not a lenzhound device--check failed.
+
+
+	COM8
+jssc.SerialPortException: Port name - COM8; Method name - closePort(); Exception type - Port not opened.
+java.lang.Exception: Port not found
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+Using file: C:\Users\Thayer\Desktop\Lenzhound GUI\.data.txt
+Beginning file write...
+Writing Base Setup
+Ending file write.
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+GUI closed at 06:22

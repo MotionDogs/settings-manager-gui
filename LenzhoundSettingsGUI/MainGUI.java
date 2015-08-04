@@ -1144,7 +1144,6 @@ public final class MainGUI extends javax.swing.JFrame{
                         JOptionPane.ERROR_MESSAGE);
             }
             else{
-                System.out.println("found power:" + findPower(textValue));
                 textEdit = true;
                 accelerationSlider.setValue(findPower(textValue));
                 cameraList.get(currentCamera).setAcceleration(textValue);

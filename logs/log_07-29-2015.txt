@@ -1,0 +1,2005 @@
+GUI opened at 08:57
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+Begining Import from Device
+Beginning update of all GUI Values
+Scan 0: 
+
+	COM7
+Check success!
+
+Begining Import
+Attempt:1
+Bytes read:314
+	Available commands:Txr
+ 0;                     - This command list
+ 4,<channel>;           - Set Channel Num (1-82)
+ 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Current values
+ Channel: 60
+ PA Level: 3
+ CalPos1: 4616 CalPos2: -10792
+Saved Positions: 
+	3180
+	3488
+	3840
+	4275
+Lines read:13
+	Skipping junk data...Available commands:Txr
+	Skipping junk data... 0;                     - This command list
+	Skipping junk data... 4,<channel>;           - Set Channel Num (1-82)
+	Skipping junk data... 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Starting point found in: Current values
+adding value:  Channel: 60
+adding value:  PA Level: 3
+adding value:  CalPos1: 4616 CalPos2: -10792
+adding value: Saved Positions: 
+adding value: 	3180
+adding value: 	3488
+adding value: 	3840
+adding value: 	4275
+Contents array is 8; retrying...
+Attempt:2
+Bytes read:314
+	Available commands:Txr
+ 0;                     - This command list
+ 4,<channel>;           - Set Channel Num (1-82)
+ 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Current values
+ Channel: 60
+ PA Level: 3
+ CalPos1: 4616 CalPos2: -10792
+Saved Positions: 
+	3180
+	3488
+	3840
+	4275
+Lines read:13
+	Skipping junk data...Available commands:Txr
+	Skipping junk data... 0;                     - This command list
+	Skipping junk data... 4,<channel>;           - Set Channel Num (1-82)
+	Skipping junk data... 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Starting point found in: Current values
+adding value:  Channel: 60
+adding value:  PA Level: 3
+adding value:  CalPos1: 4616 CalPos2: -10792
+adding value: Saved Positions: 
+adding value: 	3180
+adding value: 	3488
+adding value: 	3840
+adding value: 	4275
+Contents array is 8; retrying...
+Attempt:3
+Bytes read:314
+	Available commands:Txr
+ 0;                     - This command list
+ 4,<channel>;           - Set Channel Num (1-82)
+ 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Current values
+ Channel: 60
+ PA Level: 3
+ CalPos1: 4616 CalPos2: -10792
+Saved Positions: 
+	3180
+	3488
+	3840
+	4275
+Lines read:13
+	Skipping junk data...Available commands:Txr
+	Skipping junk data... 0;                     - This command list
+	Skipping junk data... 4,<channel>;           - Set Channel Num (1-82)
+	Skipping junk data... 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Starting point found in: Current values
+adding value:  Channel: 60
+adding value:  PA Level: 3
+adding value:  CalPos1: 4616 CalPos2: -10792
+adding value: Saved Positions: 
+adding value: 	3180
+adding value: 	3488
+adding value: 	3840
+adding value: 	4275
+Contents array is 8; retrying...
+Attempt:4
+Bytes read:314
+	Available commands:Txr
+ 0;                     - This command list
+ 4,<channel>;           - Set Channel Num (1-82)
+ 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Current values
+ Channel: 60
+ PA Level: 3
+ CalPos1: 4616 CalPos2: -10792
+Saved Positions: 
+	3180
+	3488
+	3840
+	4275
+Lines read:13
+	Skipping junk data...Available commands:Txr
+	Skipping junk data... 0;                     - This command list
+	Skipping junk data... 4,<channel>;           - Set Channel Num (1-82)
+	Skipping junk data... 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Starting point found in: Current values
+adding value:  Channel: 60
+adding value:  PA Level: 3
+adding value:  CalPos1: 4616 CalPos2: -10792
+adding value: Saved Positions: 
+adding value: 	3180
+adding value: 	3488
+adding value: 	3840
+adding value: 	4275
+Contents array is 8; retrying...
+Attempt:5
+Bytes read:314
+	Available commands:Txr
+ 0;                     - This command list
+ 4,<channel>;           - Set Channel Num (1-82)
+ 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Current values
+ Channel: 60
+ PA Level: 3
+ CalPos1: 4616 CalPos2: -10792
+Saved Positions: 
+	3180
+	3488
+	3840
+	4275
+Lines read:13
+	Skipping junk data...Available commands:Txr
+	Skipping junk data... 0;                     - This command list
+	Skipping junk data... 4,<channel>;           - Set Channel Num (1-82)
+	Skipping junk data... 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Starting point found in: Current values
+adding value:  Channel: 60
+adding value:  PA Level: 3
+adding value:  CalPos1: 4616 CalPos2: -10792
+adding value: Saved Positions: 
+adding value: 	3180
+adding value: 	3488
+adding value: 	3840
+adding value: 	4275
+Contents array is 8; retrying...
+Attempt:6
+Bytes read:314
+	Available commands:Txr
+ 0;                     - This command list
+ 4,<channel>;           - Set Channel Num (1-82)
+ 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Current values
+ Channel: 60
+ PA Level: 3
+ CalPos1: 4616 CalPos2: -10792
+Saved Positions: 
+	3180
+	3488
+	3840
+	4275
+Lines read:13
+	Skipping junk data...Available commands:Txr
+	Skipping junk data... 0;                     - This command list
+	Skipping junk data... 4,<channel>;           - Set Channel Num (1-82)
+	Skipping junk data... 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Starting point found in: Current values
+adding value:  Channel: 60
+adding value:  PA Level: 3
+adding value:  CalPos1: 4616 CalPos2: -10792
+adding value: Saved Positions: 
+adding value: 	3180
+adding value: 	3488
+adding value: 	3840
+adding value: 	4275
+Contents array is 8; retrying...
+Attempt:7
+Bytes read:314
+	Available commands:Txr
+ 0;                     - This command list
+ 4,<channel>;           - Set Channel Num (1-82)
+ 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Current values
+ Channel: 60
+ PA Level: 3
+ CalPos1: 4616 CalPos2: -10792
+Saved Positions: 
+	3180
+	3488
+	3840
+	4275
+Lines read:13
+	Skipping junk data...Available commands:Txr
+	Skipping junk data... 0;                     - This command list
+	Skipping junk data... 4,<channel>;           - Set Channel Num (1-82)
+	Skipping junk data... 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Starting point found in: Current values
+adding value:  Channel: 60
+adding value:  PA Level: 3
+adding value:  CalPos1: 4616 CalPos2: -10792
+adding value: Saved Positions: 
+adding value: 	3180
+adding value: 	3488
+adding value: 	3840
+adding value: 	4275
+Contents array is 8; retrying...
+Attempt:8
+Bytes read:314
+	Available commands:Txr
+ 0;                     - This command list
+ 4,<channel>;           - Set Channel Num (1-82)
+ 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Current values
+ Channel: 60
+ PA Level: 3
+ CalPos1: 4616 CalPos2: -10792
+Saved Positions: 
+	3180
+	3488
+	3840
+	4275
+Lines read:13
+	Skipping junk data...Available commands:Txr
+	Skipping junk data... 0;                     - This command list
+	Skipping junk data... 4,<channel>;           - Set Channel Num (1-82)
+	Skipping junk data... 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Starting point found in: Current values
+adding value:  Channel: 60
+adding value:  PA Level: 3
+adding value:  CalPos1: 4616 CalPos2: -10792
+adding value: Saved Positions: 
+adding value: 	3180
+adding value: 	3488
+adding value: 	3840
+adding value: 	4275
+Contents array is 8; retrying...
+Attempt:9
+Bytes read:314
+	Available commands:Txr
+ 0;                     - This command list
+ 4,<channel>;           - Set Channel Num (1-82)
+ 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Current values
+ Channel: 60
+ PA Level: 3
+ CalPos1: 4616 CalPos2: -10792
+Saved Positions: 
+	3180
+	3488
+	3840
+	4275
+Lines read:13
+	Skipping junk data...Available commands:Txr
+	Skipping junk data... 0;                     - This command list
+	Skipping junk data... 4,<channel>;           - Set Channel Num (1-82)
+	Skipping junk data... 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Starting point found in: Current values
+adding value:  Channel: 60
+adding value:  PA Level: 3
+adding value:  CalPos1: 4616 CalPos2: -10792
+adding value: Saved Positions: 
+adding value: 	3180
+adding value: 	3488
+adding value: 	3840
+adding value: 	4275
+Contents array is 8; retrying...
+Attempt:10
+Bytes read:314
+	Available commands:Txr
+ 0;                     - This command list
+ 4,<channel>;           - Set Channel Num (1-82)
+ 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Current values
+ Channel: 60
+ PA Level: 3
+ CalPos1: 4616 CalPos2: -10792
+Saved Positions: 
+	3180
+	3488
+	3840
+	4275
+Lines read:13
+	Skipping junk data...Available commands:Txr
+	Skipping junk data... 0;                     - This command list
+	Skipping junk data... 4,<channel>;           - Set Channel Num (1-82)
+	Skipping junk data... 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Starting point found in: Current values
+adding value:  Channel: 60
+adding value:  PA Level: 3
+adding value:  CalPos1: 4616 CalPos2: -10792
+adding value: Saved Positions: 
+adding value: 	3180
+adding value: 	3488
+adding value: 	3840
+adding value: 	4275
+Contents array is 8; retrying...
+Error importing to: Base Setup
+jssc.SerialPortException: Port name - Lenzhound Device; Method name - Main Port; Exception type - No data found..
+Dumping Contents:
+	0  Channel: 60
+	1  PA Level: 3
+	2  CalPos1: 4616 CalPos2: -10792
+	3 Saved Positions: 
+	4 	3180
+	5 	3488
+	6 	3840
+	7 	4275
+jssc.SerialPortException: Port name - Lenzhound Device; Method name - Main Port; Exception type - No data found..
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+Using file: C:\Users\Thayer\Desktop\Lenzhound GUI\.data.txt
+Beginning file write...
+Writing Base Setup
+Ending file write.
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+GUI closed at 09:24
+GUI opened at 09:24
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+Begining Import from Device
+Beginning update of all GUI Values
+Scan 0: 
+
+	COM7
+Check success!
+
+Begining Import
+Attempt:1
+Bytes read:314
+	Available commands:Txr
+ 0;                     - This command list
+ 4,<channel>;           - Set Channel Num (1-82)
+ 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Current values
+ Channel: 60
+ PA Level: 3
+ CalPos1: 4616 CalPos2: -10792
+Saved Positions: 
+	3180
+	3488
+	3840
+	4275
+Lines read:13
+	Skipping junk data...Available commands:Txr
+	Skipping junk data... 0;                     - This command list
+	Skipping junk data... 4,<channel>;           - Set Channel Num (1-82)
+	Skipping junk data... 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Starting point found in: Current values
+adding value:  Channel: 60
+adding value:  PA Level: 3
+adding value:  CalPos1: 4616 CalPos2: -10792
+adding value: Saved Positions: 
+adding value: 	3180
+adding value: 	3488
+adding value: 	3840
+adding value: 	4275
+Contents array is 8; retrying...
+Attempt:2
+Bytes read:314
+	Available commands:Txr
+ 0;                     - This command list
+ 4,<channel>;           - Set Channel Num (1-82)
+ 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Current values
+ Channel: 60
+ PA Level: 3
+ CalPos1: 4616 CalPos2: -10792
+Saved Positions: 
+	3180
+	3488
+	3840
+	4275
+Lines read:13
+	Skipping junk data...Available commands:Txr
+	Skipping junk data... 0;                     - This command list
+	Skipping junk data... 4,<channel>;           - Set Channel Num (1-82)
+	Skipping junk data... 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Starting point found in: Current values
+adding value:  Channel: 60
+adding value:  PA Level: 3
+adding value:  CalPos1: 4616 CalPos2: -10792
+adding value: Saved Positions: 
+adding value: 	3180
+adding value: 	3488
+adding value: 	3840
+adding value: 	4275
+Contents array is 8; retrying...
+Attempt:3
+Bytes read:314
+	Available commands:Txr
+ 0;                     - This command list
+ 4,<channel>;           - Set Channel Num (1-82)
+ 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Current values
+ Channel: 60
+ PA Level: 3
+ CalPos1: 4616 CalPos2: -10792
+Saved Positions: 
+	3180
+	3488
+	3840
+	4275
+Lines read:13
+	Skipping junk data...Available commands:Txr
+	Skipping junk data... 0;                     - This command list
+	Skipping junk data... 4,<channel>;           - Set Channel Num (1-82)
+	Skipping junk data... 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Starting point found in: Current values
+adding value:  Channel: 60
+adding value:  PA Level: 3
+adding value:  CalPos1: 4616 CalPos2: -10792
+adding value: Saved Positions: 
+adding value: 	3180
+adding value: 	3488
+adding value: 	3840
+adding value: 	4275
+Contents array is 8; retrying...
+Attempt:4
+Bytes read:314
+	Available commands:Txr
+ 0;                     - This command list
+ 4,<channel>;           - Set Channel Num (1-82)
+ 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Current values
+ Channel: 60
+ PA Level: 3
+ CalPos1: 4616 CalPos2: -10792
+Saved Positions: 
+	3180
+	3488
+	3840
+	4275
+Lines read:13
+	Skipping junk data...Available commands:Txr
+	Skipping junk data... 0;                     - This command list
+	Skipping junk data... 4,<channel>;           - Set Channel Num (1-82)
+	Skipping junk data... 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Starting point found in: Current values
+adding value:  Channel: 60
+adding value:  PA Level: 3
+adding value:  CalPos1: 4616 CalPos2: -10792
+adding value: Saved Positions: 
+adding value: 	3180
+adding value: 	3488
+adding value: 	3840
+adding value: 	4275
+Contents array is 8; retrying...
+Attempt:5
+Bytes read:314
+	Available commands:Txr
+ 0;                     - This command list
+ 4,<channel>;           - Set Channel Num (1-82)
+ 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Current values
+ Channel: 60
+ PA Level: 3
+ CalPos1: 4616 CalPos2: -10792
+Saved Positions: 
+	3180
+	3488
+	3840
+	4275
+Lines read:13
+	Skipping junk data...Available commands:Txr
+	Skipping junk data... 0;                     - This command list
+	Skipping junk data... 4,<channel>;           - Set Channel Num (1-82)
+	Skipping junk data... 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Starting point found in: Current values
+adding value:  Channel: 60
+adding value:  PA Level: 3
+adding value:  CalPos1: 4616 CalPos2: -10792
+adding value: Saved Positions: 
+adding value: 	3180
+adding value: 	3488
+adding value: 	3840
+adding value: 	4275
+Contents array is 8; retrying...
+Attempt:6
+Bytes read:314
+	Available commands:Txr
+ 0;                     - This command list
+ 4,<channel>;           - Set Channel Num (1-82)
+ 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Current values
+ Channel: 60
+ PA Level: 3
+ CalPos1: 4616 CalPos2: -10792
+Saved Positions: 
+	3180
+	3488
+	3840
+	4275
+Lines read:13
+	Skipping junk data...Available commands:Txr
+	Skipping junk data... 0;                     - This command list
+	Skipping junk data... 4,<channel>;           - Set Channel Num (1-82)
+	Skipping junk data... 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Starting point found in: Current values
+adding value:  Channel: 60
+adding value:  PA Level: 3
+adding value:  CalPos1: 4616 CalPos2: -10792
+adding value: Saved Positions: 
+adding value: 	3180
+adding value: 	3488
+adding value: 	3840
+adding value: 	4275
+Contents array is 8; retrying...
+Attempt:7
+Bytes read:314
+	Available commands:Txr
+ 0;                     - This command list
+ 4,<channel>;           - Set Channel Num (1-82)
+ 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Current values
+ Channel: 60
+ PA Level: 3
+ CalPos1: 4616 CalPos2: -10792
+Saved Positions: 
+	3180
+	3488
+	3840
+	4275
+Lines read:13
+	Skipping junk data...Available commands:Txr
+	Skipping junk data... 0;                     - This command list
+	Skipping junk data... 4,<channel>;           - Set Channel Num (1-82)
+	Skipping junk data... 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Starting point found in: Current values
+adding value:  Channel: 60
+adding value:  PA Level: 3
+adding value:  CalPos1: 4616 CalPos2: -10792
+adding value: Saved Positions: 
+adding value: 	3180
+adding value: 	3488
+adding value: 	3840
+adding value: 	4275
+Contents array is 8; retrying...
+Attempt:8
+Bytes read:314
+	Available commands:Txr
+ 0;                     - This command list
+ 4,<channel>;           - Set Channel Num (1-82)
+ 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Current values
+ Channel: 60
+ PA Level: 3
+ CalPos1: 4616 CalPos2: -10792
+Saved Positions: 
+	3180
+	3488
+	3840
+	4275
+Lines read:13
+	Skipping junk data...Available commands:Txr
+	Skipping junk data... 0;                     - This command list
+	Skipping junk data... 4,<channel>;           - Set Channel Num (1-82)
+	Skipping junk data... 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Starting point found in: Current values
+adding value:  Channel: 60
+adding value:  PA Level: 3
+adding value:  CalPos1: 4616 CalPos2: -10792
+adding value: Saved Positions: 
+adding value: 	3180
+adding value: 	3488
+adding value: 	3840
+adding value: 	4275
+Contents array is 8; retrying...
+Attempt:9
+Bytes read:314
+	Available commands:Txr
+ 0;                     - This command list
+ 4,<channel>;           - Set Channel Num (1-82)
+ 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Current values
+ Channel: 60
+ PA Level: 3
+ CalPos1: 4616 CalPos2: -10792
+Saved Positions: 
+	3180
+	3488
+	3840
+	4275
+Lines read:13
+	Skipping junk data...Available commands:Txr
+	Skipping junk data... 0;                     - This command list
+	Skipping junk data... 4,<channel>;           - Set Channel Num (1-82)
+	Skipping junk data... 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Starting point found in: Current values
+adding value:  Channel: 60
+adding value:  PA Level: 3
+adding value:  CalPos1: 4616 CalPos2: -10792
+adding value: Saved Positions: 
+adding value: 	3180
+adding value: 	3488
+adding value: 	3840
+adding value: 	4275
+Contents array is 8; retrying...
+Attempt:10
+Bytes read:314
+	Available commands:Txr
+ 0;                     - This command list
+ 4,<channel>;           - Set Channel Num (1-82)
+ 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Current values
+ Channel: 60
+ PA Level: 3
+ CalPos1: 4616 CalPos2: -10792
+Saved Positions: 
+	3180
+	3488
+	3840
+	4275
+Lines read:13
+	Skipping junk data...Available commands:Txr
+	Skipping junk data... 0;                     - This command list
+	Skipping junk data... 4,<channel>;           - Set Channel Num (1-82)
+	Skipping junk data... 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Starting point found in: Current values
+adding value:  Channel: 60
+adding value:  PA Level: 3
+adding value:  CalPos1: 4616 CalPos2: -10792
+adding value: Saved Positions: 
+adding value: 	3180
+adding value: 	3488
+adding value: 	3840
+adding value: 	4275
+Contents array is 8; retrying...
+Error importing to: Base Setup
+jssc.SerialPortException: Port name - Lenzhound Device; Method name - Main Port; Exception type - No data found..
+Dumping Contents:
+	0  Channel: 60
+	1  PA Level: 3
+	2  CalPos1: 4616 CalPos2: -10792
+	3 Saved Positions: 
+	4 	3180
+	5 	3488
+	6 	3840
+	7 	4275
+jssc.SerialPortException: Port name - Lenzhound Device; Method name - Main Port; Exception type - No data found..
+Beginning update of all GUI Values
+Using file: C:\Users\Thayer\Desktop\Lenzhound GUI\.data.txt
+Beginning file write...
+Writing Base Setup
+Ending file write.
+GUI closed at 09:24
+GUI opened at 09:29
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 09:29
+GUI opened at 09:30
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+Begining Import from Device
+Beginning update of all GUI Values
+Scan 0: 
+
+	COM7
+Check success!
+
+Begining Import
+Attempt:1
+Bytes read:314
+	Available commands:Txr
+ 0;                     - This command list
+ 4,<channel>;           - Set Channel Num (1-82)
+ 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Current values
+ Channel: 60
+ PA Level: 3
+ CalPos1: 4616 CalPos2: -10792
+Saved Positions: 
+	3180
+	3488
+	3840
+	4275
+Lines read:13
+	Skipping junk data...Available commands:Txr
+	Skipping junk data... 0;                     - This command list
+	Skipping junk data... 4,<channel>;           - Set Channel Num (1-82)
+	Skipping junk data... 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Starting point found in: Current values
+adding value:  Channel: 60
+adding value:  PA Level: 3
+adding value:  CalPos1: 4616 CalPos2: -10792
+adding value: Saved Positions: 
+adding value: 	3180
+adding value: 	3488
+adding value: 	3840
+adding value: 	4275
+transmitter contents
+Setting t-channel: 3
+Setting power-level: 4616CalPos2
+Error importing to: Base Setup
+java.lang.NumberFormatException: For input string: "4616CalPos2"
+Dumping Contents:
+	0  Channel: 60
+	1  PA Level: 3
+	2  CalPos1: 4616 CalPos2: -10792
+	3 Saved Positions: 
+	4 	3180
+	5 	3488
+	6 	3840
+	7 	4275
+java.lang.NumberFormatException: For input string: "4616CalPos2"
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+Using file: C:\Users\Thayer\Desktop\Lenzhound GUI\.data.txt
+Beginning file write...
+Writing Base Setup
+Ending file write.
+GUI closed at 09:30
+GUI opened at 09:33
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+Begining Import from Device
+Beginning update of all GUI Values
+Scan 0: 
+
+	COM7
+Check success!
+
+Begining Import
+Attempt:1
+Bytes read:314
+	Available commands:Txr
+ 0;                     - This command list
+ 4,<channel>;           - Set Channel Num (1-82)
+ 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Current values
+ Channel: 60
+ PA Level: 3
+ CalPos1: 4616 CalPos2: -10792
+Saved Positions: 
+	3180
+	3488
+	3840
+	4275
+Lines read:13
+	Skipping junk data...Available commands:Txr
+	Skipping junk data... 0;                     - This command list
+	Skipping junk data... 4,<channel>;           - Set Channel Num (1-82)
+	Skipping junk data... 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Starting point found in: Current values
+adding value:  Channel: 60
+adding value:  PA Level: 3
+adding value:  CalPos1: 4616 CalPos2: -10792
+adding value: Saved Positions: 
+adding value: 	3180
+adding value: 	3488
+adding value: 	3840
+adding value: 	4275
+transmitter contents
+Setting t-channel: 60
+Setting power-level: 3
+Skipping junk data  CalPos1: 4616 CalPos2: -10792
+Saved postion 0 3180
+Saved postion 1 3488
+Saved postion 2 3840
+Saved postion 3 4275
+Import Successs!
+Beginning update of all GUI Values
+Using file: C:\Users\Thayer\Desktop\Lenzhound GUI\.data.txt
+Beginning file write...
+Writing Base Setup
+Ending file write.
+GUI closed at 09:33
+GUI opened at 09:34
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+Begining Import from Device
+Beginning update of all GUI Values
+Scan 0: 
+
+	COM7
+Check success!
+
+Begining Import
+Attempt:1
+Bytes read:631
+	Available commands:Dogbone
+ 0;                      - This command list
+ 1,<max velocity>;       - Set Max Velocity (10-48000)
+ 2,<acceleration>;       - Set Acceleration (1-32000)
+ 3,<antenna>;            - Set Antenna (0=integrated; 1=remote)
+ 4,<channel>;            - Set Channel Num (1-82)
+ 5,<PA level>;           - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+ 7,<zmode max velocity>; - Set ZMode Max Velocity (10-48000)
+ 8,<zmode acceleration>; - Set ZMode Acceleration (1-32000)
+Current values
+ Max Vel: 4096
+ Accel: 256
+ Antenna: 0
+ Channel: 60
+ PA Level: 3
+ ZMode Max Vel: 16384
+ ZMode Accel: 256
+
+Lines read:17
+	Skipping junk data...Available commands:Dogbone
+	Skipping junk data... 0;                      - This command list
+	Skipping junk data... 1,<max velocity>;       - Set Max Velocity (10-48000)
+	Skipping junk data... 2,<acceleration>;       - Set Acceleration (1-32000)
+	Skipping junk data... 3,<antenna>;            - Set Antenna (0=integrated; 1=remote)
+	Skipping junk data... 4,<channel>;            - Set Channel Num (1-82)
+	Skipping junk data... 5,<PA level>;           - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+	Skipping junk data... 7,<zmode max velocity>; - Set ZMode Max Velocity (10-48000)
+	Skipping junk data... 8,<zmode acceleration>; - Set ZMode Acceleration (1-32000)
+Starting point found in: Current values
+adding value:  Max Vel: 4096
+adding value:  Accel: 256
+adding value:  Antenna: 0
+adding value:  Channel: 60
+adding value:  PA Level: 3
+adding value:  ZMode Max Vel: 16384
+adding value:  ZMode Accel: 256
+Contents size 8
+Setting velocity: 256
+Setting acceleration: 0
+Setting channel: 3
+Error importing to: Base Setup
+java.lang.IndexOutOfBoundsException: Index: 7, Size: 7
+Dumping Contents:
+	0  Max Vel: 4096
+	1  Accel: 256
+	2  Antenna: 0
+	3  Channel: 60
+	4  PA Level: 3
+	5  ZMode Max Vel: 16384
+	6  ZMode Accel: 256
+java.lang.IndexOutOfBoundsException: Index: 7, Size: 7
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+Using file: C:\Users\Thayer\Desktop\Lenzhound GUI\.data.txt
+Beginning file write...
+Writing Base Setup
+Ending file write.
+Beginning update of all GUI Values
+GUI closed at 09:39
+GUI opened at 09:39
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+Begining Import from Device
+Beginning update of all GUI Values
+Scan 0: 
+
+	COM7
+Check success!
+
+Begining Import
+Attempt:1
+Bytes read:631
+	Available commands:Dogbone
+ 0;                      - This command list
+ 1,<max velocity>;       - Set Max Velocity (10-48000)
+ 2,<acceleration>;       - Set Acceleration (1-32000)
+ 3,<antenna>;            - Set Antenna (0=integrated; 1=remote)
+ 4,<channel>;            - Set Channel Num (1-82)
+ 5,<PA level>;           - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+ 7,<zmode max velocity>; - Set ZMode Max Velocity (10-48000)
+ 8,<zmode acceleration>; - Set ZMode Acceleration (1-32000)
+Current values
+ Max Vel: 4096
+ Accel: 256
+ Antenna: 0
+ Channel: 60
+ PA Level: 3
+ ZMode Max Vel: 16384
+ ZMode Accel: 256
+
+Lines read:17
+	Skipping junk data...Available commands:Dogbone
+	Skipping junk data... 0;                      - This command list
+	Skipping junk data... 1,<max velocity>;       - Set Max Velocity (10-48000)
+	Skipping junk data... 2,<acceleration>;       - Set Acceleration (1-32000)
+	Skipping junk data... 3,<antenna>;            - Set Antenna (0=integrated; 1=remote)
+	Skipping junk data... 4,<channel>;            - Set Channel Num (1-82)
+	Skipping junk data... 5,<PA level>;           - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+	Skipping junk data... 7,<zmode max velocity>; - Set ZMode Max Velocity (10-48000)
+	Skipping junk data... 8,<zmode acceleration>; - Set ZMode Acceleration (1-32000)
+Starting point found in: Current values
+adding value:  Max Vel: 4096
+adding value:  Accel: 256
+adding value:  Antenna: 0
+adding value:  Channel: 60
+adding value:  PA Level: 3
+adding value:  ZMode Max Vel: 16384
+adding value:  ZMode Accel: 256
+Setting velocity: 4096
+Setting acceleration: 256
+Setting channel: 60
+Error importing to: Base Setup
+java.lang.IndexOutOfBoundsException: Index: 7, Size: 7
+Dumping Contents:
+	0  Max Vel: 4096
+	1  Accel: 256
+	2  Antenna: 0
+	3  Channel: 60
+	4  PA Level: 3
+	5  ZMode Max Vel: 16384
+	6  ZMode Accel: 256
+java.lang.IndexOutOfBoundsException: Index: 7, Size: 7
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+Using file: C:\Users\Thayer\Desktop\Lenzhound GUI\.data.txt
+Beginning file write...
+Writing Base Setup
+Ending file write.
+Beginning update of all GUI Values
+GUI closed at 09:40
+GUI opened at 09:41
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+Begining Import from Device
+Beginning update of all GUI Values
+Scan 0: 
+
+	COM7
+Check success!
+
+Begining Import
+Attempt:1
+Bytes read:631
+	Available commands:Dogbone
+ 0;                      - This command list
+ 1,<max velocity>;       - Set Max Velocity (10-48000)
+ 2,<acceleration>;       - Set Acceleration (1-32000)
+ 3,<antenna>;            - Set Antenna (0=integrated; 1=remote)
+ 4,<channel>;            - Set Channel Num (1-82)
+ 5,<PA level>;           - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+ 7,<zmode max velocity>; - Set ZMode Max Velocity (10-48000)
+ 8,<zmode acceleration>; - Set ZMode Acceleration (1-32000)
+Current values
+ Max Vel: 4096
+ Accel: 256
+ Antenna: 0
+ Channel: 60
+ PA Level: 3
+ ZMode Max Vel: 16384
+ ZMode Accel: 256
+
+Lines read:17
+	Skipping junk data...Available commands:Dogbone
+	Skipping junk data... 0;                      - This command list
+	Skipping junk data... 1,<max velocity>;       - Set Max Velocity (10-48000)
+	Skipping junk data... 2,<acceleration>;       - Set Acceleration (1-32000)
+	Skipping junk data... 3,<antenna>;            - Set Antenna (0=integrated; 1=remote)
+	Skipping junk data... 4,<channel>;            - Set Channel Num (1-82)
+	Skipping junk data... 5,<PA level>;           - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+	Skipping junk data... 7,<zmode max velocity>; - Set ZMode Max Velocity (10-48000)
+	Skipping junk data... 8,<zmode acceleration>; - Set ZMode Acceleration (1-32000)
+Starting point found in: Current values
+adding value:  Max Vel: 4096
+adding value:  Accel: 256
+adding value:  Antenna: 0
+adding value:  Channel: 60
+adding value:  PA Level: 3
+adding value:  ZMode Max Vel: 16384
+adding value:  ZMode Accel: 256
+Setting velocity: 4096
+Setting acceleration: 256
+Setting channel: 60
+Setting z-velocity: 16384
+Setting z-acceleration: 256
+Import Successs!
+Beginning update of all GUI Values
+Using file: C:\Users\Thayer\Desktop\Lenzhound GUI\.data.txt
+Beginning file write...
+Writing Base Setup
+Ending file write.
+Begining Import from Device
+Beginning update of all GUI Values
+Scan 0: 
+
+	COM4
+Not a lenzhound device--check failed.
+
+Scan 1: 
+
+	COM4
+Not a lenzhound device--check failed.
+
+Scan 2: 
+
+	COM4
+Not a lenzhound device--check failed.
+
+Scan 3: 
+
+	COM4
+Not a lenzhound device--check failed.
+
+Scan 4: 
+
+	COM4
+Not a lenzhound device--check failed.
+
+Scan 5: 
+
+	COM4
+Not a lenzhound device--check failed.
+
+Scan 6: 
+
+	COM4
+Not a lenzhound device--check failed.
+
+Scan 7: 
+
+	COM4
+Not a lenzhound device--check failed.
+
+Scan 8: 
+
+	COM4
+jssc.SerialPortException: Port name - COM4; Method name - closePort(); Exception type - Port not opened.
+java.lang.Exception: Port not found
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+Using file: C:\Users\Thayer\Desktop\Lenzhound GUI\.data.txt
+Beginning file write...
+Writing Base Setup
+Ending file write.
+Begining Import from Device
+Beginning update of all GUI Values
+Scan 0: 
+
+	COM7
+Check success!
+
+Begining Import
+Attempt:1
+Bytes read:314
+	Available commands:Txr
+ 0;                     - This command list
+ 4,<channel>;           - Set Channel Num (1-82)
+ 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Current values
+ Channel: 60
+ PA Level: 3
+ CalPos1: 4616 CalPos2: -10792
+Saved Positions: 
+	3180
+	3488
+	3840
+	4275
+Lines read:13
+	Skipping junk data...Available commands:Txr
+	Skipping junk data... 0;                     - This command list
+	Skipping junk data... 4,<channel>;           - Set Channel Num (1-82)
+	Skipping junk data... 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Starting point found in: Current values
+adding value:  Channel: 60
+adding value:  PA Level: 3
+adding value:  CalPos1: 4616 CalPos2: -10792
+adding value: Saved Positions: 
+adding value: 	3180
+adding value: 	3488
+adding value: 	3840
+adding value: 	4275
+transmitter contents
+Setting t-channel: 60
+Setting power-level: 3
+Skipping junk data  CalPos1: 4616 CalPos2: -10792
+Saved postion 0 3180
+Saved postion 1 3488
+Saved postion 2 3840
+Saved postion 3 4275
+Import Successs!
+Beginning update of all GUI Values
+Using file: C:\Users\Thayer\Desktop\Lenzhound GUI\.data.txt
+Beginning file write...
+Writing Base Setup
+Ending file write.
+Beginning update of all GUI Values
+GUI closed at 09:55
+GUI opened at 11:22
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+Starting timelapse utility.
+Starting new timelapse calculation.
+Pos1: 0 Pos2: 0
+java.lang.Exception: Either the same saved positions was selected as the starting
+ and target point or both saved positions map to the same
+ location. There must be distance between the points to calculate
+ new settings.
+Beginning update of all GUI Values
+Begining Import from Device
+Beginning update of all GUI Values
+Scan 0: 
+
+	COM7
+Check success!
+
+Begining Import
+Attempt:1
+Bytes read:316
+	Available commands:Txr
+ 0;                     - This command list
+ 4,<channel>;           - Set Channel Num (1-82)
+ 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Current values
+ Channel: 60
+ PA Level: 3
+ CalPos1: 4616 CalPos2: -10792
+Saved Positions: 
+	-2034
+	3488
+	3840
+	-6217
+Lines read:13
+	Skipping junk data...Available commands:Txr
+	Skipping junk data... 0;                     - This command list
+	Skipping junk data... 4,<channel>;           - Set Channel Num (1-82)
+	Skipping junk data... 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Starting point found in: Current values
+adding value:  Channel: 60
+adding value:  PA Level: 3
+adding value:  CalPos1: 4616 CalPos2: -10792
+adding value: Saved Positions: 
+adding value: 	-2034
+adding value: 	3488
+adding value: 	3840
+adding value: 	-6217
+transmitter contents
+Setting t-channel: 60
+Setting power-level: 3
+Skipping junk data  CalPos1: 4616 CalPos2: -10792
+Saved postion 0 -2034
+Saved postion 1 3488
+Saved postion 2 3840
+Saved postion 3 -6217
+Import Successs!
+Beginning update of all GUI Values
+Using file: C:\Users\Thayer\Desktop\Lenzhound GUI\.data.txt
+Beginning file write...
+Writing Base Setup
+Ending file write.
+Beginning update of all GUI Values
+Starting timelapse utility.
+Starting new timelapse calculation.
+Pos1: -2034 Pos2: 3488
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+Final Velocity: 60.37534067400734 Final Acceleration: 0.9999949636607536
+New settings recieved.
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+GUI closed at 11:23
+GUI opened at 11:36
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+Channel changed to 1
+Starting timelapse utility.
+Starting new timelapse calculation.
+Pos1: 0 Pos2: 0
+java.lang.Exception: Either the same saved positions was selected as the starting
+ and target point or both saved positions map to the same
+ location. There must be distance between the points to calculate
+ new settings.
+Beginning update of all GUI Values
+Begining Import from Device
+Beginning update of all GUI Values
+Scan 0: 
+
+	COM7
+Check success!
+
+Begining Import
+Attempt:1
+Bytes read:316
+	Available commands:Txr
+ 0;                     - This command list
+ 4,<channel>;           - Set Channel Num (1-82)
+ 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Current values
+ Channel: 60
+ PA Level: 3
+ CalPos1: 4616 CalPos2: -10792
+Saved Positions: 
+	-2034
+	3488
+	3840
+	-6217
+Lines read:13
+	Skipping junk data...Available commands:Txr
+	Skipping junk data... 0;                     - This command list
+	Skipping junk data... 4,<channel>;           - Set Channel Num (1-82)
+	Skipping junk data... 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Starting point found in: Current values
+adding value:  Channel: 60
+adding value:  PA Level: 3
+adding value:  CalPos1: 4616 CalPos2: -10792
+adding value: Saved Positions: 
+adding value: 	-2034
+adding value: 	3488
+adding value: 	3840
+adding value: 	-6217
+transmitter contents
+Setting t-channel: 60
+Setting power-level: 3
+Skipping junk data  CalPos1: 4616 CalPos2: -10792
+Saved postion 0 -2034
+Saved postion 1 3488
+Saved postion 2 3840
+Saved postion 3 -6217
+Import Successs!
+Beginning update of all GUI Values
+Using file: C:\Users\Thayer\Desktop\Lenzhound GUI\.data.txt
+Beginning file write...
+Writing Base Setup
+Ending file write.
+Using file: C:\Users\Thayer\Desktop\Lenzhound GUI\.data.txt
+Beginning file write...
+Writing Base Setup
+Ending file write.
+Camera at index 0 values saved.
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+Starting timelapse utility.
+Starting new timelapse calculation.
+Pos1: -2034 Pos2: 3488
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+Final Velocity: 490.36557181571817 Final Acceleration: 0.999667663555261
+New settings recieved.
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+GUI closed at 11:39
+11:55GUI opened at 11:55
+11:55GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+11:55Begining component set up.
+11:55Components finished, starting listeners.
+11:55Listeners finished, staring keyboard manager.
+11:55Keyboard manager finished, starting dialog frame.
+11:55Dialog frame finished, starting load of saved settings.
+11:55Length of Entry: 11
+11:55Base Setup
+11:55	0 32768
+11:55	1 256
+11:55	2 0
+11:55	3 1
+11:55	4 3
+11:55	5 0
+11:55	6 32768
+11:55	7 256
+11:55	8 60
+11:55File loading finished, storing settings list
+11:55Successfully stored. Length: 1
+11:55Setting gui values.
+11:55Beginning update of all GUI Values
+11:55Successfully set look and feel of timelapse window.
+11:55[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+11:55Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 60
+	last R-Channel: 1
+11:55Avrdude test failed, likely a permissions issue.
+11:55Setup process finished.
+11:55Beginning update of all GUI Values
+11:55Channel changed to 1
+11:55GUI closed at 11:55
+[11:56:43] GUI opened at 11:56
+[11:56:43] GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+[11:56:43] Begining component set up.
+[11:56:43] Components finished, starting listeners.
+[11:56:43] Listeners finished, staring keyboard manager.
+[11:56:43] Keyboard manager finished, starting dialog frame.
+[11:56:43] Dialog frame finished, starting load of saved settings.
+[11:56:43] Length of Entry: 11
+[11:56:43] Base Setup
+[11:56:43] 	0 32768
+[11:56:43] 	1 256
+[11:56:43] 	2 0
+[11:56:43] 	3 1
+[11:56:43] 	4 3
+[11:56:43] 	5 0
+[11:56:43] 	6 32768
+[11:56:43] 	7 256
+[11:56:43] 	8 60
+[11:56:43] File loading finished, storing settings list
+[11:56:43] Successfully stored. Length: 1
+[11:56:43] Setting gui values.
+[11:56:43] Beginning update of all GUI Values
+[11:56:43] Successfully set look and feel of timelapse window.
+[11:56:43] [Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+[11:56:44] Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 60
+	last R-Channel: 1
+[11:56:44] Avrdude test failed, likely a permissions issue.
+[11:56:44] Setup process finished.
+[11:56:44] Beginning update of all GUI Values
+[11:56:54] Channel changed to 1
+[11:56:56] GUI closed at 11:56
+[12:01:43] GUI opened
+[12:01:43] GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+[12:01:43] Begining component set up.
+[12:01:43] Components finished, starting listeners.
+[12:01:43] Listeners finished, staring keyboard manager.
+[12:01:43] Keyboard manager finished, starting dialog frame.
+[12:01:43] Dialog frame finished, starting load of saved settings.
+[12:01:43] Length of Entry: 11
+[12:01:43] Base Setup
+[12:01:43] 	0 32768
+[12:01:43] 	1 256
+[12:01:43] 	2 0
+[12:01:43] 	3 1
+[12:01:43] 	4 3
+[12:01:43] 	5 0
+[12:01:43] 	6 32768
+[12:01:43] 	7 256
+[12:01:43] 	8 60
+[12:01:43] File loading finished, storing settings list
+[12:01:43] Successfully stored. Length: 1
+[12:01:43] Setting gui values.
+[12:01:43] Beginning update of all GUI Values
+[12:01:43] Successfully set look and feel of timelapse window.
+[12:01:43] [Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+[12:01:44] Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 60
+	last R-Channel: 1
+[12:01:44] Avrdude test failed, likely a permissions issue.
+[12:01:44] Setup process finished.
+[12:01:44] Beginning update of all GUI Values
+[12:01:50] Channel changed to 1
+[12:01:50] Starting timelapse utility.
+[12:01:54] Starting new timelapse calculation.
+[12:01:54] Pos1: -2034 Pos2: 3488
+[12:01:54] Beginning update of all GUI Values
+[12:01:57] Beginning update of all GUI Values
+[12:01:57] Final Velocity: 7095.878274509804 Final Acceleration: 0.9247735466530115
+[12:01:57] New settings recieved.
+[12:01:57] Beginning update of all GUI Values
+[12:02:46] Beginning update of all GUI Values
+[12:02:49] Starting timelapse utility.
+[12:02:56] Starting new timelapse calculation.
+[12:02:56] Pos1: -2034 Pos2: 3488
+[12:02:56] Beginning update of all GUI Values
+[12:03:00] Beginning update of all GUI Values
+[12:03:00] java.lang.NullPointerException
+[12:03:03] Beginning update of all GUI Values
+[12:03:03] java.lang.NumberFormatException: empty String
+[12:03:04] Beginning update of all GUI Values
+[12:03:04] java.lang.NumberFormatException: empty String
+[12:03:05] Beginning update of all GUI Values
+[12:03:05] java.lang.NullPointerException
+[12:03:07] Beginning update of all GUI Values
+[12:03:07] Final Velocity: 490.36557181571817 Final Acceleration: 0.999667663555261
+[12:03:07] New settings recieved.
+[12:03:07] Beginning update of all GUI Values
+[12:04:28] Beginning update of all GUI Values
+[12:05:52] Beginning update of all GUI Values
+[12:06:22] Beginning update of all GUI Values
+[12:06:30] Using file: C:\Users\Thayer\Desktop\Lenzhound GUI\.data.txt
+[12:06:30] GUI closed at 12:06
+[12:06:27] GUI opened
+[12:06:27] GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+[12:06:27] Begining component set up.
+[12:06:28] Components finished, starting listeners.
+[12:06:28] Listeners finished, staring keyboard manager.
+[12:06:28] Keyboard manager finished, starting dialog frame.
+[12:06:28] Dialog frame finished, starting load of saved settings.
+[12:06:28] Length of Entry: 11
+[12:06:28] Base Setup
+[12:06:28] 	0 32768
+[12:06:28] 	1 256
+[12:06:28] 	2 0
+[12:06:28] 	3 1
+[12:06:28] 	4 3
+[12:06:28] 	5 0
+[12:06:28] 	6 32768
+[12:06:28] 	7 256
+[12:06:28] 	8 60
+[12:06:28] File loading finished, storing settings list
+[12:06:28] Successfully stored. Length: 1
+[12:06:28] Setting gui values.
+[12:06:28] Beginning update of all GUI Values
+[12:06:28] Successfully set look and feel of timelapse window.
+[12:06:28] [Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+[12:06:28] Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 60
+	last R-Channel: 1
+[12:06:28] Avrdude test failed, likely a permissions issue.
+[12:06:28] Setup process finished.
+[12:06:29] Beginning update of all GUI Values
+[12:06:33] Channel changed to 1
+[12:06:33] Starting timelapse utility.
+[12:06:36] Beginning update of all GUI Values
+[12:06:38] Starting timelapse utility.
+[12:06:39] Starting new timelapse calculation.
+[12:06:39] Pos1: -2034 Pos2: 3488
+[12:06:39] Beginning update of all GUI Values
+[12:06:40] Beginning update of all GUI Values
+[12:06:40] java.lang.NullPointerException
+[12:06:43] Starting timelapse utility.
+[12:06:45] Beginning update of all GUI Values
+[12:06:50] GUI closed
+[12:11:24] GUI opened
+[12:11:24] GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+[12:11:24] Begining component set up.
+[12:11:25] Components finished, starting listeners.
+[12:11:25] Listeners finished, staring keyboard manager.
+[12:11:25] Keyboard manager finished, starting dialog frame.
+[12:11:25] Dialog frame finished, starting load of saved settings.
+[12:11:25] Length of Entry: 11
+[12:11:25] Base Setup
+[12:11:25] 	0 32768
+[12:11:25] 	1 256
+[12:11:25] 	2 0
+[12:11:25] 	3 1
+[12:11:25] 	4 3
+[12:11:25] 	5 0
+[12:11:25] 	6 32768
+[12:11:25] 	7 256
+[12:11:25] 	8 60
+[12:11:25] File loading finished, storing settings list
+[12:11:25] Successfully stored. Length: 1
+[12:11:25] Setting gui values.
+[12:11:25] Beginning update of all GUI Values
+[12:11:25] Successfully set look and feel of timelapse window.
+[12:11:25] [Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+[12:11:25] Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 60
+	last R-Channel: 1
+[12:11:25] Avrdude test failed, likely a permissions issue.
+[12:11:25] Setup process finished.
+[12:11:26] Beginning update of all GUI Values
+[12:11:39] Channel changed to 1
+[12:11:39] Set tChannel to 60
+[12:11:39] Velocity set to 32768
+[12:11:39] Acceleration set to 256
+[12:11:40] zVelocity set to 32768
+[12:11:41] Acceleration set to 256
+[12:11:41] Velocity set to 32768
+[12:11:41] Set tChannel to 60
+[12:11:42] Channel changed to 1
+[12:11:42] zAcceleration set to 256
+[12:11:42] zVelocity set to 32768
+[12:11:42] Acceleration set to 256
+[12:11:43] zVelocity set to 32768
+[12:11:43] zAcceleration set to 256
+[12:11:43] Channel changed to 1
+[12:11:43] Set tChannel to 60
+[12:11:43] Velocity set to 32768
+[12:11:43] Acceleration set to 256
+[12:11:44] zVelocity set to 32768
+[12:11:44] zAcceleration set to 256
+[12:11:44] Channel changed to 1
+[12:11:44] Set tChannel to 60
+[12:11:44] Velocity set to 32768
+[12:11:44] Acceleration set to 256
+[12:11:45] zVelocity set to 32768
+[12:11:45] zAcceleration set to 256
+[12:11:45] Channel changed to 1
+[12:11:46] Set tChannel to 60
+[12:11:47] Velocity set to 32768
+[12:11:48] Acceleration set to 256
+[12:11:48] zVelocity set to 32768
+[12:11:49] zAcceleration set to 256
+[12:11:50] Channel changed to 1
+[12:11:52] Set tChannel to 60
+[12:11:57] Velocity set to 32768
+[12:12:00] Acceleration set to 256
+[12:12:08] zVelocity set to 32768
+[12:12:10] zAcceleration set to 256
+[12:12:13] Channel changed to 1
+[12:17:45] Beginning update of all GUI Values
+[12:17:46] Channel changed to 1
+[12:17:55] GUI closed
+[12:17:53] GUI opened
+[12:17:53] GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+[12:17:53] Begining component set up.
+[12:17:53] Components finished, starting listeners.
+[12:17:53] Listeners finished, staring keyboard manager.
+[12:17:53] Keyboard manager finished, starting dialog frame.
+[12:17:53] Dialog frame finished, starting load of saved settings.
+[12:17:54] Length of Entry: 11
+[12:17:54] Base Setup
+[12:17:54] 	0 32768
+[12:17:54] 	1 256
+[12:17:54] 	2 0
+[12:17:54] 	3 1
+[12:17:54] 	4 3
+[12:17:54] 	5 0
+[12:17:54] 	6 32768
+[12:17:54] 	7 256
+[12:17:54] 	8 60
+[12:17:54] File loading finished, storing settings list
+[12:17:54] Successfully stored. Length: 1
+[12:17:54] Setting gui values.
+[12:17:54] Beginning update of all GUI Values
+[12:17:54] Successfully set look and feel of timelapse window.
+[12:17:54] [Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+[12:17:54] Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 60
+	last R-Channel: 1
+[12:17:54] Avrdude test failed, likely a permissions issue.
+[12:17:54] Setup process finished.
+[12:17:55] Beginning update of all GUI Values
+[12:18:01] Channel changed to 1
+[12:18:02] Set tChannel to 60
+[12:18:02] Velocity set to 32768
+[12:18:02] Acceleration set to 256
+[12:18:02] zVelocity set to 32768
+[12:18:02] zAcceleration set to 256
+[12:18:03] Channel changed to 1
+[12:18:03] Set tChannel to 60
+[12:18:03] Velocity set to 32768
+[12:18:03] Acceleration set to 256
+[12:18:03] zVelocity set to 32768
+[12:18:04] zAcceleration set to 256
+[12:18:04] Channel changed to 1
+[12:18:04] Set tChannel to 60
+[12:18:04] Velocity set to 32768
+[12:18:04] Acceleration set to 256
+[12:18:05] zVelocity set to 32768
+[12:18:05] zAcceleration set to 256
+[12:18:05] Channel changed to 1
+[12:18:05] Set tChannel to 60
+[12:18:05] Velocity set to 32768
+[12:18:05] Acceleration set to 256
+[12:18:06] zVelocity set to 32768
+[12:18:06] zAcceleration set to 256
+[12:18:06] Channel changed to 1
+[12:18:06] Set tChannel to 60
+[12:18:07] Velocity set to 32768
+[12:18:07] Acceleration set to 256
+[12:18:07] zVelocity set to 32768
+[12:18:07] zAcceleration set to 256
+[12:18:11] Channel changed to 1
+[12:18:13] GUI closed
+[12:18:52] GUI opened
+[12:18:52] GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+[12:18:52] Begining component set up.
+[12:18:53] Components finished, starting listeners.
+[12:18:53] Listeners finished, staring keyboard manager.
+[12:18:53] Keyboard manager finished, starting dialog frame.
+[12:18:53] Dialog frame finished, starting load of saved settings.
+[12:18:53] Length of Entry: 11
+[12:18:53] Base Setup
+[12:18:53] 	0 32768
+[12:18:53] 	1 256
+[12:18:53] 	2 0
+[12:18:53] 	3 1
+[12:18:53] 	4 3
+[12:18:53] 	5 0
+[12:18:53] 	6 32768
+[12:18:53] 	7 256
+[12:18:53] 	8 60
+[12:18:53] File loading finished, storing settings list
+[12:18:53] Successfully stored. Length: 1
+[12:18:53] Setting gui values.
+[12:18:53] Beginning update of all GUI Values
+[12:18:53] Successfully set look and feel of timelapse window.
+[12:18:53] [Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+[12:18:54] Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 60
+	last R-Channel: 1
+[12:18:54] Avrdude test failed, likely a permissions issue.
+[12:18:54] Setup process finished.
+[12:18:54] Beginning update of all GUI Values
+[12:19:07] Channel changed to 1
+[12:19:07] Starting timelapse utility.
+[12:23:04] Beginning update of all GUI Values
+[12:23:05] Starting new timelapse calculation.
+[12:23:05] Pos1: 0 Pos2: 0
+[12:23:05] java.lang.Exception: Either the same saved positions was selected as the starting
+ and target point or both saved positions map to the same
+ location. There must be distance between the points to calculate
+ new settings.
+[12:23:10] Beginning update of all GUI Values
+[12:23:11] Begining Import from Device
+[12:23:13] Beginning update of all GUI Values
+[12:23:13] Scan 0: 
+[12:23:13] 
+	COM7
+[12:23:13] Check success!
+
+[12:23:13] Begining Import
+[12:23:13] Attempt:1
+[12:23:13] Bytes read:316
+[12:23:13] 	Available commands:Txr
+ 0;                     - This command list
+ 4,<channel>;           - Set Channel Num (1-82)
+ 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+Current values
+ Channel: 60
+ PA Level: 3
+ CalPos1: 4616 CalPos2: -10792
+Saved Positions: 
+	-2034
+	3488
+	3840
+	-6217
+[12:23:14] Lines read:13
+[12:23:14] 	Skipping junk data...Available commands:Txr
+[12:23:14] 	Skipping junk data... 0;                     - This command list
+[12:23:14] 	Skipping junk data... 4,<channel>;           - Set Channel Num (1-82)
+[12:23:14] 	Skipping junk data... 5,<PA level>;          - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+[12:23:14] Starting point found in: Current values
+[12:23:14] adding value:  Channel: 60
+[12:23:14] adding value:  PA Level: 3
+[12:23:14] adding value:  CalPos1: 4616 CalPos2: -10792
+[12:23:14] adding value: Saved Positions: 
+[12:23:14] adding value: 	-2034
+[12:23:14] adding value: 	3488
+[12:23:14] adding value: 	3840
+[12:23:14] adding value: 	-6217
+[12:23:14] transmitter contents
+[12:23:14] Setting t-channel: 60
+[12:23:14] Setting power-level: 3
+[12:23:14] Skipping junk data  CalPos1: 4616 CalPos2: -10792
+[12:23:14] Saved postion 0 -2034
+[12:23:14] Saved postion 1 3488
+[12:23:14] Saved postion 2 3840
+[12:23:14] Saved postion 3 -6217
+[12:23:14] Import Successs!
+[12:23:14] Beginning update of all GUI Values
+[12:23:14] Using file: C:\Users\Thayer\Desktop\Lenzhound GUI\.data.txt
+[12:23:14] Beginning file write...
+[12:23:14] Writing Base Setup
+[12:23:14] Ending file write.
+[12:23:14] Starting timelapse utility.
+[12:23:15] Starting new timelapse calculation.
+[12:23:15] Pos1: -2034 Pos2: 3488
+[12:23:15] Beginning update of all GUI Values
+[12:26:49] Beginning update of all GUI Values
+[12:26:49] Final Velocity: 488.57809099500474 Final Acceleration: 0.9996700828036669
+[12:26:49] New settings recieved.
+[12:26:49] Beginning update of all GUI Values
+[12:26:52] GUI closed
+[12:33:31] GUI opened
+[12:33:31] GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+[12:33:31] Begining component set up.
+[12:33:31] Components finished, starting listeners.
+[12:33:31] Listeners finished, staring keyboard manager.
+[12:33:31] Keyboard manager finished, starting dialog frame.
+[12:33:31] Dialog frame finished, starting load of saved settings.
+[12:33:31] Length of Entry: 11
+[12:33:31] Base Setup
+[12:33:31] 	0 32768
+[12:33:31] 	1 256
+[12:33:31] 	2 0
+[12:33:31] 	3 1
+[12:33:31] 	4 3
+[12:33:31] 	5 0
+[12:33:31] 	6 32768
+[12:33:31] 	7 256
+[12:33:31] 	8 60
+[12:33:31] File loading finished, storing settings list
+[12:33:31] Successfully stored. Length: 1
+[12:33:31] Setting gui values.
+[12:33:31] Beginning update of all GUI Values
+[12:33:31] Successfully set look and feel of timelapse window.
+[12:33:31] [Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+[12:33:32] Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 60
+	last R-Channel: 1
+[12:33:32] Avrdude test failed, likely a permissions issue.
+[12:33:32] Setup process finished.
+[12:33:32] Beginning update of all GUI Values
+[12:33:44] Channel changed to 1
+[12:37:30] Beginning update of all GUI Values
+[12:37:32] Channel changed to 1
+[12:37:33] GUI closed
