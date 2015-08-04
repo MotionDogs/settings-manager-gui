@@ -1,0 +1,5659 @@
+GUI opened at 10:38
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+java.io.IOException: Saved data not found. A new file will be created.
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 10:38
+GUI opened at 10:40
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+java.io.IOException: Saved data not found. A new file will be created.
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+Beginning update of all GUI Values
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+Opening firmware update utility.
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+Check success!
+
+Update Started...
+	Buffer flushed
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	Port Reset
+Starting Ports: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+Beginning update of all GUI Values
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+GUI closed at 10:41
+GUI opened at 10:43
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+java.io.IOException: Saved data not found. A new file will be created.
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+Beginning update of all GUI Values
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+Opening firmware update utility.
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 1: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 2: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 3: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 4: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 5: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+Scan 6: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+Scan 7: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 8: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 9: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+
+Could not find serial port.
+Update Started...
+Unable to initially open port. Ensure the correct port is being targeted. Process is beingaborted.
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+Beginning update of all GUI Values
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+GUI closed at 10:44
+GUI opened at 10:55
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+java.io.IOException: Saved data not found. A new file will be created.
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+Beginning update of all GUI Values
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+GUI closed at 10:55
+GUI opened at 12:28
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+java.io.IOException: Saved data not found. A new file will be created.
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+Beginning update of all GUI Values
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+Opening firmware update utility.
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+Check success!
+
+Update Started...
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	Buffer flushed
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	Port Reset
+Starting Ports: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	/Users/Alken/Documents/Lenhound GUI Development/Builds/LenzhoundGUI/avr/avrdude -v -C /Users/Alken/Documents/Lenhound GUI Development/Builds/LenzhoundGUI/avr/avrdude.conf -p atmega32u4 -cavr109 -P /dev/tty.usbmodem1491 -b19200 -Uflash:w:/Users/Alken/Downloads/Rxr.cpp.hex:i
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+Beginning update of all GUI Values
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+
+	Current Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+GUI closed at 12:29
+GUI opened at 12:29
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+java.io.IOException: Saved data not found. A new file will be created.
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+Starting Ports: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	/Users/Alken/Documents/Lenhound GUI Development/Builds/LenzhoundGUI/avr/avrdude -v -C /Users/Alken/Documents/Lenhound GUI Development/Builds/LenzhoundGUI/avr/avrdude.conf -p atmega32u4 -cavr109 -P /dev/tty.usbmodem1491 -b19200 -Uflash:w:/Users/Alken/Downloads/Rxr.cpp.hex:i
+Beginning update of all GUI Values
+GUI closed at 12:30
+GUI opened at 12:33
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+java.io.IOException: Saved data not found. A new file will be created.
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+Starting Ports: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	"/Users/Alken/Documents/Lenhound GUI Development/Builds/LenzhoundGUI/avr/avrdude" -v -C /Users/Alken/Documents/Lenhound GUI Development/Builds/LenzhoundGUI/avr/avrdude.conf -p atmega32u4 -cavr109 -P /dev/tty.usbmodem1491 -b19200 -Uflash:w:/Users/Alken/Downloads/Rxr.cpp.hex:i
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+GUI closed at 12:41
+GUI opened at 12:41
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+java.io.IOException: Saved data not found. A new file will be created.
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+Starting Ports: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	/Users/Alken/Documents/Lenhound\GUI\Development/Builds/LenzhoundGUI/avr/avrdude -v -C /Users/Alken/Documents/Lenhound\GUI\Development/Builds/LenzhoundGUI/avr/avrdude.conf -p atmega32u4 -cavr109 -P /dev/tty.usbmodem1491 -b19200 -Uflash:w:/Users/Alken/Downloads/Rxr.cpp.hex:i
+Beginning update of all GUI Values
+GUI closed at 12:41
+GUI opened at 12:42
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+java.io.IOException: Saved data not found. A new file will be created.
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 1: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 2: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 3: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 4: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 5: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 6: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 7: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 8: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 9: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+
+Could not find serial port.
+Update Started...
+Unable to initially open port. Ensure the correct port is being targeted. Process is beingaborted.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Beginning update of all GUI Values
+GUI closed at 12:43
+GUI opened at 12:45
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+java.io.IOException: Saved data not found. A new file will be created.
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Using file: /Users/Alken/Documents/Lenhound GUI Development/Builds/LenzhoundGUI/.data.txt
+java.lang.UnsupportedOperationException: View 'dos' not available
+Beginning file write...
+Writing Base Setup
+Ending file write.
+Not a pc, skipping file attribute set.
+Camera at index 0 values saved.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+Starting Ports: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	/Users/Alken/Documents/Lenhound\ GUI\ Development/Builds/LenzhoundGUI/avr/avrdude -v -C /Users/Alken/Documents/Lenhound\ GUI\ Development/Builds/LenzhoundGUI/avr/avrdude.conf -p atmega32u4 -cavr109 -P /dev/tty.usbmodem1491 -b19200 -Uflash:w:/Users/Alken/Downloads/Rxr.cpp.hex:i
+Beginning update of all GUI Values
+GUI closed at 12:47
+GUI opened at 12:47
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 1: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 2: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 3: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 4: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 5: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 6: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 7: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 8: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 9: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+
+Could not find serial port.
+Update Started...
+Unable to initially open port. Ensure the correct port is being targeted. Process is beingaborted.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+Starting Ports: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	/Users/Alken/Documents/Lenhound%GUI%Development/Builds/LenzhoundGUI/avr/avrdude -v -C /Users/Alken/Documents/Lenhound%GUI%Development/Builds/LenzhoundGUI/avr/avrdude.conf -p atmega32u4 -cavr109 -P /dev/tty.usbmodem1491 -b19200 -Uflash:w:/Users/Alken/Downloads/Rxr.cpp.hex:i
+Beginning update of all GUI Values
+GUI closed at 12:49
+GUI opened at 12:49
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 1: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 2: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 3: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 4: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 5: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 6: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 7: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 8: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 9: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+
+Could not find serial port.
+Update Started...
+Unable to initially open port. Ensure the correct port is being targeted. Process is beingaborted.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+Starting Ports: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	/Users/Alken/Documents/LenhoundGUIDevelopment/Builds/LenzhoundGUI/avr/avrdude -v -C /Users/Alken/Documents/LenhoundGUIDevelopment/Builds/LenzhoundGUI/avr/avrdude.conf -p atmega32u4 -cavr109 -P /dev/tty.usbmodem1491 -b19200 -Uflash:w:/Users/Alken/Downloads/Rxr.cpp.hex:i
+/Users/Alken/Documents/LenhoundGUIDevelopment/Builds/LenzhoundGUI/avr/avrdude: line 4: /Users/Alken/Documents/LenhoundGUIDevelopment/Builds/LenzhoundGUI/avr/avrdude_bin: No such file or directory
+/Users/Alken/Documents/LenhoundGUIDevelopment/Builds/LenzhoundGUI/avr/avrdude: line 4: exec: /Users/Alken/Documents/LenhoundGUIDevelopment/Builds/LenzhoundGUI/avr/avrdude_bin: cannot execute: No such file or directory
+Device update failed.
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+Starting Ports: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	/Users/Alken/Documents/LenhoundGUIDevelopment/Builds/LenzhoundGUI/avr/avrdude -v -C /Users/Alken/Documents/LenhoundGUIDevelopment/Builds/LenzhoundGUI/avr/avrdude.conf -p atmega32u4 -cavr109 -P /dev/tty.usbmodem1491 -b19200 -Uflash:w:/Users/Alken/Downloads/Rxr.cpp.hex:i
+/Users/Alken/Documents/LenhoundGUIDevelopment/Builds/LenzhoundGUI/avr/avrdude: line 4: /Users/Alken/Documents/LenhoundGUIDevelopment/Builds/LenzhoundGUI/avr/avrdude_bin: Permission denied
+/Users/Alken/Documents/LenhoundGUIDevelopment/Builds/LenzhoundGUI/avr/avrdude: line 4: exec: /Users/Alken/Documents/LenhoundGUIDevelopment/Builds/LenzhoundGUI/avr/avrdude_bin: cannot execute: Undefined error: 0
+Device update failed.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 1: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 2: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 3: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 4: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 5: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 6: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 7: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 8: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+Scan 9: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+jssc.SerialPortTimeoutException: Port name - /dev/tty.usbmodem1491; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.usbmodem1491 has failed.
+
+Could not find serial port.
+Update Started...
+Unable to initially open port. Ensure the correct port is being targeted. Process is beingaborted.
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+GUI closed at 01:04
+GUI opened at 01:05
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+
+	/dev/tty.serial1
+jssc.SerialPortTimeoutException: Port name - /dev/tty.serial1; Method name - readBytes(); Serial port operation timeout (250 ms).
+/dev/tty.serial1 has failed.
+
+	/dev/tty.usbmodem1491
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+Starting Ports: [/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	[/dev/tty.serial1, /dev/tty.usbmodem1491]
+	/Users/Alken/Documents/LenhoundGUIDevelopment/Builds/LenzhoundGUI/avr/avrdude -v -C /Users/Alken/Documents/LenhoundGUIDevelopment/Builds/LenzhoundGUI/avr/avrdude.conf -p atmega32u4 -cavr109 -P /dev/tty.usbmodem1491 -b19200 -Uflash:w:/Users/Alken/Downloads/Rxr.cpp.hex:i
+/Users/Alken/Documents/LenhoundGUIDevelopment/Builds/LenzhoundGUI/avr/avrdude: line 4: /Users/Alken/Documents/LenhoundGUIDevelopment/Builds/LenzhoundGUI/avr/avrdude_bin: cannot execute binary file
+/Users/Alken/Documents/LenhoundGUIDevelopment/Builds/LenzhoundGUI/avr/avrdude: line 4: /Users/Alken/Documents/LenhoundGUIDevelopment/Builds/LenzhoundGUI/avr/avrdude_bin: Undefined error: 0
+Device update failed.
+Beginning update of all GUI Values
+GUI closed at 01:06

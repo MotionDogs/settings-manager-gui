@@ -1,0 +1,5876 @@
+GUI opened at 09:26
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.usbmodemfd141]
+
+	/dev/tty.usbmodemfd141
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+Starting Ports: [/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/avrdude -v -C /Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/avrdude.conf -p atmega32u4 -cavr109 -P /dev/tty.usbmodemfd141 -b19200 -Uflash:w:/Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:i
+/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/avrdude: line 4: /Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/avrdude_bin: cannot execute binary file
+/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/avrdude: line 4: /Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/avrdude_bin: Undefined error: 0
+Device update failed.
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.usbmodemfd141]
+
+	/dev/tty.usbmodemfd141
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+Starting Ports: [/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/avrdude -v -C /Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/avrdude.conf -p atmega32u4 -cavr109 -P /dev/tty.usbmodemfd141 -b19200 -Uflash:w:/Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:i
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.usbmodemfd141]
+
+	/dev/tty.usbmodemfd141
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+Starting Ports: [/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/avrdude -v -C /Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/avrdude.conf -p atmega32u4 -cavr109 -P /dev/tty.usbmodemfd141 -b19200 -Uflash:w:/Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:i
+Beginning update of all GUI Values
+GUI closed at 09:37
+GUI opened at 09:39
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.usbmodemfd141]
+
+	/dev/tty.usbmodemfd141
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+Starting Ports: [/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/avrdude -v -C /Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/avrdude.conf -p atmega32u4 -cavr109 -P /dev/tty.usbmodemfd141 -b19200 -Uflash:w:/Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:i
+/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/avrdude: /Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/avrdude: cannot execute binary file
+Device update failed.
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+GUI closed at 09:47
+GUI opened at 09:47
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.usbmodemfd141]
+
+	/dev/tty.usbmodemfd141
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+Starting Ports: [/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/avrdude -v -C /Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/avrdude.conf -p atmega32u4 -cavr109 -P /dev/tty.usbmodemfd141 -b19200 -Uflash:w:/Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:i
+/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/avrdude: /Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/avrdude: cannot execute binary file
+Device update failed.
+Beginning update of all GUI Values
+Using file: /Users/edit_omega/Desktop/Builds/LenzhoundGUI/.data.txt
+GUI closed at 09:48
+GUI opened at 09:49
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.usbmodemfd141]
+
+	/dev/tty.usbmodemfd141
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+Starting Ports: [/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/Mavrdude -v -C /Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/avrdude.conf -p atmega32u4 -cavr109 -P /dev/tty.usbmodemfd141 -b19200 -Uflash:w:/Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:i
+/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/Mavrdude: /Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/Mavrdude: cannot execute binary file
+Device update failed.
+Beginning update of all GUI Values
+GUI closed at 09:50
+GUI opened at 09:51
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.usbmodemfd141]
+
+	/dev/tty.usbmodemfd141
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+Starting Ports: [/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/Mavrdude -v -C /Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/Mavrdude.conf -p atmega32u4 -cavr109 -P /dev/tty.usbmodemfd141 -b19200 -Uflash:w:/Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:i
+/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/Mavrdude: /Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/Mavrdude: cannot execute binary file
+Device update failed.
+Beginning update of all GUI Values
+GUI closed at 09:51
+GUI opened at 10:48
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.usbmodemfd141]
+
+	/dev/tty.usbmodemfd141
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+Starting Ports: [/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/Mavrdude -v -C /Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/Mavrdude.conf -p atmega32u4 -cavr109 -P /dev/tty.usbmodemfd141 -b19200 -Uflash:w:/Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:i
+/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/Mavrdude: /Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/Mavrdude: cannot execute binary file
+Device update failed.
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.usbmodemfd141]
+
+	/dev/tty.usbmodemfd141
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+Starting Ports: [/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/Mavrdude -v -C /Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/Mavrdude.conf -p atmega32u4 -cavr109 -P /dev/tty.usbmodemfd141 -b19200 -Uflash:w:/Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:i
+Beginning update of all GUI Values
+GUI closed at 10:52
+GUI opened at 10:52
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.usbmodemfd141]
+
+	/dev/tty.usbmodemfd141
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+Starting Ports: [/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/avrdude -v -C /Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/avrdude.conf -p atmega32u4 -cavr109 -P /dev/tty.usbmodemfd141 -b19200 -Uflash:w:/Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:i
+dyld: Library not loaded: /Users/jenkins/jenkins/workspace/toolchain-avr-mac32/objdir/lib/libusb-0.1.4.dylib
+  Referenced from: /Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/avrdude_bin
+  Reason: image not found
+Device update failed.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.usbmodemfd141]
+
+	/dev/tty.usbmodemfd141
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+Starting Ports: [/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/avrdude -v -C /Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/avrdude.conf -p atmega32u4 -cavr109 -P /dev/tty.usbmodemfd141 -b19200 -Uflash:w:/Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:i
+dyld: Library not loaded: /Users/jenkins/jenkins/workspace/toolchain-avr-mac32/objdir/lib/libusb-0.1.4.dylib
+  Referenced from: /Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/avrdude_bin
+  Reason: image not found
+Device update failed.
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.usbmodemfd141]
+
+	/dev/tty.usbmodemfd141
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+Starting Ports: [/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/avrdude -v -C /Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/avrdude.conf -p atmega32u4 -cavr109 -P /dev/tty.usbmodemfd141 -b19200 -Uflash:w:/Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:i
+dyld: Library not loaded: /Users/jenkins/jenkins/workspace/toolchain-avr-mac32/objdir/lib/libusb-0.1.4.dylib
+  Referenced from: /Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/avrdude_bin
+  Reason: image not found
+Device update failed.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Beginning update of all GUI Values
+GUI closed at 10:55
+GUI opened at 10:56
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.usbmodemfd141]
+
+	/dev/tty.usbmodemfd141
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+Starting Ports: [/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/avrdude -v -C /Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/avrdude.conf -p atmega32u4 -cavr109 -P /dev/tty.usbmodemfd141 -b19200 -Uflash:w:/Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:i
+dyld: Library not loaded: /Users/jenkins/jenkins/workspace/toolchain-avr-mac32/objdir/lib/libusb-0.1.4.dylib
+  Referenced from: /Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/avrdude_bin
+  Reason: image not found
+Device update failed.
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+GUI closed at 11:06
+GUI opened at 11:06
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.usbmodemfd141]
+
+	/dev/tty.usbmodemfd141
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+Starting Ports: [/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/bin\avrdude -v -C /Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/avrdude.conf -p atmega32u4 -cavr109 -P /dev/tty.usbmodemfd141 -b19200 -Uflash:w:/Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:i
+Beginning update of all GUI Values
+GUI closed at 11:06
+GUI opened at 11:07
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.usbmodemfd141]
+
+	/dev/tty.usbmodemfd141
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+	/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/bin/avrdude -v -C /Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/avrdude.conf -p atmega32u4 -cavr109 -P /dev/tty.usbmodemfd141 -b19200 -Uflash:w:/Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:i
+
+avrdude: Version 6.0.1, compiled on Apr 14 2015 at 16:30:25
+         Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/
+         Copyright (c) 2007-2009 Joerg Wunsch
+
+         System wide configuration file is "/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/avrdude.conf"
+avrdude: can't open config file "/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/avrdude.conf": No such file or directory
+avrdude: error reading system wide configuration file "/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/avrdude.conf"
+Device update failed.
+Beginning update of all GUI Values
+GUI closed at 11:07
+GUI opened at 11:08
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.usbmodemfd141]
+
+	/dev/tty.usbmodemfd141
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+	/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/bin/avrdude -v -C /Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/etc/avrdude.conf -p atmega32u4 -cavr109 -P /dev/tty.usbmodemfd141 -b19200 -Uflash:w:/Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:i
+
+avrdude: Version 6.0.1, compiled on Apr 14 2015 at 16:30:25
+         Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/
+         Copyright (c) 2007-2009 Joerg Wunsch
+
+         System wide configuration file is "/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/etc/avrdude.conf"
+         User configuration file is "/Users/edit_omega/.avrduderc"
+         User configuration file does not exist or is not a regular file, skipping
+
+         Using Port                    : /dev/tty.usbmodemfd141
+         Using Programmer              : avr109
+         Overriding Baud Rate          : 19200
+         AVR Part                      : ATmega32U4
+         Chip Erase delay              : 9000 us
+         PAGEL                         : PD7
+         BS2                           : PA0
+         RESET disposition             : dedicated
+         RETRY pulse                   : SCK
+         serial program mode           : yes
+         parallel program mode         : yes
+         Timeout                       : 200
+         StabDelay                     : 100
+         CmdexeDelay                   : 25
+         SyncLoops                     : 32
+         ByteDelay                     : 0
+         PollIndex                     : 3
+         PollValue                     : 0x53
+         Memory Detail                 :
+
+                                  Block Poll               Page                       Polled
+           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack
+           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------
+           eeprom        65    20     4    0 no       1024    4      0  9000  9000 0x00 0x00
+           flash         65     6   128    0 yes     32768  128    256  4500  4500 0x00 0x00
+           lfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           hfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           efuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           lock           0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           calibration    0     0     0    0 no          1    0      0     0     0 0x00 0x00
+           signature      0     0     0    0 no          3    0      0     0     0 0x00 0x00
+
+         Programmer Type : butterfly
+         Description     : Atmel AppNote AVR109 Boot Loader
+
+Connecting to programmer: .avrdude: butterfly_recv(): programmer is not responding
+Device update failed.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.usbmodemfd141]
+
+	/dev/tty.usbmodemfd141
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+	/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/bin/avrdude -v -C /Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/etc/avrdude.conf -p atmega32u4 -cavr109 -P /dev/tty.usbmodemfd141 -b19200 -Uflash:w:/Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:i
+
+avrdude: Version 6.0.1, compiled on Apr 14 2015 at 16:30:25
+         Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/
+         Copyright (c) 2007-2009 Joerg Wunsch
+
+         System wide configuration file is "/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/etc/avrdude.conf"
+         User configuration file is "/Users/edit_omega/.avrduderc"
+         User configuration file does not exist or is not a regular file, skipping
+
+         Using Port                    : /dev/tty.usbmodemfd141
+         Using Programmer              : avr109
+         Overriding Baud Rate          : 19200
+         AVR Part                      : ATmega32U4
+         Chip Erase delay              : 9000 us
+         PAGEL                         : PD7
+         BS2                           : PA0
+         RESET disposition             : dedicated
+         RETRY pulse                   : SCK
+         serial program mode           : yes
+         parallel program mode         : yes
+         Timeout                       : 200
+         StabDelay                     : 100
+         CmdexeDelay                   : 25
+         SyncLoops                     : 32
+         ByteDelay                     : 0
+         PollIndex                     : 3
+         PollValue                     : 0x53
+         Memory Detail                 :
+
+                                  Block Poll               Page                       Polled
+           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack
+           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------
+           eeprom        65    20     4    0 no       1024    4      0  9000  9000 0x00 0x00
+           flash         65     6   128    0 yes     32768  128    256  4500  4500 0x00 0x00
+           lfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           hfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           efuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           lock           0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           calibration    0     0     0    0 no          1    0      0     0     0 0x00 0x00
+           signature      0     0     0    0 no          3    0      0     0     0 0x00 0x00
+
+         Programmer Type : butterfly
+         Description     : Atmel AppNote AVR109 Boot Loader
+
+Connecting to programmer: .avrdude: ser_recv(): read error: Device not configured
+Device update failed.
+Beginning update of all GUI Values
+GUI closed at 11:09
+GUI opened at 11:09
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.usbmodemfd141]
+
+	/dev/tty.usbmodemfd141
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+Starting Ports: [/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[]
+	[]
+	[]
+	[]
+	[]
+	[]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[]
+	[]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/bin/avrdude -v -C /Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/etc/avrdude.conf -p atmega32u4 -cavr109 -P /dev/tty.usbmodemfd141 -b19200 -Uflash:w:/Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:i
+
+avrdude: Version 6.0.1, compiled on Apr 14 2015 at 16:30:25
+         Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/
+         Copyright (c) 2007-2009 Joerg Wunsch
+
+         System wide configuration file is "/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/etc/avrdude.conf"
+         User configuration file is "/Users/edit_omega/.avrduderc"
+         User configuration file does not exist or is not a regular file, skipping
+
+         Using Port                    : /dev/tty.usbmodemfd141
+         Using Programmer              : avr109
+         Overriding Baud Rate          : 19200
+         AVR Part                      : ATmega32U4
+         Chip Erase delay              : 9000 us
+         PAGEL                         : PD7
+         BS2                           : PA0
+         RESET disposition             : dedicated
+         RETRY pulse                   : SCK
+         serial program mode           : yes
+         parallel program mode         : yes
+         Timeout                       : 200
+         StabDelay                     : 100
+         CmdexeDelay                   : 25
+         SyncLoops                     : 32
+         ByteDelay                     : 0
+         PollIndex                     : 3
+         PollValue                     : 0x53
+         Memory Detail                 :
+
+                                  Block Poll               Page                       Polled
+           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack
+           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------
+           eeprom        65    20     4    0 no       1024    4      0  9000  9000 0x00 0x00
+           flash         65     6   128    0 yes     32768  128    256  4500  4500 0x00 0x00
+           lfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           hfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           efuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           lock           0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           calibration    0     0     0    0 no          1    0      0     0     0 0x00 0x00
+           signature      0     0     0    0 no          3    0      0     0     0 0x00 0x00
+
+         Programmer Type : butterfly
+         Description     : Atmel AppNote AVR109 Boot Loader
+
+Connecting to programmer: .avrdude: butterfly_recv(): programmer is not responding
+Device update failed.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.usbmodemfd141]
+
+	/dev/tty.usbmodemfd141
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+Starting Ports: [/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[]
+	[]
+	[]
+	[]
+	[]
+	[]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/bin/avrdude -v -C /Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/etc/avrdude.conf -p atmega32u4 -cavr109 -P /dev/tty.usbmodemfd141 -b19200 -Uflash:w:/Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:i
+
+avrdude: Version 6.0.1, compiled on Apr 14 2015 at 16:30:25
+         Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/
+         Copyright (c) 2007-2009 Joerg Wunsch
+
+         System wide configuration file is "/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/etc/avrdude.conf"
+         User configuration file is "/Users/edit_omega/.avrduderc"
+         User configuration file does not exist or is not a regular file, skipping
+
+         Using Port                    : /dev/tty.usbmodemfd141
+         Using Programmer              : avr109
+         Overriding Baud Rate          : 19200
+         AVR Part                      : ATmega32U4
+         Chip Erase delay              : 9000 us
+         PAGEL                         : PD7
+         BS2                           : PA0
+         RESET disposition             : dedicated
+         RETRY pulse                   : SCK
+         serial program mode           : yes
+         parallel program mode         : yes
+         Timeout                       : 200
+         StabDelay                     : 100
+         CmdexeDelay                   : 25
+         SyncLoops                     : 32
+         ByteDelay                     : 0
+         PollIndex                     : 3
+         PollValue                     : 0x53
+         Memory Detail                 :
+
+                                  Block Poll               Page                       Polled
+           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack
+           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------
+           eeprom        65    20     4    0 no       1024    4      0  9000  9000 0x00 0x00
+           flash         65     6   128    0 yes     32768  128    256  4500  4500 0x00 0x00
+           lfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           hfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           efuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           lock           0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           calibration    0     0     0    0 no          1    0      0     0     0 0x00 0x00
+           signature      0     0     0    0 no          3    0      0     0     0 0x00 0x00
+
+         Programmer Type : butterfly
+         Description     : Atmel AppNote AVR109 Boot Loader
+
+Connecting to programmer: .
+avrdude: ser_recv(): read error: Device not configured
+Device update failed.
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+GUI closed at 11:11
+GUI opened at 11:11
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 11:11
+GUI opened at 11:11
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.usbmodemfd141]
+
+	/dev/tty.usbmodemfd141
+Check success!
+
+Update Started...
+	Buffer flushed
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: []
+Scan 1: 
+
+
+	Ports Found: []
+Scan 2: 
+
+
+	Ports Found: []
+Scan 3: 
+
+
+	Ports Found: []
+Scan 4: 
+
+
+	Ports Found: []
+Scan 5: 
+
+
+	Ports Found: []
+Scan 6: 
+
+
+	Ports Found: []
+Scan 7: 
+
+
+	Ports Found: []
+Scan 8: 
+
+
+	Ports Found: []
+Scan 9: 
+
+
+	Ports Found: []
+jssc.SerialPortException: Port name - /dev/tty.usbmodemfd141; Method name - openPort(); Exception type - Port not found.
+Update Started...
+Unable to initially open port. Ensure the correct port is being targeted. Process is beingaborted.
+Beginning update of all GUI Values
+GUI closed at 11:12
+GUI opened at 11:13
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.usbmodemfd141]
+
+	/dev/tty.usbmodemfd141
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+Starting Ports: [/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[]
+	[]
+	[]
+	[]
+	[]
+	[]
+	[]
+	[]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/bin/avrdude -v -C /Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/etc/avrdude.conf -p atmega32u4 -cavr109 -P /dev/tty.usbmodemfd141 -b19200 -Uflash:w:/Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:i
+
+avrdude: Version 6.0.1, compiled on Apr 14 2015 at 16:30:25
+         Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/
+         Copyright (c) 2007-2009 Joerg Wunsch
+
+         System wide configuration file is "/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/etc/avrdude.conf"
+         User configuration file is "/Users/edit_omega/.avrduderc"
+         User configuration file does not exist or is not a regular file, skipping
+
+         Using Port                    : /dev/tty.usbmodemfd141
+         Using Programmer              : avr109
+         Overriding Baud Rate          : 19200
+         AVR Part                      : ATmega32U4
+         Chip Erase delay              : 9000 us
+         PAGEL                         : PD7
+         BS2                           : PA0
+         RESET disposition             : dedicated
+         RETRY pulse                   : SCK
+         serial program mode           : yes
+         parallel program mode         : yes
+         Timeout                       : 200
+         StabDelay                     : 100
+         CmdexeDelay                   : 25
+         SyncLoops                     : 32
+         ByteDelay                     : 0
+         PollIndex                     : 3
+         PollValue                     : 0x53
+         Memory Detail                 :
+
+                                  Block Poll               Page                       Polled
+           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack
+           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------
+           eeprom        65    20     4    0 no       1024    4      0  9000  9000 0x00 0x00
+           flash         65     6   128    0 yes     32768  128    256  4500  4500 0x00 0x00
+           lfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           hfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           efuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           lock           0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           calibration    0     0     0    0 no          1    0      0     0     0 0x00 0x00
+           signature      0     0     0    0 no          3    0      0     0     0 0x00 0x00
+
+         Programmer Type : butterfly
+         Description     : Atmel AppNote AVR109 Boot Loader
+
+Connecting to programmer: .
+Found programmer: Id = "CATERIN"; type = S
+    Software Version = 1.0; No Hardware Version given.
+Programmer supports auto addr increment.
+Programmer supports buffered memory access with buffersize=128 bytes.
+
+Programmer supports the following devices:
+    Device code: 0x44
+
+avrdude: devcode selected: 0x44
+avrdude: AVR device initialized and ready to accept instructions
+
+Reading | ################################################## | 100% 0.01s
+
+avrdude: Device signature = 0x1e9587
+avrdude: NOTE: "flash" memory has been specified, an erase cycle will be performed
+         To disable this feature, specify the -D option.
+avrdude: erasing chip
+avrdude: reading input file "/Users/edit_omega/Desktop/Builds/Rxr.cpp.hex"
+avrdude: writing flash (19322 bytes):
+
+Writing | ################################################## | 100% 1.44s
+
+avrdude: 19322 bytes of flash written
+avrdude: verifying flash memory against /Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:
+avrdude: load data flash data from input file /Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:
+avrdude: input file /Users/edit_omega/Desktop/Builds/Rxr.cpp.hex contains 19322 bytes
+avrdude: reading on-chip flash data:
+
+Reading | ################################################## | 100% 0.16s
+
+avrdude: verifying ...
+avrdude: 19322 bytes of flash verified
+
+avrdude done.  Thank you.
+
+Device successfully updated firmware.
+Beginning update of all GUI Values
+GUI closed at 11:13
+GUI opened at 11:19
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.usbmodemfd141]
+
+	/dev/tty.usbmodemfd141
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+Starting Ports: [/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[]
+	[]
+	[]
+	[]
+	[]
+	[]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/bin/avrdude -v -C /Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/etc/Mavrdude.conf -p atmega32u4 -cavr109 -P /dev/tty.usbmodemfd141 -b19200 -Uflash:w:/Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:i
+
+avrdude: Version 6.0.1, compiled on Apr 14 2015 at 16:30:25
+         Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/
+         Copyright (c) 2007-2009 Joerg Wunsch
+
+         System wide configuration file is "/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/etc/Mavrdude.conf"
+         User configuration file is "/Users/edit_omega/.avrduderc"
+         User configuration file does not exist or is not a regular file, skipping
+
+         Using Port                    : /dev/tty.usbmodemfd141
+         Using Programmer              : avr109
+         Overriding Baud Rate          : 19200
+         AVR Part                      : ATmega32U4
+         Chip Erase delay              : 9000 us
+         PAGEL                         : PD7
+         BS2                           : PA0
+         RESET disposition             : dedicated
+         RETRY pulse                   : SCK
+         serial program mode           : yes
+         parallel program mode         : yes
+         Timeout                       : 200
+         StabDelay                     : 100
+         CmdexeDelay                   : 25
+         SyncLoops                     : 32
+         ByteDelay                     : 0
+         PollIndex                     : 3
+         PollValue                     : 0x53
+         Memory Detail                 :
+
+                                  Block Poll               Page                       Polled
+           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack
+           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------
+           eeprom        65    20     4    0 no       1024    4      0  9000  9000 0x00 0x00
+           flash         65     6   128    0 yes     32768  128    256  4500  4500 0x00 0x00
+           lfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           hfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           efuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           lock           0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           calibration    0     0     0    0 no          1    0      0     0     0 0x00 0x00
+           signature      0     0     0    0 no          3    0      0     0     0 0x00 0x00
+
+         Programmer Type : butterfly
+         Description     : Atmel AppNote AVR109 Boot Loader
+
+Connecting to programmer: .
+Found programmer: Id = "CATERIN"; type = S
+    Software Version = 1.0; No Hardware Version given.
+Programmer supports auto addr increment.
+Programmer supports buffered memory access with buffersize=128 bytes.
+
+Programmer supports the following devices:
+    Device code: 0x44
+
+avrdude: devcode selected: 0x44
+avrdude: AVR device initialized and ready to accept instructions
+
+Reading | avrdude: ser_recv(): read error: Device not configured
+Device update failed.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.usbmodemfd141]
+
+	/dev/tty.usbmodemfd141
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+Starting Ports: [/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[]
+	[]
+	[]
+	[]
+	[]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/bin/avrdude -v -C /Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/etc/Mavrdude.conf -p atmega32u4 -cavr109 -P /dev/tty.usbmodemfd141 -b19200 -Uflash:w:/Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:i
+
+avrdude: Version 6.0.1, compiled on Apr 14 2015 at 16:30:25
+         Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/
+         Copyright (c) 2007-2009 Joerg Wunsch
+
+         System wide configuration file is "/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/etc/Mavrdude.conf"
+         User configuration file is "/Users/edit_omega/.avrduderc"
+         User configuration file does not exist or is not a regular file, skipping
+
+         Using Port                    : /dev/tty.usbmodemfd141
+         Using Programmer              : avr109
+         Overriding Baud Rate          : 19200
+         AVR Part                      : ATmega32U4
+         Chip Erase delay              : 9000 us
+         PAGEL                         : PD7
+         BS2                           : PA0
+         RESET disposition             : dedicated
+         RETRY pulse                   : SCK
+         serial program mode           : yes
+         parallel program mode         : yes
+         Timeout                       : 200
+         StabDelay                     : 100
+         CmdexeDelay                   : 25
+         SyncLoops                     : 32
+         ByteDelay                     : 0
+         PollIndex                     : 3
+         PollValue                     : 0x53
+         Memory Detail                 :
+
+                                  Block Poll               Page                       Polled
+           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack
+           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------
+           eeprom        65    20     4    0 no       1024    4      0  9000  9000 0x00 0x00
+           flash         65     6   128    0 yes     32768  128    256  4500  4500 0x00 0x00
+           lfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           hfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           efuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           lock           0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           calibration    0     0     0    0 no          1    0      0     0     0 0x00 0x00
+           signature      0     0     0    0 no          3    0      0     0     0 0x00 0x00
+
+         Programmer Type : butterfly
+         Description     : Atmel AppNote AVR109 Boot Loader
+
+Connecting to programmer: .
+Found programmer: Id = "CATERIN"; type = S
+    Software Version = 1.0; No Hardware Version given.
+Programmer supports auto addr increment.
+Programmer supports buffered memory access with buffersize=128 bytes.
+
+Programmer supports the following devices:
+    Device code: 0x44
+
+avrdude: devcode selected: 0x44
+avrdude: AVR device initialized and ready to accept instructions
+
+Reading | ################################################## | 100% 0.00s
+
+avrdude: Device signature = 0x1e9587
+avrdude: NOTE: "flash" memory has been specified, an erase cycle will be performed
+         To disable this feature, specify the -D option.
+avrdude: erasing chip
+avrdude: reading input file "/Users/edit_omega/Desktop/Builds/Rxr.cpp.hex"
+avrdude: writing flash (19322 bytes):
+
+Writing | ################################################## | 100% 1.44s
+
+avrdude: 19322 bytes of flash written
+avrdude: verifying flash memory against /Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:
+avrdude: load data flash data from input file /Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:
+avrdude: input file /Users/edit_omega/Desktop/Builds/Rxr.cpp.hex contains 19322 bytes
+avrdude: reading on-chip flash data:
+
+Reading | ################################################## | 100% 0.16s
+
+avrdude: verifying ...
+avrdude: 19322 bytes of flash verified
+
+avrdude done.  Thank you.
+
+Device successfully updated firmware.
+Beginning update of all GUI Values
+GUI closed at 11:20
+GUI opened at 11:20
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.usbmodemfd141]
+
+	/dev/tty.usbmodemfd141
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+Starting Ports: [/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[]
+	[]
+	[]
+	[]
+	[]
+	[]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/bin/avrdude -v -C /Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/etc/avrdude.conf -p atmega32u4 -cavr109 -P /dev/tty.usbmodemfd141 -b19200 -Uflash:w:/Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:i
+
+avrdude: Version 6.0.1, compiled on Apr 14 2015 at 16:30:25
+         Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/
+         Copyright (c) 2007-2009 Joerg Wunsch
+
+         System wide configuration file is "/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/etc/avrdude.conf"
+         User configuration file is "/Users/edit_omega/.avrduderc"
+         User configuration file does not exist or is not a regular file, skipping
+
+         Using Port                    : /dev/tty.usbmodemfd141
+         Using Programmer              : avr109
+         Overriding Baud Rate          : 19200
+         AVR Part                      : ATmega32U4
+         Chip Erase delay              : 9000 us
+         PAGEL                         : PD7
+         BS2                           : PA0
+         RESET disposition             : dedicated
+         RETRY pulse                   : SCK
+         serial program mode           : yes
+         parallel program mode         : yes
+         Timeout                       : 200
+         StabDelay                     : 100
+         CmdexeDelay                   : 25
+         SyncLoops                     : 32
+         ByteDelay                     : 0
+         PollIndex                     : 3
+         PollValue                     : 0x53
+         Memory Detail                 :
+
+                                  Block Poll               Page                       Polled
+           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack
+           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------
+           eeprom        65    20     4    0 no       1024    4      0  9000  9000 0x00 0x00
+           flash         65     6   128    0 yes     32768  128    256  4500  4500 0x00 0x00
+           lfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           hfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           efuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           lock           0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           calibration    0     0     0    0 no          1    0      0     0     0 0x00 0x00
+           signature      0     0     0    0 no          3    0      0     0     0 0x00 0x00
+
+         Programmer Type : butterfly
+         Description     : Atmel AppNote AVR109 Boot Loader
+
+Connecting to programmer: .
+Found programmer: Id = "CATERIN"; type = S
+    Software Version = 1.0; No Hardware Version given.
+Programmer supports auto addr increment.
+Programmer supports buffered memory access with buffersize=128 bytes.
+
+Programmer supports the following devices:
+    Device code: 0x44
+
+avrdude: devcode selected: 0x44
+avrdude: AVR device initialized and ready to accept instructions
+
+Reading | ################################################## | 100% 0.00s
+
+avrdude: Device signature = 0x1e9587
+avrdude: NOTE: "flash" memory has been specified, an erase cycle will be performed
+         To disable this feature, specify the -D option.
+avrdude: erasing chip
+avrdude: reading input file "/Users/edit_omega/Desktop/Builds/Rxr.cpp.hex"
+avrdude: writing flash (19322 bytes):
+
+Writing | ################################################## | 100% 1.44s
+
+avrdude: 19322 bytes of flash written
+avrdude: verifying flash memory against /Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:
+avrdude: load data flash data from input file /Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:
+avrdude: input file /Users/edit_omega/Desktop/Builds/Rxr.cpp.hex contains 19322 bytes
+avrdude: reading on-chip flash data:
+
+Reading | ################################################## | 100% 0.16s
+
+avrdude: verifying ...
+avrdude: 19322 bytes of flash verified
+
+avrdude done.  Thank you.
+
+Device successfully updated firmware.
+Beginning update of all GUI Values
+GUI closed at 11:21
+GUI opened at 11:30
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.usbmodemfd141]
+
+	/dev/tty.usbmodemfd141
+Check success!
+
+Update Started...
+	Port Reset
+Starting Ports: [/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[/dev/tty.usbmodemfd141]
+	[]
+	[]
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+GUI closed at 11:31
+GUI opened at 11:40
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.usbmodemfd141]
+
+	/dev/tty.usbmodemfd141
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+	/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/bin/avrdude -v -C /Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/etc/avrdude.conf -p atmega32u4 -cavr109 -P /dev/tty.usbmodemfd141 -b19200 -Uflash:w:/Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:i
+
+avrdude: Version 6.0.1, compiled on Apr 14 2015 at 16:30:25
+         Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/
+         Copyright (c) 2007-2009 Joerg Wunsch
+
+         System wide configuration file is "/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/etc/avrdude.conf"
+         User configuration file is "/Users/edit_omega/.avrduderc"
+         User configuration file does not exist or is not a regular file, skipping
+
+         Using Port                    : /dev/tty.usbmodemfd141
+         Using Programmer              : avr109
+         Overriding Baud Rate          : 19200
+         AVR Part                      : ATmega32U4
+         Chip Erase delay              : 9000 us
+         PAGEL                         : PD7
+         BS2                           : PA0
+         RESET disposition             : dedicated
+         RETRY pulse                   : SCK
+         serial program mode           : yes
+         parallel program mode         : yes
+         Timeout                       : 200
+         StabDelay                     : 100
+         CmdexeDelay                   : 25
+         SyncLoops                     : 32
+         ByteDelay                     : 0
+         PollIndex                     : 3
+         PollValue                     : 0x53
+         Memory Detail                 :
+
+                                  Block Poll               Page                       Polled
+           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack
+           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------
+           eeprom        65    20     4    0 no       1024    4      0  9000  9000 0x00 0x00
+           flash         65     6   128    0 yes     32768  128    256  4500  4500 0x00 0x00
+           lfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           hfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           efuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           lock           0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           calibration    0     0     0    0 no          1    0      0     0     0 0x00 0x00
+           signature      0     0     0    0 no          3    0      0     0     0 0x00 0x00
+
+         Programmer Type : butterfly
+         Description     : Atmel AppNote AVR109 Boot Loader
+
+Connecting to programmer: .avrdude: butterfly_recv(): programmer is not responding
+Device update failed.
+Beginning update of all GUI Values
+Using file: /Users/edit_omega/Desktop/Builds/LenzhoundGUI/.data.txt
+java.lang.UnsupportedOperationException: View 'dos' not available
+Beginning file write...
+Writing Base Setup
+Ending file write.
+Not a pc, skipping file attribute set.
+Camera at index 0 values saved.
+Beginning update of all GUI Values
+GUI closed at 11:41
+GUI opened at 11:44
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.usbmodemfd141]
+
+	/dev/tty.usbmodemfd141
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+	/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/bin/avrdude -v -C /Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/etc/avrdude.conf -p atmega32u4 -cavr109 -P /dev/tty.usbmodemfd141 -b19200 -Uflash:w:/Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:i
+
+avrdude: Version 6.0.1, compiled on Apr 14 2015 at 16:30:25
+         Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/
+         Copyright (c) 2007-2009 Joerg Wunsch
+
+         System wide configuration file is "/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/etc/avrdude.conf"
+         User configuration file is "/Users/edit_omega/.avrduderc"
+         User configuration file does not exist or is not a regular file, skipping
+
+         Using Port                    : /dev/tty.usbmodemfd141
+         Using Programmer              : avr109
+         Overriding Baud Rate          : 19200
+avrdude: ser_open(): can't open device "/dev/tty.usbmodemfd141": No such file or directory
+avrdude: ser_send(): write error: Bad file descriptor
+Device update failed.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.usbmodemfd141]
+
+	/dev/tty.usbmodemfd141
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+	/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/bin/avrdude -v -C /Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/etc/avrdude.conf -p atmega32u4 -cavr109 -P /dev/tty.usbmodemfd141 -b19200 -Uflash:w:/Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:i
+
+avrdude: Version 6.0.1, compiled on Apr 14 2015 at 16:30:25
+         Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/
+         Copyright (c) 2007-2009 Joerg Wunsch
+
+         System wide configuration file is "/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/etc/avrdude.conf"
+         User configuration file is "/Users/edit_omega/.avrduderc"
+         User configuration file does not exist or is not a regular file, skipping
+
+         Using Port                    : /dev/tty.usbmodemfd141
+         Using Programmer              : avr109
+         Overriding Baud Rate          : 19200
+avrdude: ser_open(): can't open device "/dev/tty.usbmodemfd141": No such file or directory
+avrdude: ser_send(): write error: Bad file descriptor
+Device update failed.
+Beginning update of all GUI Values
+GUI closed at 11:45
+GUI opened at 11:45
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.usbmodemfd141]
+
+	/dev/tty.usbmodemfd141
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+	/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/bin/avrdude -v -C /Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/etc/avrdude.conf -p atmega32u4 -cavr109 -P /dev/tty.usbmodemfd141 -b19200 -Uflash:w:/Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:i
+
+avrdude: Version 6.0.1, compiled on Apr 14 2015 at 16:30:25
+         Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/
+         Copyright (c) 2007-2009 Joerg Wunsch
+
+         System wide configuration file is "/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/etc/avrdude.conf"
+         User configuration file is "/Users/edit_omega/.avrduderc"
+         User configuration file does not exist or is not a regular file, skipping
+
+         Using Port                    : /dev/tty.usbmodemfd141
+         Using Programmer              : avr109
+         Overriding Baud Rate          : 19200
+         AVR Part                      : ATmega32U4
+         Chip Erase delay              : 9000 us
+         PAGEL                         : PD7
+         BS2                           : PA0
+         RESET disposition             : dedicated
+         RETRY pulse                   : SCK
+         serial program mode           : yes
+         parallel program mode         : yes
+         Timeout                       : 200
+         StabDelay                     : 100
+         CmdexeDelay                   : 25
+         SyncLoops                     : 32
+         ByteDelay                     : 0
+         PollIndex                     : 3
+         PollValue                     : 0x53
+         Memory Detail                 :
+
+                                  Block Poll               Page                       Polled
+           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack
+           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------
+           eeprom        65    20     4    0 no       1024    4      0  9000  9000 0x00 0x00
+           flash         65     6   128    0 yes     32768  128    256  4500  4500 0x00 0x00
+           lfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           hfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           efuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           lock           0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           calibration    0     0     0    0 no          1    0      0     0     0 0x00 0x00
+           signature      0     0     0    0 no          3    0      0     0     0 0x00 0x00
+
+         Programmer Type : butterfly
+         Description     : Atmel AppNote AVR109 Boot Loader
+
+Connecting to programmer: .
+Found programmer: Id = "CATERIN"; type = S
+    Software Version = 1.0; No Hardware Version given.
+Programmer supports auto addr increment.
+Programmer supports buffered memory access with buffersize=128 bytes.
+
+Programmer supports the following devices:
+    Device code: 0x44
+
+avrdude: devcode selected: 0x44
+avrdude: AVR device initialized and ready to accept instructions
+
+Reading | ################################################## | 100% 0.00s
+
+avrdude: Device signature = 0x1e9587
+avrdude: NOTE: "flash" memory has been specified, an erase cycle will be performed
+         To disable this feature, specify the -D option.
+avrdude: erasing chip
+avrdude: reading input file "/Users/edit_omega/Desktop/Builds/Rxr.cpp.hex"
+avrdude: writing flash (19322 bytes):
+
+Writing | ################################################## | 100% 1.44s
+
+avrdude: 19322 bytes of flash written
+avrdude: verifying flash memory against /Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:
+avrdude: load data flash data from input file /Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:
+avrdude: input file /Users/edit_omega/Desktop/Builds/Rxr.cpp.hex contains 19322 bytes
+avrdude: reading on-chip flash data:
+
+Reading | ################################################## | 100% 0.15s
+
+avrdude: verifying ...
+avrdude: 19322 bytes of flash verified
+
+avrdude done.  Thank you.
+
+Device successfully updated firmware.
+Beginning update of all GUI Values
+GUI closed at 11:45
+GUI opened at 11:56
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.usbmodemfd141]
+
+	/dev/tty.usbmodemfd141
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+	/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/bin/avrdude -v -C /Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/etc/avrdude.conf -p atmega32u4 -cavr109 -P /dev/tty.usbmodemfd141 -b19200 -Uflash:w:/Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:i
+
+avrdude: Version 6.0.1, compiled on Apr 14 2015 at 16:30:25
+         Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/
+         Copyright (c) 2007-2009 Joerg Wunsch
+
+         System wide configuration file is "/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/etc/avrdude.conf"
+         User configuration file is "/Users/edit_omega/.avrduderc"
+         User configuration file does not exist or is not a regular file, skipping
+
+         Using Port                    : /dev/tty.usbmodemfd141
+         Using Programmer              : avr109
+         Overriding Baud Rate          : 19200
+         AVR Part                      : ATmega32U4
+         Chip Erase delay              : 9000 us
+         PAGEL                         : PD7
+         BS2                           : PA0
+         RESET disposition             : dedicated
+         RETRY pulse                   : SCK
+         serial program mode           : yes
+         parallel program mode         : yes
+         Timeout                       : 200
+         StabDelay                     : 100
+         CmdexeDelay                   : 25
+         SyncLoops                     : 32
+         ByteDelay                     : 0
+         PollIndex                     : 3
+         PollValue                     : 0x53
+         Memory Detail                 :
+
+                                  Block Poll               Page                       Polled
+           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack
+           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------
+           eeprom        65    20     4    0 no       1024    4      0  9000  9000 0x00 0x00
+           flash         65     6   128    0 yes     32768  128    256  4500  4500 0x00 0x00
+           lfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           hfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           efuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           lock           0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           calibration    0     0     0    0 no          1    0      0     0     0 0x00 0x00
+           signature      0     0     0    0 no          3    0      0     0     0 0x00 0x00
+
+         Programmer Type : butterfly
+         Description     : Atmel AppNote AVR109 Boot Loader
+
+Connecting to programmer: .
+Found programmer: Id = "CATERIN"; type = S
+    Software Version = 1.0; No Hardware Version given.
+Programmer supports auto addr increment.
+Programmer supports buffered memory access with buffersize=128 bytes.
+
+Programmer supports the following devices:
+    Device code: 0x44
+
+avrdude: devcode selected: 0x44
+avrdude: AVR device initialized and ready to accept instructions
+
+Reading | ################################################## | 100% 0.00s
+
+avrdude: Device signature = 0x1e9587
+avrdude: NOTE: "flash" memory has been specified, an erase cycle will be performed
+         To disable this feature, specify the -D option.
+avrdude: erasing chip
+avrdude: reading input file "/Users/edit_omega/Desktop/Builds/Rxr.cpp.hex"
+avrdude: writing flash (19322 bytes):
+
+Writing | ################################################## | 100% 1.44s
+
+avrdude: 19322 bytes of flash written
+avrdude: verifying flash memory against /Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:
+avrdude: load data flash data from input file /Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:
+avrdude: input file /Users/edit_omega/Desktop/Builds/Rxr.cpp.hex contains 19322 bytes
+avrdude: reading on-chip flash data:
+
+Reading | ################################################## | 100% 0.16s
+
+avrdude: verifying ...
+avrdude: 19322 bytes of flash verified
+
+avrdude done.  Thank you.
+
+Device successfully updated firmware.
+Beginning update of all GUI Values
+GUI closed at 11:57
+GUI opened at 11:57
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.usbmodemfd141]
+
+	/dev/tty.usbmodemfd141
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+	/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/bin/avrdude -v -C /Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/etc/avrdude.conf -p atmega32u4 -cavr109 -P /dev/tty.usbmodemfd141 -b19200 -Uflash:w:/Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:i
+
+avrdude: Version 6.0.1, compiled on Apr 14 2015 at 16:30:25
+         Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/
+         Copyright (c) 2007-2009 Joerg Wunsch
+
+         System wide configuration file is "/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/etc/avrdude.conf"
+         User configuration file is "/Users/edit_omega/.avrduderc"
+         User configuration file does not exist or is not a regular file, skipping
+
+         Using Port                    : /dev/tty.usbmodemfd141
+         Using Programmer              : avr109
+         Overriding Baud Rate          : 19200
+         AVR Part                      : ATmega32U4
+         Chip Erase delay              : 9000 us
+         PAGEL                         : PD7
+         BS2                           : PA0
+         RESET disposition             : dedicated
+         RETRY pulse                   : SCK
+         serial program mode           : yes
+         parallel program mode         : yes
+         Timeout                       : 200
+         StabDelay                     : 100
+         CmdexeDelay                   : 25
+         SyncLoops                     : 32
+         ByteDelay                     : 0
+         PollIndex                     : 3
+         PollValue                     : 0x53
+         Memory Detail                 :
+
+                                  Block Poll               Page                       Polled
+           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack
+           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------
+           eeprom        65    20     4    0 no       1024    4      0  9000  9000 0x00 0x00
+           flash         65     6   128    0 yes     32768  128    256  4500  4500 0x00 0x00
+           lfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           hfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           efuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           lock           0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           calibration    0     0     0    0 no          1    0      0     0     0 0x00 0x00
+           signature      0     0     0    0 no          3    0      0     0     0 0x00 0x00
+
+         Programmer Type : butterfly
+         Description     : Atmel AppNote AVR109 Boot Loader
+
+Connecting to programmer: .avrdude: butterfly_recv(): programmer is not responding
+Device update failed.
+Beginning update of all GUI Values
+GUI closed at 11:58
+GUI opened at 12:00
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.usbmodemfd141]
+
+	/dev/tty.usbmodemfd141
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+	/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/bin/avrdude -v -C /Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/etc/avrdude.conf -p atmega32u4 -cavr109 -P /dev/tty.usbmodemfd141 -b19200 -Uflash:w:/Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:i
+
+avrdude: Version 6.0.1, compiled on Apr 14 2015 at 16:30:25
+         Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/
+         Copyright (c) 2007-2009 Joerg Wunsch
+
+         System wide configuration file is "/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/etc/avrdude.conf"
+         User configuration file is "/Users/edit_omega/.avrduderc"
+         User configuration file does not exist or is not a regular file, skipping
+
+         Using Port                    : /dev/tty.usbmodemfd141
+         Using Programmer              : avr109
+         Overriding Baud Rate          : 19200
+         AVR Part                      : ATmega32U4
+         Chip Erase delay              : 9000 us
+         PAGEL                         : PD7
+         BS2                           : PA0
+         RESET disposition             : dedicated
+         RETRY pulse                   : SCK
+         serial program mode           : yes
+         parallel program mode         : yes
+         Timeout                       : 200
+         StabDelay                     : 100
+         CmdexeDelay                   : 25
+         SyncLoops                     : 32
+         ByteDelay                     : 0
+         PollIndex                     : 3
+         PollValue                     : 0x53
+         Memory Detail                 :
+
+                                  Block Poll               Page                       Polled
+           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack
+           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------
+           eeprom        65    20     4    0 no       1024    4      0  9000  9000 0x00 0x00
+           flash         65     6   128    0 yes     32768  128    256  4500  4500 0x00 0x00
+           lfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           hfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           efuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           lock           0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           calibration    0     0     0    0 no          1    0      0     0     0 0x00 0x00
+           signature      0     0     0    0 no          3    0      0     0     0 0x00 0x00
+
+         Programmer Type : butterfly
+         Description     : Atmel AppNote AVR109 Boot Loader
+
+Connecting to programmer: .avrdude: butterfly_recv(): programmer is not responding
+Device update failed.
+Beginning update of all GUI Values
+GUI closed at 12:01
+GUI opened at 12:01
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.usbmodemfd141]
+
+	/dev/tty.usbmodemfd141
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+	/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/bin/avrdude -v -C /Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/etc/avrdude.conf -p atmega32u4 -cavr109 -P /dev/tty.usbmodemfd141 -b19200 -Uflash:w:/Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:i
+
+avrdude: Version 6.0.1, compiled on Apr 14 2015 at 16:30:25
+         Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/
+         Copyright (c) 2007-2009 Joerg Wunsch
+
+         System wide configuration file is "/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/etc/avrdude.conf"
+         User configuration file is "/Users/edit_omega/.avrduderc"
+         User configuration file does not exist or is not a regular file, skipping
+
+         Using Port                    : /dev/tty.usbmodemfd141
+         Using Programmer              : avr109
+         Overriding Baud Rate          : 19200
+         AVR Part                      : ATmega32U4
+         Chip Erase delay              : 9000 us
+         PAGEL                         : PD7
+         BS2                           : PA0
+         RESET disposition             : dedicated
+         RETRY pulse                   : SCK
+         serial program mode           : yes
+         parallel program mode         : yes
+         Timeout                       : 200
+         StabDelay                     : 100
+         CmdexeDelay                   : 25
+         SyncLoops                     : 32
+         ByteDelay                     : 0
+         PollIndex                     : 3
+         PollValue                     : 0x53
+         Memory Detail                 :
+
+                                  Block Poll               Page                       Polled
+           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack
+           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------
+           eeprom        65    20     4    0 no       1024    4      0  9000  9000 0x00 0x00
+           flash         65     6   128    0 yes     32768  128    256  4500  4500 0x00 0x00
+           lfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           hfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           efuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           lock           0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           calibration    0     0     0    0 no          1    0      0     0     0 0x00 0x00
+           signature      0     0     0    0 no          3    0      0     0     0 0x00 0x00
+
+         Programmer Type : butterfly
+         Description     : Atmel AppNote AVR109 Boot Loader
+
+Connecting to programmer: .avrdude: butterfly_recv(): programmer is not responding
+Device update failed.
+Beginning update of all GUI Values
+GUI closed at 12:02
+GUI opened at 12:02
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.usbmodemfd141]
+
+	/dev/tty.usbmodemfd141
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+	/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/bin/avrdude -v -C /Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/etc/avrdude.conf -p atmega32u4 -cavr109 -P /dev/tty.usbmodemfd141 -b19200 -Uflash:w:/Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:i
+
+avrdude: Version 6.0.1, compiled on Apr 14 2015 at 16:30:25
+         Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/
+         Copyright (c) 2007-2009 Joerg Wunsch
+
+         System wide configuration file is "/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/etc/avrdude.conf"
+         User configuration file is "/Users/edit_omega/.avrduderc"
+         User configuration file does not exist or is not a regular file, skipping
+
+         Using Port                    : /dev/tty.usbmodemfd141
+         Using Programmer              : avr109
+         Overriding Baud Rate          : 19200
+         AVR Part                      : ATmega32U4
+         Chip Erase delay              : 9000 us
+         PAGEL                         : PD7
+         BS2                           : PA0
+         RESET disposition             : dedicated
+         RETRY pulse                   : SCK
+         serial program mode           : yes
+         parallel program mode         : yes
+         Timeout                       : 200
+         StabDelay                     : 100
+         CmdexeDelay                   : 25
+         SyncLoops                     : 32
+         ByteDelay                     : 0
+         PollIndex                     : 3
+         PollValue                     : 0x53
+         Memory Detail                 :
+
+                                  Block Poll               Page                       Polled
+           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack
+           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------
+           eeprom        65    20     4    0 no       1024    4      0  9000  9000 0x00 0x00
+           flash         65     6   128    0 yes     32768  128    256  4500  4500 0x00 0x00
+           lfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           hfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           efuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           lock           0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           calibration    0     0     0    0 no          1    0      0     0     0 0x00 0x00
+           signature      0     0     0    0 no          3    0      0     0     0 0x00 0x00
+
+         Programmer Type : butterfly
+         Description     : Atmel AppNote AVR109 Boot Loader
+
+Connecting to programmer: .avrdude: butterfly_recv(): programmer is not responding
+Device update failed.
+Beginning update of all GUI Values
+GUI closed at 12:02
+GUI opened at 12:03
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.usbmodemfd141]
+
+	/dev/tty.usbmodemfd141
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+	/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/bin/avrdude -v -C /Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/etc/avrdude.conf -p atmega32u4 -cavr109 -P /dev/tty.usbmodemfd141 -b19200 -Uflash:w:/Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:i
+
+avrdude: Version 6.0.1, compiled on Apr 14 2015 at 16:30:25
+         Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/
+         Copyright (c) 2007-2009 Joerg Wunsch
+
+         System wide configuration file is "/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/etc/avrdude.conf"
+         User configuration file is "/Users/edit_omega/.avrduderc"
+         User configuration file does not exist or is not a regular file, skipping
+
+         Using Port                    : /dev/tty.usbmodemfd141
+         Using Programmer              : avr109
+         Overriding Baud Rate          : 19200
+         AVR Part                      : ATmega32U4
+         Chip Erase delay              : 9000 us
+         PAGEL                         : PD7
+         BS2                           : PA0
+         RESET disposition             : dedicated
+         RETRY pulse                   : SCK
+         serial program mode           : yes
+         parallel program mode         : yes
+         Timeout                       : 200
+         StabDelay                     : 100
+         CmdexeDelay                   : 25
+         SyncLoops                     : 32
+         ByteDelay                     : 0
+         PollIndex                     : 3
+         PollValue                     : 0x53
+         Memory Detail                 :
+
+                                  Block Poll               Page                       Polled
+           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack
+           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------
+           eeprom        65    20     4    0 no       1024    4      0  9000  9000 0x00 0x00
+           flash         65     6   128    0 yes     32768  128    256  4500  4500 0x00 0x00
+           lfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           hfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           efuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           lock           0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           calibration    0     0     0    0 no          1    0      0     0     0 0x00 0x00
+           signature      0     0     0    0 no          3    0      0     0     0 0x00 0x00
+
+         Programmer Type : butterfly
+         Description     : Atmel AppNote AVR109 Boot Loader
+
+Connecting to programmer: .
+Found programmer: Id = "CATERIN"; type = S
+    Software Version = 1.0; No Hardware Version given.
+Programmer supports auto addr increment.
+Programmer supports buffered memory access with buffersize=128 bytes.
+
+Programmer supports the following devices:
+    Device code: 0x44
+
+avrdude: devcode selected: 0x44
+avrdude: AVR device initialized and ready to accept instructions
+
+Reading | ################################################## | 100% 0.00s
+
+avrdude: Device signature = 0x1e9587
+avrdude: NOTE: "flash" memory has been specified, an erase cycle will be performed
+         To disable this feature, specify the -D option.
+avrdude: erasing chip
+avrdude: reading input file "/Users/edit_omega/Desktop/Builds/Rxr.cpp.hex"
+avrdude: writing flash (19322 bytes):
+
+Writing | ################################################## | 100% 1.44s
+
+avrdude: 19322 bytes of flash written
+avrdude: verifying flash memory against /Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:
+avrdude: load data flash data from input file /Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:
+avrdude: input file /Users/edit_omega/Desktop/Builds/Rxr.cpp.hex contains 19322 bytes
+avrdude: reading on-chip flash data:
+
+Reading | ################################################## | 100% 0.16s
+
+avrdude: verifying ...
+avrdude: 19322 bytes of flash verified
+
+avrdude done.  Thank you.
+
+Device successfully updated firmware.
+Beginning update of all GUI Values
+GUI closed at 12:03
+GUI opened at 12:03
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.usbmodemfd141]
+
+	/dev/tty.usbmodemfd141
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+	/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/bin/avrdude -v -C /Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/etc/avrdude.conf -p atmega32u4 -cavr109 -P /dev/tty.usbmodemfd141 -b19200 -Uflash:w:/Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:i
+
+avrdude: Version 6.0.1, compiled on Apr 14 2015 at 16:30:25
+         Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/
+         Copyright (c) 2007-2009 Joerg Wunsch
+
+         System wide configuration file is "/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/etc/avrdude.conf"
+         User configuration file is "/Users/edit_omega/.avrduderc"
+         User configuration file does not exist or is not a regular file, skipping
+
+         Using Port                    : /dev/tty.usbmodemfd141
+         Using Programmer              : avr109
+         Overriding Baud Rate          : 19200
+         AVR Part                      : ATmega32U4
+         Chip Erase delay              : 9000 us
+         PAGEL                         : PD7
+         BS2                           : PA0
+         RESET disposition             : dedicated
+         RETRY pulse                   : SCK
+         serial program mode           : yes
+         parallel program mode         : yes
+         Timeout                       : 200
+         StabDelay                     : 100
+         CmdexeDelay                   : 25
+         SyncLoops                     : 32
+         ByteDelay                     : 0
+         PollIndex                     : 3
+         PollValue                     : 0x53
+         Memory Detail                 :
+
+                                  Block Poll               Page                       Polled
+           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack
+           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------
+           eeprom        65    20     4    0 no       1024    4      0  9000  9000 0x00 0x00
+           flash         65     6   128    0 yes     32768  128    256  4500  4500 0x00 0x00
+           lfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           hfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           efuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           lock           0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           calibration    0     0     0    0 no          1    0      0     0     0 0x00 0x00
+           signature      0     0     0    0 no          3    0      0     0     0 0x00 0x00
+
+         Programmer Type : butterfly
+         Description     : Atmel AppNote AVR109 Boot Loader
+
+Connecting to programmer: .
+Found programmer: Id = "CATERIN"; type = S
+    Software Version = 1.0; No Hardware Version given.
+Programmer supports auto addr increment.
+Programmer supports buffered memory access with buffersize=128 bytes.
+
+Programmer supports the following devices:
+    Device code: 0x44
+
+avrdude: devcode selected: 0x44
+avrdude: AVR device initialized and ready to accept instructions
+
+Reading | ################################################## | 100% 0.00s
+
+avrdude: Device signature = 0x1e9587
+avrdude: NOTE: "flash" memory has been specified, an erase cycle will be performed
+         To disable this feature, specify the -D option.
+avrdude: erasing chip
+avrdude: reading input file "/Users/edit_omega/Desktop/Builds/Rxr.cpp.hex"
+avrdude: writing flash (19322 bytes):
+
+Writing | ################################################## | 100% 1.44s
+
+avrdude: 19322 bytes of flash written
+avrdude: verifying flash memory against /Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:
+avrdude: load data flash data from input file /Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:
+avrdude: input file /Users/edit_omega/Desktop/Builds/Rxr.cpp.hex contains 19322 bytes
+avrdude: reading on-chip flash data:
+
+Reading | ################################################## | 100% 0.16s
+
+avrdude: verifying ...
+avrdude: 19322 bytes of flash verified
+
+avrdude done.  Thank you.
+
+Device successfully updated firmware.
+Beginning update of all GUI Values
+GUI closed at 12:04
+GUI opened at 12:05
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.usbmodemfd141]
+
+	/dev/tty.usbmodemfd141
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+	/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/bin/avrdude -v -C /Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/etc/avrdude.conf -p atmega32u4 -cavr109 -P /dev/tty.usbmodemfd141 -b19200 -Uflash:w:/Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:i
+
+avrdude: Version 6.0.1, compiled on Apr 14 2015 at 16:30:25
+         Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/
+         Copyright (c) 2007-2009 Joerg Wunsch
+
+         System wide configuration file is "/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/etc/avrdude.conf"
+         User configuration file is "/Users/edit_omega/.avrduderc"
+         User configuration file does not exist or is not a regular file, skipping
+
+         Using Port                    : /dev/tty.usbmodemfd141
+         Using Programmer              : avr109
+         Overriding Baud Rate          : 19200
+         AVR Part                      : ATmega32U4
+         Chip Erase delay              : 9000 us
+         PAGEL                         : PD7
+         BS2                           : PA0
+         RESET disposition             : dedicated
+         RETRY pulse                   : SCK
+         serial program mode           : yes
+         parallel program mode         : yes
+         Timeout                       : 200
+         StabDelay                     : 100
+         CmdexeDelay                   : 25
+         SyncLoops                     : 32
+         ByteDelay                     : 0
+         PollIndex                     : 3
+         PollValue                     : 0x53
+         Memory Detail                 :
+
+                                  Block Poll               Page                       Polled
+           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack
+           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------
+           eeprom        65    20     4    0 no       1024    4      0  9000  9000 0x00 0x00
+           flash         65     6   128    0 yes     32768  128    256  4500  4500 0x00 0x00
+           lfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           hfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           efuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           lock           0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           calibration    0     0     0    0 no          1    0      0     0     0 0x00 0x00
+           signature      0     0     0    0 no          3    0      0     0     0 0x00 0x00
+
+         Programmer Type : butterfly
+         Description     : Atmel AppNote AVR109 Boot Loader
+
+Connecting to programmer: .avrdude: butterfly_recv(): programmer is not responding
+Device update failed.
+Beginning update of all GUI Values
+GUI closed at 12:05
+GUI opened at 12:06
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.usbmodemfd141]
+
+	/dev/tty.usbmodemfd141
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+	/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/bin/avrdude -v -C /Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/etc/avrdude.conf -p atmega32u4 -cavr109 -P /dev/tty.usbmodemfd141 -b19200 -Uflash:w:/Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:i
+
+avrdude: Version 6.0.1, compiled on Apr 14 2015 at 16:30:25
+         Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/
+         Copyright (c) 2007-2009 Joerg Wunsch
+
+         System wide configuration file is "/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/etc/avrdude.conf"
+         User configuration file is "/Users/edit_omega/.avrduderc"
+         User configuration file does not exist or is not a regular file, skipping
+
+         Using Port                    : /dev/tty.usbmodemfd141
+         Using Programmer              : avr109
+         Overriding Baud Rate          : 19200
+         AVR Part                      : ATmega32U4
+         Chip Erase delay              : 9000 us
+         PAGEL                         : PD7
+         BS2                           : PA0
+         RESET disposition             : dedicated
+         RETRY pulse                   : SCK
+         serial program mode           : yes
+         parallel program mode         : yes
+         Timeout                       : 200
+         StabDelay                     : 100
+         CmdexeDelay                   : 25
+         SyncLoops                     : 32
+         ByteDelay                     : 0
+         PollIndex                     : 3
+         PollValue                     : 0x53
+         Memory Detail                 :
+
+                                  Block Poll               Page                       Polled
+           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack
+           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------
+           eeprom        65    20     4    0 no       1024    4      0  9000  9000 0x00 0x00
+           flash         65     6   128    0 yes     32768  128    256  4500  4500 0x00 0x00
+           lfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           hfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           efuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           lock           0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           calibration    0     0     0    0 no          1    0      0     0     0 0x00 0x00
+           signature      0     0     0    0 no          3    0      0     0     0 0x00 0x00
+
+         Programmer Type : butterfly
+         Description     : Atmel AppNote AVR109 Boot Loader
+
+Connecting to programmer: .
+Found programmer: Id = "CATERIN"; type = S
+    Software Version = 1.0; No Hardware Version given.
+Programmer supports auto addr increment.
+Programmer supports buffered memory access with buffersize=128 bytes.
+
+Programmer supports the following devices:
+    Device code: 0x44
+
+avrdude: devcode selected: 0x44
+avrdude: AVR device initialized and ready to accept instructions
+
+Reading | ################################################## | 100% 0.00s
+
+avrdude: Device signature = 0x1e9587
+avrdude: NOTE: "flash" memory has been specified, an erase cycle will be performed
+         To disable this feature, specify the -D option.
+avrdude: erasing chip
+avrdude: reading input file "/Users/edit_omega/Desktop/Builds/Rxr.cpp.hex"
+avrdude: writing flash (19322 bytes):
+
+Writing | ################################################## | 100% 1.44s
+
+avrdude: 19322 bytes of flash written
+avrdude: verifying flash memory against /Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:
+avrdude: load data flash data from input file /Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:
+avrdude: input file /Users/edit_omega/Desktop/Builds/Rxr.cpp.hex contains 19322 bytes
+avrdude: reading on-chip flash data:
+
+Reading | ################################################## | 100% 0.16s
+
+avrdude: verifying ...
+avrdude: 19322 bytes of flash verified
+
+avrdude done.  Thank you.
+
+Device successfully updated firmware.
+Beginning update of all GUI Values
+GUI closed at 12:06
+GUI opened at 12:08
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Not a pc, skipping file attribute set.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [/dev/tty.usbmodemfd141]
+
+	/dev/tty.usbmodemfd141
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+	/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/bin/avrdude -v -C /Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/etc/avrdude.conf -p atmega32u4 -cavr109 -P /dev/tty.usbmodemfd141 -b19200 -Uflash:w:/Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:i
+
+avrdude: Version 6.0.1, compiled on Apr 14 2015 at 16:30:25
+         Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/
+         Copyright (c) 2007-2009 Joerg Wunsch
+
+         System wide configuration file is "/Users/edit_omega/Desktop/Builds/LenzhoundGUI/avr/etc/avrdude.conf"
+         User configuration file is "/Users/edit_omega/.avrduderc"
+         User configuration file does not exist or is not a regular file, skipping
+
+         Using Port                    : /dev/tty.usbmodemfd141
+         Using Programmer              : avr109
+         Overriding Baud Rate          : 19200
+         AVR Part                      : ATmega32U4
+         Chip Erase delay              : 9000 us
+         PAGEL                         : PD7
+         BS2                           : PA0
+         RESET disposition             : dedicated
+         RETRY pulse                   : SCK
+         serial program mode           : yes
+         parallel program mode         : yes
+         Timeout                       : 200
+         StabDelay                     : 100
+         CmdexeDelay                   : 25
+         SyncLoops                     : 32
+         ByteDelay                     : 0
+         PollIndex                     : 3
+         PollValue                     : 0x53
+         Memory Detail                 :
+
+                                  Block Poll               Page                       Polled
+           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack
+           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------
+           eeprom        65    20     4    0 no       1024    4      0  9000  9000 0x00 0x00
+           flash         65     6   128    0 yes     32768  128    256  4500  4500 0x00 0x00
+           lfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           hfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           efuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           lock           0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+           calibration    0     0     0    0 no          1    0      0     0     0 0x00 0x00
+           signature      0     0     0    0 no          3    0      0     0     0 0x00 0x00
+
+         Programmer Type : butterfly
+         Description     : Atmel AppNote AVR109 Boot Loader
+
+Connecting to programmer: .
+Found programmer: Id = "CATERIN"; type = S
+    Software Version = 1.0; No Hardware Version given.
+Programmer supports auto addr increment.
+Programmer supports buffered memory access with buffersize=128 bytes.
+
+Programmer supports the following devices:
+    Device code: 0x44
+
+avrdude: devcode selected: 0x44
+avrdude: AVR device initialized and ready to accept instructions
+
+Reading | ################################################## | 100% 0.00s
+
+avrdude: Device signature = 0x1e9587
+avrdude: NOTE: "flash" memory has been specified, an erase cycle will be performed
+         To disable this feature, specify the -D option.
+avrdude: erasing chip
+avrdude: reading input file "/Users/edit_omega/Desktop/Builds/Rxr.cpp.hex"
+avrdude: writing flash (19322 bytes):
+
+Writing | ################################################## | 100% 1.44s
+
+avrdude: 19322 bytes of flash written
+avrdude: verifying flash memory against /Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:
+avrdude: load data flash data from input file /Users/edit_omega/Desktop/Builds/Rxr.cpp.hex:
+avrdude: input file /Users/edit_omega/Desktop/Builds/Rxr.cpp.hex contains 19322 bytes
+avrdude: reading on-chip flash data:
+
+Reading | ################################################## | 100% 0.16s
+
+avrdude: verifying ...
+avrdude: 19322 bytes of flash verified
+
+avrdude done.  Thank you.
+
+Device successfully updated firmware.
+Beginning update of all GUI Values
+GUI closed at 12:08
+GUI opened at 12:32
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [COM8]
+
+	COM8
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+Starting Ports: [COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[]
+	[]
+	[COM6]
+Found Port: COM6
+	C:\Users\Thayer\Desktop\LenzhoundGUI\avr\bin/avrdude -v -C C:\Users\Thayer\Desktop\LenzhoundGUI\avr\etc/avrdude.conf -p atmega32u4 -cavr109 -P COM6 -b19200 -Uflash:w:C:\Users\Thayer\Documents\Rxr.cpp.hex:i
+Beginning update of all GUI Values
+GUI closed at 12:32
+GUI opened at 12:34
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [COM8]
+
+	COM8
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+Starting Ports: [COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[]
+	[]
+	[COM6]
+Found Port: COM6
+	C:\Users\Thayer\Desktop\LenzhoundGUI\avr\bin/avrdude.exe -v -C C:\Users\Thayer\Desktop\LenzhoundGUI\avr\etc/avrdude.conf -p atmega32u4 -cavr109 -P COM6 -b19200 -Uflash:w:C:\Users\Thayer\Documents\Rxr.cpp.hex:i
+
+avrdude.exe: Version 6.0.1, compiled on Apr 15 2015 at 19:59:58
+             Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/
+             Copyright (c) 2007-2009 Joerg Wunsch
+
+             System wide configuration file is "C:\Users\Thayer\Desktop\LenzhoundGUI\avr\etc/avrdude.conf"
+
+             Using Port                    : COM6
+             Using Programmer              : avr109
+             Overriding Baud Rate          : 19200
+             AVR Part                      : ATmega32U4
+             Chip Erase delay              : 9000 us
+             PAGEL                         : PD7
+             BS2                           : PA0
+             RESET disposition             : dedicated
+             RETRY pulse                   : SCK
+             serial program mode           : yes
+             parallel program mode         : yes
+             Timeout                       : 200
+             StabDelay                     : 100
+             CmdexeDelay                   : 25
+             SyncLoops                     : 32
+             ByteDelay                     : 0
+             PollIndex                     : 3
+             PollValue                     : 0x53
+             Memory Detail                 :
+
+                                      Block Poll               Page                       Polled
+               Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack
+               ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------
+               eeprom        65    20     4    0 no       1024    4      0  9000  9000 0x00 0x00
+               flash         65     6   128    0 yes     32768  128    256  4500  4500 0x00 0x00
+               lfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+               hfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+               efuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+               lock           0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+               calibration    0     0     0    0 no          1    0      0     0     0 0x00 0x00
+               signature      0     0     0    0 no          3    0      0     0     0 0x00 0x00
+
+             Programmer Type : butterfly
+             Description     : Atmel AppNote AVR109 Boot Loader
+
+Connecting to programmer: .
+Found programmer: Id = "CATERIN"; type = S
+    Software Version = 1.0; No Hardware Version given.
+Programmer supports auto addr increment.
+Programmer supports buffered memory access with buffersize=128 bytes.
+
+Programmer supports the following devices:
+    Device code: 0x44
+
+avrdude.exe: devcode selected: 0x44
+avrdude.exe: AVR device initialized and ready to accept instructions
+
+Reading | ################################################## | 100% 0.00s
+
+avrdude.exe: Device signature = 0x1e9587
+avrdude.exe: NOTE: "flash" memory has been specified, an erase cycle will be performed
+             To disable this feature, specify the -D option.
+avrdude.exe: erasing chip
+avrdude.exe: reading input file "C:\Users\Thayer\Documents\Rxr.cpp.hex"
+avrdude.exe: writing flash (19322 bytes):
+
+Writing | ################################################## | 100% 1.71s
+
+avrdude.exe: 19322 bytes of flash written
+avrdude.exe: verifying flash memory against C:\Users\Thayer\Documents\Rxr.cpp.hex:
+avrdude.exe: load data flash data from input file C:\Users\Thayer\Documents\Rxr.cpp.hex:
+avrdude.exe: input file C:\Users\Thayer\Documents\Rxr.cpp.hex contains 19322 bytes
+avrdude.exe: reading on-chip flash data:
+
+Reading | ################################################## | 100% 0.49s
+
+avrdude.exe: verifying ...
+avrdude.exe: 19322 bytes of flash verified
+
+avrdude.exe done.  Thank you.
+
+Device successfully updated firmware.
+Beginning update of all GUI Values
+GUI closed at 12:34
+GUI opened at 04:17
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [COM8]
+
+	COM8
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+Starting Ports: [COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[]
+	[COM6]
+Found Port: COM6
+	C:\Users\Thayer\Desktop\LenzhoundGUI\avr\bin/avrdude.exe -v -C C:\Users\Thayer\Desktop\LenzhoundGUI\avr\etc/avrdude.conf -p atmega32u4 -cavr109 -P COM6 -b19200 -Uflash:w:C:\Users\Thayer\Documents\Rxr.cpp.hex:i
+
+avrdude.exe: Version 6.0.1, compiled on Apr 15 2015 at 19:59:58
+             Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/
+             Copyright (c) 2007-2009 Joerg Wunsch
+
+             System wide configuration file is "C:\Users\Thayer\Desktop\LenzhoundGUI\avr\etc/avrdude.conf"
+
+             Using Port                    : COM6
+             Using Programmer              : avr109
+             Overriding Baud Rate          : 19200
+             AVR Part                      : ATmega32U4
+             Chip Erase delay              : 9000 us
+             PAGEL                         : PD7
+             BS2                           : PA0
+             RESET disposition             : dedicated
+             RETRY pulse                   : SCK
+             serial program mode           : yes
+             parallel program mode         : yes
+             Timeout                       : 200
+             StabDelay                     : 100
+             CmdexeDelay                   : 25
+             SyncLoops                     : 32
+             ByteDelay                     : 0
+             PollIndex                     : 3
+             PollValue                     : 0x53
+             Memory Detail                 :
+
+                                      Block Poll               Page                       Polled
+               Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack
+               ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------
+               eeprom        65    20     4    0 no       1024    4      0  9000  9000 0x00 0x00
+               flash         65     6   128    0 yes     32768  128    256  4500  4500 0x00 0x00
+               lfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+               hfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+               efuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+               lock           0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+               calibration    0     0     0    0 no          1    0      0     0     0 0x00 0x00
+               signature      0     0     0    0 no          3    0      0     0     0 0x00 0x00
+
+             Programmer Type : butterfly
+             Description     : Atmel AppNote AVR109 Boot Loader
+
+Connecting to programmer: .
+Found programmer: Id = "CATERIN"; type = S
+    Software Version = 1.0; No Hardware Version given.
+Programmer supports auto addr increment.
+Programmer supports buffered memory access with buffersize=128 bytes.
+
+Programmer supports the following devices:
+    Device code: 0x44
+
+avrdude.exe: devcode selected: 0x44
+avrdude.exe: AVR device initialized and ready to accept instructions
+
+Reading | ################################################## | 100% 0.50s
+
+avrdude.exe: Device signature = 0x1e9587
+avrdude.exe: NOTE: "flash" memory has been specified, an erase cycle will be performed
+             To disable this feature, specify the -D option.
+avrdude.exe: erasing chip
+avrdude.exe: reading input file "C:\Users\Thayer\Documents\Rxr.cpp.hex"
+avrdude.exe: writing flash (19322 bytes):
+
+Writing | ################################################## | 100% 1.57s
+
+avrdude.exe: 19322 bytes of flash written
+avrdude.exe: verifying flash memory against C:\Users\Thayer\Documents\Rxr.cpp.hex:
+avrdude.exe: load data flash data from input file C:\Users\Thayer\Documents\Rxr.cpp.hex:
+avrdude.exe: input file C:\Users\Thayer\Documents\Rxr.cpp.hex contains 19322 bytes
+avrdude.exe: reading on-chip flash data:
+
+Reading | ################################################## | 100% 0.62s
+
+avrdude.exe: verifying ...
+avrdude.exe: 19322 bytes of flash verified
+
+avrdude.exe done.  Thank you.
+
+Device successfully updated firmware.
+Beginning update of all GUI Values
+GUI closed at 04:18
+GUI opened at 04:51
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [COM8]
+
+	COM8
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+Starting Ports: [COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[]
+	[]
+	[COM6]
+Found Port: COM6
+	C:\Users\Thayer\Desktop\LenzhoundGUI\avr\bin/avrdude.exe -v -C C:\Users\Thayer\Desktop\LenzhoundGUI\avr\etc/avrdude.conf -p atmega32u4 -cavr109 -P COM6 -b19200 -Uflash:w:C:\Users\Thayer\Documents\Rxr.cpp.hex:i
+Device successfully updated firmware.
+
+avrdude.exe: Version 6.0.1, compiled on Apr 15 2015 at 19:59:58
+             Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/
+             Copyright (c) 2007-2009 Joerg Wunsch
+
+             System wide configuration file is "C:\Users\Thayer\Desktop\LenzhoundGUI\avr\etc/avrdude.conf"
+
+             Using Port                    : COM6
+             Using Programmer              : avr109
+             Overriding Baud Rate          : 19200
+             AVR Part                      : ATmega32U4
+             Chip Erase delay              : 9000 us
+             PAGEL                         : PD7
+             BS2                           : PA0
+             RESET disposition             : dedicated
+             RETRY pulse                   : SCK
+             serial program mode           : yes
+             parallel program mode         : yes
+             Timeout                       : 200
+             StabDelay                     : 100
+             CmdexeDelay                   : 25
+             SyncLoops                     : 32
+             ByteDelay                     : 0
+             PollIndex                     : 3
+             PollValue                     : 0x53
+             Memory Detail                 :
+
+                                      Block Poll               Page                       Polled
+               Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack
+               ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------
+               eeprom        65    20     4    0 no       1024    4      0  9000  9000 0x00 0x00
+               flash         65     6   128    0 yes     32768  128    256  4500  4500 0x00 0x00
+               lfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+               hfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+               efuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+               lock           0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+               calibration    0     0     0    0 no          1    0      0     0     0 0x00 0x00
+               signature      0     0     0    0 no          3    0      0     0     0 0x00 0x00
+
+             Programmer Type : butterfly
+             Description     : Atmel AppNote AVR109 Boot Loader
+
+Connecting to programmer: .
+Found programmer: Id = "CATERIN"; type = S
+    Software Version = 1.0; No Hardware Version given.
+Programmer supports auto addr increment.
+Programmer supports buffered memory access with buffersize=128 bytes.
+
+Programmer supports the following devices:
+    Device code: 0x44
+
+avrdude.exe: devcode selected: 0x44
+avrdude.exe: AVR device initialized and ready to accept instructions
+
+Reading | ################################################## | 100% -0.00s
+
+avrdude.exe: Device signature = 0x1e9587
+avrdude.exe: NOTE: "flash" memory has been specified, an erase cycle will be performed
+             To disable this feature, specify the -D option.
+avrdude.exe: erasing chip
+avrdude.exe: reading input file "C:\Users\Thayer\Documents\Rxr.cpp.hex"
+avrdude.exe: writing flash (19322 bytes):
+
+Writing | ################################################## | 100% 1.96s
+
+avrdude.exe: 19322 bytes of flash written
+avrdude.exe: verifying flash memory against C:\Users\Thayer\Documents\Rxr.cpp.hex:
+avrdude.exe: load data flash data from input file C:\Users\Thayer\Documents\Rxr.cpp.hex:
+avrdude.exe: input file C:\Users\Thayer\Documents\Rxr.cpp.hex contains 19322 bytes
+avrdude.exe: reading on-chip flash data:
+
+Reading | ################################################## | 100% 0.22s
+
+avrdude.exe: verifying ...
+avrdude.exe: 19322 bytes of flash verified
+
+avrdude.exe done.  Thank you.
+
+
+Beginning update of all GUI Values
+GUI closed at 04:52
+GUI opened at 05:24
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [COM8]
+
+	COM8
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+Starting Ports: [COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[]
+	[COM6]
+Found Port: COM6
+	C:\Users\Thayer\Desktop\LenzhoundGUI\avr\bin/avrdude.exe -v -C C:\Users\Thayer\Desktop\LenzhoundGUI\avr\etc/avrdude.conf -p atmega32u4 -cavr109 -P COM6 -b19200 -Uflash:w:C:\Users\Thayer\Documents\Rxr.cpp.hex:i
+Device successfully updated firmware.
+
+avrdude.exe: Version 6.0.1, compiled on Apr 15 2015 at 19:59:58
+             Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/
+             Copyright (c) 2007-2009 Joerg Wunsch
+
+             System wide configuration file is "C:\Users\Thayer\Desktop\LenzhoundGUI\avr\etc/avrdude.conf"
+
+             Using Port                    : COM6
+             Using Programmer              : avr109
+             Overriding Baud Rate          : 19200
+             AVR Part                      : ATmega32U4
+             Chip Erase delay              : 9000 us
+             PAGEL                         : PD7
+             BS2                           : PA0
+             RESET disposition             : dedicated
+             RETRY pulse                   : SCK
+             serial program mode           : yes
+             parallel program mode         : yes
+             Timeout                       : 200
+             StabDelay                     : 100
+             CmdexeDelay                   : 25
+             SyncLoops                     : 32
+             ByteDelay                     : 0
+             PollIndex                     : 3
+             PollValue                     : 0x53
+             Memory Detail                 :
+
+                                      Block Poll               Page                       Polled
+               Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack
+               ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------
+               eeprom        65    20     4    0 no       1024    4      0  9000  9000 0x00 0x00
+               flash         65     6   128    0 yes     32768  128    256  4500  4500 0x00 0x00
+               lfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+               hfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+               efuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+               lock           0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+               calibration    0     0     0    0 no          1    0      0     0     0 0x00 0x00
+               signature      0     0     0    0 no          3    0      0     0     0 0x00 0x00
+
+             Programmer Type : butterfly
+             Description     : Atmel AppNote AVR109 Boot Loader
+
+Connecting to programmer: .
+Found programmer: Id = "CATERIN"; type = S
+    Software Version = 1.0; No Hardware Version given.
+Programmer supports auto addr increment.
+Programmer supports buffered memory access with buffersize=128 bytes.
+
+Programmer supports the following devices:
+    Device code: 0x44
+
+avrdude.exe: devcode selected: 0x44
+avrdude.exe: AVR device initialized and ready to accept instructions
+
+Reading | ################################################## | 100% 0.00s
+
+avrdude.exe: Device signature = 0x1e9587
+avrdude.exe: NOTE: "flash" memory has been specified, an erase cycle will be performed
+             To disable this feature, specify the -D option.
+avrdude.exe: erasing chip
+avrdude.exe: reading input file "C:\Users\Thayer\Documents\Rxr.cpp.hex"
+avrdude.exe: writing flash (19322 bytes):
+
+Writing | ################################################## | 100% 1.67s
+
+avrdude.exe: 19322 bytes of flash written
+avrdude.exe: verifying flash memory against C:\Users\Thayer\Documents\Rxr.cpp.hex:
+avrdude.exe: load data flash data from input file C:\Users\Thayer\Documents\Rxr.cpp.hex:
+avrdude.exe: input file C:\Users\Thayer\Documents\Rxr.cpp.hex contains 19322 bytes
+avrdude.exe: reading on-chip flash data:
+
+Reading | ################################################## | 100% 0.53s
+
+avrdude.exe: verifying ...
+avrdude.exe: 19322 bytes of flash verified
+
+avrdude.exe done.  Thank you.
+
+
+Beginning update of all GUI Values
+GUI closed at 05:25
+GUI opened at 05:43
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [COM8]
+
+	COM8
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+Starting Ports: [COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[]
+	[]
+	[COM6]
+Found Port: COM6
+	C:\Users\Thayer\Desktop\Lenzhound" "GUI\avr\bin/avrdude.exe -v -C C:\Users\Thayer\Desktop\Lenzhound" "GUI\avr\etc/avrdude.conf -p atmega32u4 -cavr109 -P COM6 -b19200 -Uflash:w:C:\Users\Thayer\Documents\Rxr.cpp.hex:i
+Beginning update of all GUI Values
+GUI closed at 05:44
+GUI opened at 05:47
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [COM8]
+
+	COM8
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+Starting Ports: [COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[]
+	[]
+	[COM6]
+Found Port: COM6
+	C:\Users\Thayer\Desktop\Lenzhound^ GUI\avr\bin/avrdude.exe -v -C C:\Users\Thayer\Desktop\Lenzhound^ GUI\avr\etc/avrdude.conf -p atmega32u4 -cavr109 -P COM6 -b19200 -Uflash:w:C:\Users\Thayer\Documents\Rxr.cpp.hex:i
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+GUI closed at 05:48
+GUI opened at 05:49
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [COM8]
+
+	COM8
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+Starting Ports: [COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[]
+	[]
+	[]
+	[COM6]
+Found Port: COM6
+	C:\Users\Thayer\Desktop\Lenzhound" "GUI\avr\bin/avrdude.exe -v -C C:\Users\Thayer\Desktop\Lenzhound" "GUI\avr\etc/avrdude.conf -p atmega32u4 -cavr109 -P COM6 -b19200 -Uflash:w:C:\Users\Thayer\Documents\Rxr.cpp.hex:i
+Beginning update of all GUI Values
+Opening firmware update utility.
+Scan 0: 
+
+
+	Ports Found: [COM8]
+
+	COM8
+Check success!
+
+Update Started...
+	Buffer flushed
+	Port Reset
+Starting Ports: [COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[COM8]
+	[]
+	[]
+	[COM6]
+Found Port: COM6
+	C:\Users\Thayer\Desktop\Lenzhound" "GUI\avr\bin/avrdude.exe -v -C C:\Users\Thayer\Desktop\Lenzhound" "GUI\avr\etc/avrdude.conf -p atmega32u4 -cavr109 -P COM6 -b19200 -Uflash:w:C:\Users\Thayer\Documents\Rxr.cpp.hex:i
+Beginning update of all GUI Values
+GUI closed at 05:50

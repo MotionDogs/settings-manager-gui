@@ -1,0 +1,3610 @@
+GUI opened at 09:10
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 09:12
+GUI opened at 09:14
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+GUI closed at 09:15
+GUI opened at 09:42
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 09:42
+GUI opened at 09:43
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 09:46
+GUI opened at 09:50
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Beginning update of all GUI Values
+GUI closed at 09:50
+GUI opened at 09:51
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Beginning update of all GUI Values
+GUI closed at 09:51
+GUI opened at 10:01
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Beginning update of all GUI Values
+GUI closed at 10:02
+GUI opened at 10:14
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Beginning update of all GUI Values
+GUI closed at 10:16
+GUI opened at 10:17
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 10:17
+GUI opened at 10:29
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 10:29
+GUI opened at 10:30
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 10:30
+GUI opened at 10:42
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 10:42
+GUI opened at 10:44
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 10:44
+GUI opened at 10:59
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 11:00
+GUI opened at 11:00
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+GUI closed at 11:05
+GUI opened at 11:06
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 11:06
+GUI opened at 11:07
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+Acceleration set to 256
+Acceleration set to 256
+Acceleration set to 256
+Acceleration set to 256
+Acceleration set to 256
+Acceleration set to 256
+Acceleration set to 256
+Acceleration set to 256
+Acceleration set to 256
+Acceleration set to 128
+Acceleration set to 128
+Acceleration set to 128
+Acceleration set to 128
+Acceleration set to 128
+Acceleration set to 128
+Acceleration set to 128
+Acceleration set to 128
+Acceleration set to 128
+Acceleration set to 128
+Acceleration set to 128
+Acceleration set to 128
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 64
+Acceleration set to 32
+Acceleration set to 32
+Acceleration set to 32
+Acceleration set to 32
+Acceleration set to 32
+Acceleration set to 32
+Acceleration set to 32
+Acceleration set to 32
+Acceleration set to 32
+Acceleration set to 32
+Acceleration set to 32
+Acceleration set to 32
+Acceleration set to 32
+Acceleration set to 32
+Acceleration set to 32
+Acceleration set to 32
+Acceleration set to 32
+Acceleration set to 32
+Acceleration set to 32
+Acceleration set to 32
+Acceleration set to 32
+Acceleration set to 32
+Acceleration set to 32
+Acceleration set to 32
+Acceleration set to 32
+Acceleration set to 32
+Acceleration set to 32
+Acceleration set to 32
+Acceleration set to 32
+GUI closed at 11:07
+GUI opened at 11:20
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 11:20
+GUI opened at 11:28
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 11:29
+GUI opened at 11:31
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 11:31
+GUI opened at 11:41
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 11:41
+GUI opened at 11:51
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Beginning update of all GUI Values
+GUI closed at 11:52
+GUI opened at 12:01
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 12:01
+GUI opened at 12:02
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 12:02
+GUI opened at 12:02
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 12:02
+GUI opened at 12:03
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Beginning update of all GUI Values
+GUI closed at 12:03
+GUI opened at 12:03
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 12:04
+GUI opened at 12:04
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 12:04
+GUI opened at 12:05
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 12:05
+GUI opened at 12:06
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+Channel changed to 1
+GUI closed at 12:06
+GUI opened at 12:07
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+Scan 0: 
+
+	COM7
+Check success!
+
+1,32768;
+2,256;
+3,0;
+4,1;
+5,3;
+6,0;
+7,32768;
+8,256;
+last-r: 1,last-t: 1
+Beginning update of all GUI Values
+last-r1,last-t:1
+Using file: C:\Users\Thayer\Desktop\Lenzhound GUI\.data.txt
+Beginning file write...
+Writing Base Setup
+Ending file write.
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+GUI closed at 12:08
+GUI opened at 12:09
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 12:09
+GUI opened at 12:09
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 12:10
+GUI opened at 12:12
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Opening firmware update utility.
+Starting timelapse utility.
+Beginning update of all GUI Values
+Scan 0: 
+
+	COM7
+Wrong device type
+
+Scan 1: 
+
+	COM7
+Wrong device type
+
+Scan 2: 
+
+	COM7
+Wrong device type
+
+Scan 3: 
+
+	COM7
+Wrong device type
+
+Scan 4: 
+
+	COM7
+Wrong device type
+
+Scan 5: 
+
+	COM7
+Wrong device type
+
+Scan 6: 
+
+	COM7
+Wrong device type
+
+Scan 7: 
+
+	COM7
+Wrong device type
+
+Scan 8: 
+
+	COM7
+Wrong device type
+
+Scan 9: 
+
+	COM7
+Wrong device type
+
+
+Could not find serial port.
+Beginning update of all GUI Values
+Scan 0: 
+
+	COM7
+Check success!
+
+1,32768;
+2,256;
+3,0;
+4,1;
+5,3;
+6,0;
+7,32768;
+8,256;
+last-r: 1,last-t: 1
+Beginning update of all GUI Values
+last-r1,last-t:1
+Using file: C:\Users\Thayer\Desktop\Lenzhound GUI\.data.txt
+Beginning file write...
+Writing Base Setup
+Ending file write.
+Starting timelapse utility.
+Starting new timelapse calculation.
+Pos1: 0 Pos2: 0
+java.lang.Exception: Either the same saved positions was selected as the starting
+ and target point or both saved positions map to the same
+ location. There must be distance between the points to calculate
+ new settings.
+Beginning update of all GUI Values
+GUI closed at 12:13
+GUI opened at 12:14
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 12:14
+GUI opened at 12:23
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 12:23
+GUI opened at 12:24
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Beginning update of all GUI Values
+GUI closed at 12:24
+GUI opened at 12:26
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Beginning update of all GUI Values
+GUI closed at 12:26
+GUI opened at 12:28
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 12:28
+GUI opened at 12:29
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 12:29
+GUI opened at 01:29
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+Scan 0: 
+
+	COM7
+Check success!
+
+1,32768;
+2,256;
+3,0;
+4,1;
+5,3;
+6,0;
+7,32768;
+8,256;
+last-r: 1,last-t: 1
+Beginning update of all GUI Values
+last-r1,last-t:1
+Using file: C:\Users\Thayer\Desktop\Lenzhound GUI\.data.txt
+Beginning file write...
+Writing Base Setup
+Ending file write.
+Opening firmware update utility.
+Beginning update of all GUI Values
+GUI closed at 01:29
+GUI opened at 01:29
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+Scan 0: 
+
+	COM7
+Check success!
+
+1,32768;
+2,256;
+3,0;
+4,1;
+5,3;
+6,0;
+7,32768;
+8,256;
+last-r: 1,last-t: 1
+Beginning update of all GUI Values
+last-r1,last-t:1
+Using file: C:\Users\Thayer\Desktop\Lenzhound GUI\.data.txt
+Beginning file write...
+Writing Base Setup
+Ending file write.
+Opening firmware update utility.
+Beginning update of all GUI Values
+GUI closed at 01:30
+GUI opened at 01:30
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Opening firmware update utility.
+Beginning update of all GUI Values
+Starting timelapse utility.
+Beginning update of all GUI Values
+GUI closed at 01:30
+GUI opened at 01:31
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+Opening firmware update utility.
+Beginning update of all GUI Values
+GUI closed at 01:31
+GUI opened at 01:32
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 01:35
+GUI opened at 01:38
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+Scan 0: 
+
+	COM7
+Scan 0: 
+
+	COM7
+jssc.SerialPortException: Port name - COM7; Method name - closePort(); Exception type - Port not opened.
+Check success!
+
+1,32768;
+2,256;
+3,0;
+4,1;
+5,3;
+6,0;
+7,32768;
+8,256;
+last-r: 1,last-t: 1
+last-r1,last-t:1
+Using file: C:\Users\Thayer\Desktop\Lenzhound GUI\.data.txt
+Beginning file write...
+Writing Base Setup
+Ending file write.
+Beginning update of all GUI Values
+Scan 0: 
+
+	COM7
+Check success!
+
+1,32768;
+2,256;
+3,0;
+4,1;
+5,3;
+6,0;
+7,32768;
+8,256;
+last-r: 1,last-t: 1
+Beginning update of all GUI Values
+last-r1,last-t:1
+Using file: C:\Users\Thayer\Desktop\Lenzhound GUI\.data.txt
+Beginning file write...
+Writing Base Setup
+Ending file write.
+Channel changed to 2
+Channel changed to 2
+Scan 0: 
+
+	COM7
+Check success!
+
+1,32768;
+2,256;
+3,0;
+4,2;
+5,3;
+6,0;
+7,32768;
+8,256;
+last-r: 2,last-t: 1
+Beginning update of all GUI Values
+last-r2,last-t:1
+Using file: C:\Users\Thayer\Desktop\Lenzhound GUI\.data.txt
+Beginning file write...
+Writing Base Setup
+Ending file write.
+Channel changed to 1
+Scan 0: 
+
+	COM7
+Check success!
+
+1,32768;
+2,256;
+3,0;
+4,1;
+5,3;
+6,0;
+7,32768;
+8,256;
+last-r: 1,last-t: 1
+Beginning update of all GUI Values
+last-r1,last-t:1
+Using file: C:\Users\Thayer\Desktop\Lenzhound GUI\.data.txt
+Beginning file write...
+Writing Base Setup
+Ending file write.
+GUI closed at 01:39
+GUI opened at 01:39
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 01:39
+GUI opened at 02:03
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 02:03
+GUI opened at 02:04
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 02:04
+GUI opened at 02:05
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 02:05
+GUI opened at 02:06
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 02:06
+GUI opened at 02:09
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 02:09
+GUI opened at 02:17
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+Unable to open website.
+Beginning update of all GUI Values
+GUI closed at 02:17
+GUI opened at 02:18
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+GUI closed at 02:25
+GUI opened at 02:29
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 02:29
+GUI opened at 02:30
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 02:30
+GUI opened at 02:30
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 02:30
+GUI opened at 02:35
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 02:35
+GUI opened at 02:36
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+GUI closed at 02:37
+GUI opened at 02:38
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 02:38
+GUI opened at 02:45
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 02:45
+GUI opened at 02:46
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 02:46
+GUI opened at 02:47
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 02:47
+GUI opened at 02:49
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 02:49
+GUI opened at 02:49
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 02:50
+GUI opened at 02:50
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+GUI closed at 02:51
+GUI opened at 02:51
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+GUI closed at 02:51
+GUI opened at 02:52
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+GUI closed at 02:52
+GUI opened at 02:56
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 02:56
+GUI opened at 02:57
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 02:57
+GUI opened at 02:57
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 02:58
+GUI opened at 03:10
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 03:10
+GUI opened at 03:11
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 03:11
+GUI opened at 03:19
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 03:20
+GUI opened at 03:23
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+GUI closed at 03:23
+GUI opened at 03:23
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 03:23
+GUI opened at 03:24
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 03:24
+GUI opened at 03:24
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 03:25
+GUI opened at 03:25
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 03:25
+GUI opened at 03:27
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 03:27
+GUI opened at 03:28
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 03:28
+GUI opened at 03:28
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 03:28
+GUI opened at 03:29
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 03:29
+GUI opened at 03:32
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 03:33
+GUI opened at 03:33
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 03:33
+GUI opened at 03:37
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 03:37
+GUI opened at 03:37
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 03:38
+GUI opened at 03:39
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 03:39
+GUI opened at 03:40
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 03:40
+GUI opened at 03:43
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 03:43
+GUI opened at 03:43
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 03:44
+GUI opened at 03:44
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 03:44
+GUI opened at 03:47
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 03:47
+GUI opened at 03:47
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+Beginning update of all GUI Values
+GUI closed at 03:51
+GUI opened at 03:57
+GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+Begining component set up.
+Components finished, starting listeners.
+Listeners finished, staring keyboard manager.
+Keyboard manager finished, starting dialog frame.
+Dialog frame finished, starting load of saved settings.
+Length of Entry: 11
+Base Setup
+	0 32768
+	1 256
+	2 0
+	3 1
+	4 3
+	5 0
+	6 32768
+	7 256
+	8 1
+File loading finished, storing settings list
+Successfully stored. Length: 1
+Setting gui values.
+Beginning update of all GUI Values
+Successfully set look and feel of timelapse window.
+[Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 1
+	last R-Channel: 1
+Avrdude test failed, likely a permissions issue.
+Setup process finished.
+Beginning update of all GUI Values
+GUI closed at 03:58

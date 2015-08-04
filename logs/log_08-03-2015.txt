@@ -1,0 +1,1710 @@
+[04:35:30] GUI opened
+[04:35:30] GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+[04:35:30] Begining component set up.
+[04:35:30] Components finished, starting listeners.
+[04:35:30] Listeners finished, staring keyboard manager.
+[04:35:30] Keyboard manager finished, starting dialog frame.
+[04:35:30] Dialog frame finished, starting load of saved settings.
+[04:35:30] Length of Entry: 11
+[04:35:30] Base Setup
+[04:35:30] 	0 32768
+[04:35:30] 	1 256
+[04:35:30] 	2 0
+[04:35:30] 	3 1
+[04:35:30] 	4 3
+[04:35:30] 	5 0
+[04:35:30] 	6 32768
+[04:35:30] 	7 256
+[04:35:30] 	8 60
+[04:35:30] File loading finished, storing settings list
+[04:35:30] Successfully stored. Length: 1
+[04:35:30] Setting gui values.
+[04:35:30] Beginning update of all GUI Values
+[04:35:30] Successfully set look and feel of timelapse window.
+[04:35:30] [Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+[04:35:31] Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 60
+	last R-Channel: 1
+[04:35:31] Avrdude test failed, likely a permissions issue.
+[04:35:31] Setup process finished.
+[04:35:31] Beginning update of all GUI Values
+[04:36:19] Channel changed to 1
+[04:36:37] Beginning update of all GUI Values
+[04:36:37] Channel changed to 1
+[04:36:41] Opening firmware update utility.
+[04:36:49] Scan 0: 
+[04:36:49] 
+
+	Ports Found: [COM1, COM12]
+[04:36:49] 
+	COM1
+[04:36:49] jssc.SerialPortTimeoutException: Port name - COM1; Method name - readBytes(); Serial port operation timeout (250 ms).
+[04:36:49] COM1 has failed.
+[04:36:49] 
+	COM12
+[04:36:49] Check success!
+
+[04:36:49] Update Started...
+[04:36:49] 	Buffer flushed
+[04:36:49] 	Port Reset
+[04:36:49] Starting Ports: [COM1, COM12]
+[04:36:49] 	[COM1, COM12]
+[04:36:50] 	[COM1, COM12]
+[04:36:50] 	[COM1, COM12]
+[04:36:50] 	[COM1, COM12]
+[04:36:50] 	[COM1, COM12]
+[04:36:50] 	[COM1, COM12]
+[04:36:50] 	[COM1, COM12]
+[04:36:50] 	[COM1, COM12]
+[04:36:50] 	[COM1, COM12]
+[04:36:50] 	[COM1, COM12]
+[04:36:50] 	[COM1, COM12]
+[04:36:51] 	[COM1, COM12]
+[04:36:51] 	[COM1, COM12]
+[04:36:51] 	[COM1, COM12]
+[04:36:51] 	[COM1, COM12]
+[04:36:51] 	[COM1, COM12]
+[04:36:51] 	[COM1, COM12]
+[04:36:51] 	[COM1, COM12]
+[04:36:51] 	[COM1, COM12]
+[04:36:51] 	[COM1, COM12]
+[04:36:51] 	[COM1, COM12]
+[04:36:52] 	[COM1, COM12]
+[04:36:52] 	[COM1, COM12]
+[04:36:52] 	[COM1, COM12]
+[04:36:52] 	[COM1, COM12]
+[04:36:52] 	[COM1, COM12]
+[04:36:52] 	[COM1, COM12]
+[04:36:52] 	[COM1, COM11]
+[04:36:52] Found Port: COM11
+[04:36:52] C:\Users\Thayer\Desktop\Lenzhound GUI\avr\bin/avrdude.exe
+[04:36:52] -v
+[04:36:52] -CC:\Users\Thayer\Desktop\Lenzhound GUI\avr\etc/avrdude.conf
+[04:36:52] -p
+[04:36:52] atmega32u4
+[04:36:52] -cavr109
+[04:36:52] -PCOM11
+[04:36:52] -b57600
+[04:36:52] -D
+[04:36:52] -Uflash:w:C:\Users\Thayer\Documents\Txr.cpp.hex:i
+[04:36:54] Device update failed.
+[04:36:54] Beginning update of all GUI Values
+[04:36:55] Opening firmware update utility.
+[04:37:01] Scan 0: 
+[04:37:01] 
+
+	Ports Found: [COM1, COM12]
+[04:37:01] 
+	COM1
+[04:37:01] jssc.SerialPortTimeoutException: Port name - COM1; Method name - readBytes(); Serial port operation timeout (250 ms).
+[04:37:01] COM1 has failed.
+[04:37:01] 
+	COM12
+[04:37:01] Check success!
+
+[04:37:01] Update Started...
+[04:37:01] 	Buffer flushed
+[04:37:01] 	Port Reset
+[04:37:01] Starting Ports: [COM1, COM12]
+[04:37:01] 	[COM1, COM12]
+[04:37:01] 	[COM1, COM12]
+[04:37:02] 	[COM1, COM12]
+[04:37:02] 	[COM1, COM12]
+[04:37:02] 	[COM1, COM12]
+[04:37:02] 	[COM1, COM12]
+[04:37:02] 	[COM1, COM12]
+[04:37:02] 	[COM1, COM12]
+[04:37:02] 	[COM1, COM12]
+[04:37:02] 	[COM1, COM12]
+[04:37:02] 	[COM1, COM12]
+[04:37:02] 	[COM1, COM12]
+[04:37:03] 	[COM1, COM12]
+[04:37:03] 	[COM1, COM12]
+[04:37:03] 	[COM1, COM12]
+[04:37:03] 	[COM1, COM12]
+[04:37:03] 	[COM1, COM12]
+[04:37:03] 	[COM1, COM12]
+[04:37:03] 	[COM1, COM12]
+[04:37:03] 	[COM1, COM12]
+[04:37:03] 	[COM1, COM12]
+[04:37:03] 	[COM1, COM12]
+[04:37:04] 	[COM1, COM12]
+[04:37:04] 	[COM1, COM12]
+[04:37:04] 	[COM1, COM12]
+[04:37:04] 	[COM1, COM12]
+[04:37:04] 	[COM1, COM12]
+[04:37:04] 	[COM1, COM11]
+[04:37:04] Found Port: COM11
+[04:37:04] C:\Users\Thayer\Desktop\Lenzhound GUI\avr\bin/avrdude.exe
+[04:37:04] -v
+[04:37:04] -CC:\Users\Thayer\Desktop\Lenzhound GUI\avr\etc/avrdude.conf
+[04:37:04] -p
+[04:37:04] atmega32u4
+[04:37:04] -cavr109
+[04:37:04] -PCOM11
+[04:37:04] -b57600
+[04:37:04] -D
+[04:37:04] -Uflash:w:C:\Users\Thayer\Documents\Txr.cpp.hex:i
+[04:37:05] Device update failed.
+[04:37:05] Beginning update of all GUI Values
+[04:37:07] Opening firmware update utility.
+[04:37:16] Scan 0: 
+[04:37:16] 
+
+	Ports Found: [COM1, COM12]
+[04:37:16] 
+	COM1
+[04:37:16] jssc.SerialPortTimeoutException: Port name - COM1; Method name - readBytes(); Serial port operation timeout (250 ms).
+[04:37:16] COM1 has failed.
+[04:37:16] 
+	COM12
+[04:37:16] Check success!
+
+[04:37:16] Update Started...
+[04:37:16] 	Buffer flushed
+[04:37:16] 	Port Reset
+[04:37:16] Starting Ports: [COM1, COM12]
+[04:37:16] 	[COM1, COM12]
+[04:37:16] 	[COM1, COM12]
+[04:37:16] 	[COM1, COM12]
+[04:37:16] 	[COM1, COM12]
+[04:37:16] 	[COM1, COM12]
+[04:37:17] 	[COM1, COM12]
+[04:37:17] 	[COM1, COM12]
+[04:37:17] 	[COM1, COM12]
+[04:37:17] 	[COM1, COM12]
+[04:37:17] 	[COM1, COM12]
+[04:37:17] 	[COM1, COM12]
+[04:37:17] 	[COM1, COM12]
+[04:37:17] 	[COM1, COM12]
+[04:37:17] 	[COM1, COM12]
+[04:37:17] 	[COM1, COM12]
+[04:37:18] 	[COM1, COM12]
+[04:37:18] 	[COM1, COM12]
+[04:37:18] 	[COM1, COM12]
+[04:37:18] 	[COM1, COM12]
+[04:37:18] 	[COM1, COM12]
+[04:37:18] 	[COM1, COM12]
+[04:37:18] 	[COM1, COM12]
+[04:37:18] 	[COM1, COM12]
+[04:37:18] 	[COM1, COM12]
+[04:37:18] 	[COM1, COM12]
+[04:37:19] 	[COM1, COM12]
+[04:37:19] 	[COM1, COM12]
+[04:37:19] 	[COM1, COM11]
+[04:37:19] Found Port: COM11
+[04:37:19] C:\Users\Thayer\Desktop\Lenzhound GUI\avr\bin/avrdude.exe
+[04:37:19] -v
+[04:37:19] -CC:\Users\Thayer\Desktop\Lenzhound GUI\avr\etc/avrdude.conf
+[04:37:19] -p
+[04:37:19] atmega32u4
+[04:37:19] -cavr109
+[04:37:19] -PCOM11
+[04:37:19] -b57600
+[04:37:19] -D
+[04:37:19] -Uflash:w:C:\Users\Thayer\Documents\Txr.cpp.hex:i
+[04:37:20] Device update failed.
+[04:37:20] Beginning update of all GUI Values
+[04:37:22] GUI closed
+[04:38:30] GUI opened
+[04:38:30] GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+[04:38:30] Begining component set up.
+[04:38:30] Components finished, starting listeners.
+[04:38:30] Listeners finished, staring keyboard manager.
+[04:38:30] Keyboard manager finished, starting dialog frame.
+[04:38:30] Dialog frame finished, starting load of saved settings.
+[04:38:30] Length of Entry: 11
+[04:38:30] Base Setup
+[04:38:30] 	0 32768
+[04:38:30] 	1 256
+[04:38:30] 	2 0
+[04:38:30] 	3 1
+[04:38:30] 	4 3
+[04:38:30] 	5 0
+[04:38:30] 	6 32768
+[04:38:30] 	7 256
+[04:38:30] 	8 60
+[04:38:30] File loading finished, storing settings list
+[04:38:30] Successfully stored. Length: 1
+[04:38:30] Setting gui values.
+[04:38:30] Beginning update of all GUI Values
+[04:38:30] Successfully set look and feel of timelapse window.
+[04:38:30] [Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+[04:38:30] Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 60
+	last R-Channel: 1
+[04:38:30] Avrdude test failed, likely a permissions issue.
+[04:38:30] Setup process finished.
+[04:38:30] Beginning update of all GUI Values
+[04:38:32] Channel changed to 1
+[04:38:33] Beginning update of all GUI Values
+[04:38:40] Channel changed to 1
+[04:38:41] Begining Import from Device
+[04:38:42] Beginning update of all GUI Values
+[04:38:42] Scan 0: 
+[04:38:42] 
+	COM1
+[04:38:42] java.lang.NullPointerException
+[04:38:44] Beginning update of all GUI Values
+[04:38:44] Beginning update of all GUI Values
+[04:38:44] Using file: C:\Users\Thayer\Desktop\Lenzhound GUI\.data.txt
+[04:38:44] Beginning file write...
+[04:38:44] Writing Base Setup
+[04:38:44] Ending file write.
+[04:39:07] Opening firmware update utility.
+[04:39:19] Beginning update of all GUI Values
+[04:39:28] Scan 0: 
+[04:39:28] 
+
+	Ports Found: [COM1, COM12]
+[04:39:28] 
+	COM1
+[04:39:28] jssc.SerialPortException: Port name - COM1; Method name - closePort(); Exception type - Port not opened.
+[04:39:28] Update Started...
+[04:39:28] Unable to initially open port. Ensure the correct port is being targeted. Process is being aborted.
+[04:39:32] Beginning update of all GUI Values
+[04:39:33] Opening firmware update utility.
+[04:39:38] Beginning update of all GUI Values
+[04:39:40] Beginning update of all GUI Values
+[04:39:42] GUI closed at 04:39
+[04:39:51] GUI opened
+[04:39:51] GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+[04:39:51] Begining component set up.
+[04:39:51] Components finished, starting listeners.
+[04:39:51] Listeners finished, staring keyboard manager.
+[04:39:51] Keyboard manager finished, starting dialog frame.
+[04:39:51] Dialog frame finished, starting load of saved settings.
+[04:39:51] Length of Entry: 11
+[04:39:51] Base Setup
+[04:39:51] 	0 32768
+[04:39:51] 	1 256
+[04:39:51] 	2 0
+[04:39:51] 	3 1
+[04:39:51] 	4 3
+[04:39:51] 	5 0
+[04:39:51] 	6 32768
+[04:39:51] 	7 256
+[04:39:51] 	8 60
+[04:39:51] File loading finished, storing settings list
+[04:39:51] Successfully stored. Length: 1
+[04:39:51] Setting gui values.
+[04:39:51] Beginning update of all GUI Values
+[04:39:51] Successfully set look and feel of timelapse window.
+[04:39:51] [Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+[04:39:52] Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 60
+	last R-Channel: 1
+[04:39:52] Avrdude test failed, likely a permissions issue.
+[04:39:52] Setup process finished.
+[04:39:52] Beginning update of all GUI Values
+[04:39:56] Channel changed to 1
+[04:39:56] Opening firmware update utility.
+[04:40:04] Scan 0: 
+[04:40:04] 
+
+	Ports Found: [COM1, COM12]
+[04:40:04] 
+	COM1
+[04:40:04] jssc.SerialPortTimeoutException: Port name - COM1; Method name - readBytes(); Serial port operation timeout (250 ms).
+[04:40:04] COM1 has failed.
+[04:40:04] 
+	COM12
+[04:40:04] Check success!
+
+[04:40:04] Update Started...
+[04:40:04] 	Buffer flushed
+[04:40:04] 	Port Reset
+[04:40:04] Starting Ports: [COM1, COM12]
+[04:40:04] 	[COM1, COM12]
+[04:40:04] 	[COM1, COM12]
+[04:40:04] 	[COM1, COM12]
+[04:40:04] 	[COM1, COM12]
+[04:40:04] 	[COM1, COM12]
+[04:40:04] 	[COM1, COM12]
+[04:40:05] 	[COM1, COM12]
+[04:40:05] 	[COM1, COM12]
+[04:40:05] 	[COM1, COM12]
+[04:40:05] 	[COM1, COM12]
+[04:40:05] 	[COM1, COM12]
+[04:40:05] 	[COM1, COM12]
+[04:40:05] 	[COM1, COM12]
+[04:40:05] 	[COM1, COM12]
+[04:40:05] 	[COM1, COM12]
+[04:40:05] 	[COM1, COM12]
+[04:40:06] 	[COM1, COM12]
+[04:40:06] 	[COM1, COM12]
+[04:40:06] 	[COM1, COM12]
+[04:40:06] 	[COM1, COM12]
+[04:40:06] 	[COM1, COM12]
+[04:40:06] 	[COM1, COM12]
+[04:40:06] 	[COM1, COM12]
+[04:40:06] 	[COM1, COM12]
+[04:40:06] 	[COM1, COM12]
+[04:40:06] 	[COM1, COM12]
+[04:40:07] 	[COM1, COM12]
+[04:40:07] 	[COM1, COM11]
+[04:40:07] Found Port: COM11
+[04:40:07] C:\Users\Thayer\Desktop\Lenzhound GUI\avr\bin/avrdude.exe
+[04:40:07] -v
+[04:40:07] -CC:\Users\Thayer\Desktop\Lenzhound GUI\avr\etc/avrdude.conf
+[04:40:07] -p
+[04:40:07] atmega32u4
+[04:40:07] -cavr109
+[04:40:07] -PCOM11
+[04:40:07] -b57600
+[04:40:07] -D
+[04:40:07] -Uflash:w:C:\Users\Thayer\Documents\Txr.cpp.hex:i
+[04:41:36] Device update failed.
+[04:41:37] Beginning update of all GUI Values
+[04:41:40] GUI closed
+[04:43:11] GUI opened
+[04:43:11] GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+[04:43:11] Begining component set up.
+[04:43:11] Components finished, starting listeners.
+[04:43:11] Listeners finished, staring keyboard manager.
+[04:43:11] Keyboard manager finished, starting dialog frame.
+[04:43:11] Dialog frame finished, starting load of saved settings.
+[04:43:11] Length of Entry: 11
+[04:43:11] Base Setup
+[04:43:11] 	0 32768
+[04:43:11] 	1 256
+[04:43:11] 	2 0
+[04:43:11] 	3 1
+[04:43:11] 	4 3
+[04:43:11] 	5 0
+[04:43:11] 	6 32768
+[04:43:11] 	7 256
+[04:43:11] 	8 60
+[04:43:11] File loading finished, storing settings list
+[04:43:11] Successfully stored. Length: 1
+[04:43:11] Setting gui values.
+[04:43:11] Beginning update of all GUI Values
+[04:43:11] Successfully set look and feel of timelapse window.
+[04:43:11] [Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+[04:43:11] Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 60
+	last R-Channel: 1
+[04:43:11] Avrdude test failed, likely a permissions issue.
+[04:43:11] Setup process finished.
+[04:43:12] Beginning update of all GUI Values
+[04:43:18] Channel changed to 1
+[04:43:18] Begining Import from Device
+[04:43:19] Beginning update of all GUI Values
+[04:43:19] Scan 0: 
+[04:43:19] 
+	COM1
+[04:43:19] java.lang.NullPointerException
+[04:43:21] Beginning update of all GUI Values
+[04:43:21] Beginning update of all GUI Values
+[04:43:21] Using file: C:\Users\Thayer\Desktop\Lenzhound GUI\.data.txt
+[04:43:21] Beginning file write...
+[04:43:21] Writing Base Setup
+[04:43:21] Ending file write.
+[04:43:22] Begining Import from Device
+[04:43:23] Beginning update of all GUI Values
+[04:43:23] Scan 0: 
+[04:43:23] 
+	COM1
+[04:43:23] jssc.SerialPortException: Port name - COM1; Method name - closePort(); Exception type - Port not opened.
+[04:43:23] java.lang.Exception: Port not found
+[04:43:24] Beginning update of all GUI Values
+[04:43:24] Beginning update of all GUI Values
+[04:43:24] Using file: C:\Users\Thayer\Desktop\Lenzhound GUI\.data.txt
+[04:43:24] Beginning file write...
+[04:43:24] Writing Base Setup
+[04:43:24] Ending file write.
+[04:43:33] Beginning update of all GUI Values
+[04:43:35] Scan 0: 
+[04:43:35] 
+	COM1
+[04:43:35] jssc.SerialPortException: Port name - COM1; Method name - closePort(); Exception type - Port not opened.
+[04:43:37] Beginning update of all GUI Values
+[04:43:40] GUI closed
+[04:43:48] GUI opened
+[04:43:48] GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+[04:43:48] Begining component set up.
+[04:43:48] Components finished, starting listeners.
+[04:43:48] Listeners finished, staring keyboard manager.
+[04:43:48] Keyboard manager finished, starting dialog frame.
+[04:43:48] Dialog frame finished, starting load of saved settings.
+[04:43:48] Length of Entry: 11
+[04:43:48] Base Setup
+[04:43:48] 	0 32768
+[04:43:48] 	1 256
+[04:43:48] 	2 0
+[04:43:48] 	3 1
+[04:43:48] 	4 3
+[04:43:48] 	5 0
+[04:43:48] 	6 32768
+[04:43:48] 	7 256
+[04:43:48] 	8 60
+[04:43:48] File loading finished, storing settings list
+[04:43:48] Successfully stored. Length: 1
+[04:43:48] Setting gui values.
+[04:43:48] Beginning update of all GUI Values
+[04:43:48] Successfully set look and feel of timelapse window.
+[04:43:48] [Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+[04:43:48] Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 60
+	last R-Channel: 1
+[04:43:48] Avrdude test failed, likely a permissions issue.
+[04:43:48] Setup process finished.
+[04:43:48] Beginning update of all GUI Values
+[04:43:51] Channel changed to 1
+[04:43:51] Scan 0: 
+[04:43:51] 
+	COM1
+[04:44:51] Beginning update of all GUI Values
+[04:44:54] GUI closed
+[05:27:45] GUI opened
+[05:27:45] GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+[05:27:45] Begining component set up.
+[05:27:45] Components finished, starting listeners.
+[05:27:45] Listeners finished, staring keyboard manager.
+[05:27:45] Keyboard manager finished, starting dialog frame.
+[05:27:45] Dialog frame finished, starting load of saved settings.
+[05:27:45] Length of Entry: 11
+[05:27:45] Base Setup
+[05:27:45] 	0 32768
+[05:27:45] 	1 256
+[05:27:45] 	2 0
+[05:27:45] 	3 1
+[05:27:45] 	4 3
+[05:27:45] 	5 0
+[05:27:45] 	6 32768
+[05:27:45] 	7 256
+[05:27:45] 	8 60
+[05:27:45] File loading finished, storing settings list
+[05:27:45] Successfully stored. Length: 1
+[05:27:45] Setting gui values.
+[05:27:45] Beginning update of all GUI Values
+[05:27:45] Successfully set look and feel of timelapse window.
+[05:27:45] [Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+[05:27:45] Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 60
+	last R-Channel: 1
+[05:27:45] Avrdude test failed, likely a permissions issue.
+[05:27:45] Setup process finished.
+[05:27:46] Beginning update of all GUI Values
+[05:28:39] Channel changed to 1
+[05:28:39] Opening firmware update utility.
+[05:28:47] Scan 0: 
+[05:28:47] 
+
+	Ports Found: [COM1, COM12]
+[05:28:47] 
+	COM1
+[05:28:47] jssc.SerialPortTimeoutException: Port name - COM1; Method name - readBytes(); Serial port operation timeout (250 ms).
+[05:28:47] COM1 has failed.
+[05:28:47] 
+	COM12
+[05:28:47] Check success!
+
+[05:28:47] Update Started...
+[05:28:48] 	Buffer flushed
+[05:28:48] 	Port Reset
+[05:28:48] Starting Ports: [COM1, COM12]
+[05:28:48] 	[COM1, COM12]
+[05:28:48] 	[COM1, COM12]
+[05:28:48] 	[COM1, COM12]
+[05:28:48] 	[COM1, COM12]
+[05:28:48] 	[COM1, COM12]
+[05:28:48] 	[COM1, COM12]
+[05:28:48] 	[COM1, COM12]
+[05:28:49] 	[COM1, COM12]
+[05:28:49] 	[COM1, COM12]
+[05:28:49] 	[COM1, COM12]
+[05:28:49] 	[COM1, COM12]
+[05:28:49] 	[COM1, COM12]
+[05:28:49] 	[COM1, COM12]
+[05:28:49] 	[COM1, COM12]
+[05:28:49] 	[COM1, COM12]
+[05:28:49] 	[COM1, COM12]
+[05:28:49] 	[COM1, COM12]
+[05:28:50] 	[COM1, COM12]
+[05:28:50] 	[COM1, COM12]
+[05:28:50] 	[COM1, COM12]
+[05:28:50] 	[COM1, COM12]
+[05:28:50] 	[COM1, COM12]
+[05:28:50] 	[COM1, COM12]
+[05:28:50] 	[COM1, COM12]
+[05:28:50] 	[COM1, COM12]
+[05:28:50] 	[COM1, COM12]
+[05:28:50] 	[COM1, COM12]
+[05:28:51] 	[COM1, COM11]
+[05:28:51] Found Port: COM11
+[05:28:51] C:\Users\Thayer\Desktop\Lenzhound GUI\avr\bin/avrdude.exe
+[05:28:51] -v
+[05:28:51] -CC:\Users\Thayer\Desktop\Lenzhound GUI\avr\etc/avrdude.conf
+[05:28:51] -p
+[05:28:51] atmega32u4
+[05:28:51] -cavr109
+[05:28:51] -PCOM11
+[05:28:51] -b57600
+[05:28:51] -D
+[05:28:51] -Uflash:w:C:\Users\Thayer\Documents\Txr.cpp.hex:i
+[05:28:53] Device update failed.
+[05:28:53] Beginning update of all GUI Values
+[05:29:18] Beginning update of all GUI Values
+[05:29:19] Opening firmware update utility.
+[05:29:22] Beginning update of all GUI Values
+[05:29:25] GUI closed
+[05:36:08] GUI opened
+[05:36:08] GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+[05:36:08] Begining component set up.
+[05:36:08] Components finished, starting listeners.
+[05:36:08] Listeners finished, staring keyboard manager.
+[05:36:08] Keyboard manager finished, starting dialog frame.
+[05:36:08] Dialog frame finished, starting load of saved settings.
+[05:36:08] Length of Entry: 11
+[05:36:08] Base Setup
+[05:36:08] 	0 32768
+[05:36:08] 	1 256
+[05:36:08] 	2 0
+[05:36:08] 	3 1
+[05:36:08] 	4 3
+[05:36:08] 	5 0
+[05:36:08] 	6 32768
+[05:36:08] 	7 256
+[05:36:08] 	8 60
+[05:36:08] File loading finished, storing settings list
+[05:36:08] Successfully stored. Length: 1
+[05:36:08] Setting gui values.
+[05:36:08] Beginning update of all GUI Values
+[05:36:08] Successfully set look and feel of timelapse window.
+[05:36:08] [Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+[05:36:09] Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 60
+	last R-Channel: 1
+[05:36:09] Avrdude test failed, likely a permissions issue.
+[05:36:09] Setup process finished.
+[05:36:09] Beginning update of all GUI Values
+[05:36:12] Channel changed to 1
+[05:36:12] Opening firmware update utility.
+[05:36:22] Scan 0: 
+[05:36:22] 
+
+	Ports Found: [COM1, COM12]
+[05:36:22] 
+	COM1
+[05:36:22] jssc.SerialPortTimeoutException: Port name - COM1; Method name - readBytes(); Serial port operation timeout (250 ms).
+[05:36:22] COM1 has failed.
+[05:36:22] 
+	COM12
+[05:36:22] Check success!
+
+[05:36:22] Update Started...
+[05:36:22] 	Buffer flushed
+[05:36:22] 	Port Reset
+[05:36:22] Starting Ports: [COM1, COM12]
+[05:36:22] 	[COM1, COM12]
+[05:36:22] 	[COM1, COM12]
+[05:36:22] 	[COM1, COM12]
+[05:36:23] 	[COM1, COM12]
+[05:36:23] 	[COM1, COM12]
+[05:36:23] 	[COM1, COM12]
+[05:36:23] 	[COM1, COM12]
+[05:36:23] 	[COM1, COM12]
+[05:36:23] 	[COM1, COM12]
+[05:36:23] 	[COM1, COM12]
+[05:36:23] 	[COM1, COM12]
+[05:36:23] 	[COM1, COM12]
+[05:36:23] 	[COM1, COM12]
+[05:36:24] 	[COM1, COM12]
+[05:36:24] 	[COM1, COM12]
+[05:36:24] 	[COM1, COM12]
+[05:36:24] 	[COM1, COM12]
+[05:36:24] 	[COM1, COM12]
+[05:36:24] 	[COM1, COM12]
+[05:36:24] 	[COM1, COM12]
+[05:36:24] 	[COM1, COM12]
+[05:36:24] 	[COM1, COM12]
+[05:36:24] 	[COM1, COM12]
+[05:36:25] 	[COM1, COM12]
+[05:36:25] 	[COM1, COM12]
+[05:36:25] 	[COM1, COM12]
+[05:36:25] 	[COM1, COM12]
+[05:36:25] 	[COM1, COM11]
+[05:36:25] Found Port: COM11
+[05:36:25] C:\Users\Thayer\Desktop\Lenzhound GUI\avr\bin/avrdude.exe
+[05:36:25] -v
+[05:36:25] -CC:\Users\Thayer\Desktop\Lenzhound GUI\avr\etc/avrdude.conf
+[05:36:25] -p
+[05:36:25] atmega32u4
+[05:36:25] -cavr109
+[05:36:25] -PCOM11
+[05:36:25] -b57600
+[05:36:25] -D
+[05:36:25] -Uflash:w:C:\Users\Thayer\Documents\Txr.cpp.hex:i
+[05:36:27] Device update failed.
+[05:36:27] Beginning update of all GUI Values
+[05:38:22] Beginning update of all GUI Values
+[05:38:25] GUI closed
+[05:38:21] GUI opened
+[05:38:21] GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+[05:38:21] Begining component set up.
+[05:38:21] Components finished, starting listeners.
+[05:38:21] Listeners finished, staring keyboard manager.
+[05:38:21] Keyboard manager finished, starting dialog frame.
+[05:38:21] Dialog frame finished, starting load of saved settings.
+[05:38:21] Length of Entry: 11
+[05:38:21] Base Setup
+[05:38:21] 	0 32768
+[05:38:21] 	1 256
+[05:38:21] 	2 0
+[05:38:21] 	3 1
+[05:38:21] 	4 3
+[05:38:21] 	5 0
+[05:38:21] 	6 32768
+[05:38:21] 	7 256
+[05:38:21] 	8 60
+[05:38:21] File loading finished, storing settings list
+[05:38:21] Successfully stored. Length: 1
+[05:38:21] Setting gui values.
+[05:38:21] Beginning update of all GUI Values
+[05:38:21] Successfully set look and feel of timelapse window.
+[05:38:21] [Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+[05:38:21] Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 60
+	last R-Channel: 1
+[05:38:21] Avrdude test failed, likely a permissions issue.
+[05:38:21] Setup process finished.
+[05:38:22] Beginning update of all GUI Values
+[05:38:25] Beginning update of all GUI Values
+[05:38:25] Channel changed to 1
+[05:38:25] Opening firmware update utility.
+[05:38:31] Scan 0: 
+[05:38:31] 
+
+	Ports Found: [COM1, COM12]
+[05:38:31] 
+	COM1
+[05:38:32] jssc.SerialPortTimeoutException: Port name - COM1; Method name - readBytes(); Serial port operation timeout (250 ms).
+[05:38:32] COM1 has failed.
+[05:38:32] 
+	COM12
+[05:38:32] Check success!
+
+[05:38:32] Update Started...
+[05:38:32] 	Buffer flushed
+[05:38:32] 	Port Reset
+[05:38:32] Starting Ports: [COM1, COM12]
+[05:38:32] 	[COM1, COM12]
+[05:38:32] 	[COM1, COM12]
+[05:38:32] 	[COM1, COM12]
+[05:38:32] 	[COM1, COM12]
+[05:38:32] 	[COM1, COM12]
+[05:38:32] 	[COM1, COM12]
+[05:38:32] 	[COM1, COM12]
+[05:38:32] 	[COM1, COM12]
+[05:38:33] 	[COM1, COM12]
+[05:38:33] 	[COM1, COM12]
+[05:38:33] 	[COM1, COM12]
+[05:38:33] 	[COM1, COM12]
+[05:38:33] 	[COM1, COM12]
+[05:38:33] 	[COM1, COM12]
+[05:38:33] 	[COM1, COM12]
+[05:38:33] 	[COM1, COM12]
+[05:38:33] 	[COM1, COM12]
+[05:38:33] 	[COM1, COM12]
+[05:38:34] 	[COM1, COM12]
+[05:38:34] 	[COM1, COM12]
+[05:38:34] 	[COM1, COM12]
+[05:38:34] 	[COM1, COM12]
+[05:38:34] 	[COM1, COM12]
+[05:38:34] 	[COM1, COM12]
+[05:38:34] 	[COM1, COM12]
+[05:38:34] 	[COM1, COM12]
+[05:38:34] 	[COM1, COM12]
+[05:38:34] 	[COM1, COM11]
+[05:38:34] Found Port: COM11
+[05:38:34] C:\Users\Thayer\Desktop\Lenzhound GUI\avr\bin/avrdude.exe
+[05:38:34] -v
+[05:38:34] -CC:\Users\Thayer\Desktop\Lenzhound GUI\avr\etc/avrdude.conf
+[05:38:34] -p
+[05:38:34] atmega32u4
+[05:38:34] -cavr109
+[05:38:34] -PCOM11
+[05:38:34] -b57600
+[05:38:34] -D
+[05:38:34] -Uflash:w:C:\Users\Thayer\Documents\Txr.cpp.hex:i
+[05:38:37] Device update failed.
+[05:38:37] Beginning update of all GUI Values
+[05:38:39] GUI closed
+[05:38:50] GUI opened
+[05:38:50] GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+[05:38:50] Begining component set up.
+[05:38:50] Components finished, starting listeners.
+[05:38:50] Listeners finished, staring keyboard manager.
+[05:38:50] Keyboard manager finished, starting dialog frame.
+[05:38:50] Dialog frame finished, starting load of saved settings.
+[05:38:50] Length of Entry: 11
+[05:38:50] Base Setup
+[05:38:50] 	0 32768
+[05:38:50] 	1 256
+[05:38:50] 	2 0
+[05:38:50] 	3 1
+[05:38:50] 	4 3
+[05:38:50] 	5 0
+[05:38:50] 	6 32768
+[05:38:50] 	7 256
+[05:38:50] 	8 60
+[05:38:50] File loading finished, storing settings list
+[05:38:50] Successfully stored. Length: 1
+[05:38:50] Setting gui values.
+[05:38:50] Beginning update of all GUI Values
+[05:38:50] Successfully set look and feel of timelapse window.
+[05:38:50] [Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+[05:38:50] Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 60
+	last R-Channel: 1
+[05:38:50] Avrdude test failed, likely a permissions issue.
+[05:38:50] Setup process finished.
+[05:38:51] Beginning update of all GUI Values
+[05:38:52] Channel changed to 1
+[05:38:52] Opening firmware update utility.
+[05:39:01] Scan 0: 
+[05:39:01] 
+
+	Ports Found: [COM1, COM12]
+[05:39:01] 
+	COM1
+[05:39:02] jssc.SerialPortTimeoutException: Port name - COM1; Method name - readBytes(); Serial port operation timeout (250 ms).
+[05:39:02] COM1 has failed.
+[05:39:02] 
+	COM12
+[05:39:02] Check success!
+
+[05:39:02] Update Started...
+[05:39:02] 	Buffer flushed
+[05:39:02] 	Port Reset
+[05:39:02] Starting Ports: [COM1, COM12]
+[05:39:02] 	[COM1, COM12]
+[05:39:02] 	[COM1, COM12]
+[05:39:02] 	[COM1, COM12]
+[05:39:02] 	[COM1, COM12]
+[05:39:02] 	[COM1, COM12]
+[05:39:02] 	[COM1, COM12]
+[05:39:02] 	[COM1, COM12]
+[05:39:02] 	[COM1, COM12]
+[05:39:03] 	[COM1, COM12]
+[05:39:03] 	[COM1, COM12]
+[05:39:03] 	[COM1, COM12]
+[05:39:03] 	[COM1, COM12]
+[05:39:03] 	[COM1, COM12]
+[05:39:03] 	[COM1, COM12]
+[05:39:03] 	[COM1, COM12]
+[05:39:03] 	[COM1, COM12]
+[05:39:03] 	[COM1, COM12]
+[05:39:03] 	[COM1, COM12]
+[05:39:04] 	[COM1, COM12]
+[05:39:04] 	[COM1, COM12]
+[05:39:04] 	[COM1, COM12]
+[05:39:04] 	[COM1, COM12]
+[05:39:04] 	[COM1, COM12]
+[05:39:04] 	[COM1, COM12]
+[05:39:04] 	[COM1, COM12]
+[05:39:04] 	[COM1, COM12]
+[05:39:04] 	[COM1, COM12]
+[05:39:04] 	[COM1, COM11]
+[05:39:04] Found Port: COM11
+[05:39:04] C:\Users\Thayer\Desktop\Lenzhound GUI\avr\bin/avrdude.exe
+[05:39:04] -v
+[05:39:04] -CC:\Users\Thayer\Desktop\Lenzhound GUI\avr\etc/avrdude.conf
+[05:39:04] -p
+[05:39:04] atmega32u4
+[05:39:04] -cavr109
+[05:39:04] -PCOM11
+[05:39:04] -b57600
+[05:39:04] -D
+[05:39:04] -Uflash:w:C:\Users\Thayer\Documents\Txr.cpp.hex:i
+[05:39:08] Device update failed.
+[05:39:08] Beginning update of all GUI Values
+[05:40:39] Beginning update of all GUI Values
+[05:40:45] GUI closed
+[05:40:43] GUI opened
+[05:40:43] GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+[05:40:43] Begining component set up.
+[05:40:44] Components finished, starting listeners.
+[05:40:44] Listeners finished, staring keyboard manager.
+[05:40:44] Keyboard manager finished, starting dialog frame.
+[05:40:44] Dialog frame finished, starting load of saved settings.
+[05:40:44] Length of Entry: 11
+[05:40:44] Base Setup
+[05:40:44] 	0 32768
+[05:40:44] 	1 256
+[05:40:44] 	2 0
+[05:40:44] 	3 1
+[05:40:44] 	4 3
+[05:40:44] 	5 0
+[05:40:44] 	6 32768
+[05:40:44] 	7 256
+[05:40:44] 	8 60
+[05:40:44] File loading finished, storing settings list
+[05:40:44] Successfully stored. Length: 1
+[05:40:44] Setting gui values.
+[05:40:44] Beginning update of all GUI Values
+[05:40:44] Successfully set look and feel of timelapse window.
+[05:40:44] [Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+[05:40:44] Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 60
+	last R-Channel: 1
+[05:40:44] Avrdude test failed, likely a permissions issue.
+[05:40:44] Setup process finished.
+[05:40:44] Beginning update of all GUI Values
+[05:40:46] Channel changed to 1
+[05:40:46] Opening firmware update utility.
+[05:40:51] Scan 0: 
+[05:40:51] 
+
+	Ports Found: [COM1, COM12]
+[05:40:51] 
+	COM1
+[05:40:51] jssc.SerialPortTimeoutException: Port name - COM1; Method name - readBytes(); Serial port operation timeout (250 ms).
+[05:40:51] COM1 has failed.
+[05:40:51] 
+	COM12
+[05:40:51] Check success!
+
+[05:40:51] Update Started...
+[05:40:51] 	Buffer flushed
+[05:40:51] 	Port Reset
+[05:40:51] Starting Ports: [COM1, COM12]
+[05:40:51] 	[COM1, COM12]
+[05:40:51] 	[COM1, COM12]
+[05:40:51] 	[COM1, COM12]
+[05:40:51] 	[COM1, COM12]
+[05:40:52] 	[COM1, COM12]
+[05:40:52] 	[COM1, COM12]
+[05:40:52] 	[COM1, COM12]
+[05:40:52] 	[COM1, COM12]
+[05:40:52] 	[COM1, COM12]
+[05:40:52] 	[COM1, COM12]
+[05:40:52] 	[COM1, COM12]
+[05:40:52] 	[COM1, COM12]
+[05:40:52] 	[COM1, COM12]
+[05:40:52] 	[COM1, COM12]
+[05:40:53] 	[COM1, COM12]
+[05:40:53] 	[COM1, COM12]
+[05:40:53] 	[COM1, COM12]
+[05:40:53] 	[COM1, COM12]
+[05:40:53] 	[COM1, COM12]
+[05:40:53] 	[COM1, COM12]
+[05:40:53] 	[COM1, COM12]
+[05:40:53] 	[COM1, COM12]
+[05:40:53] 	[COM1, COM12]
+[05:40:53] 	[COM1, COM12]
+[05:40:54] 	[COM1, COM12]
+[05:40:54] 	[COM1, COM12]
+[05:40:54] 	[COM1, COM12]
+[05:40:54] 	[COM1, COM11]
+[05:40:54] Found Port: COM11
+[05:40:54] C:\Users\Thayer\Desktop\Lenzhound GUI\avr\bin/avrdude.exe [05:40:54] -v [05:40:54] -CC:\Users\Thayer\Desktop\Lenzhound GUI\avr\etc/avrdude.conf [05:40:54] -p [05:40:54] atmega32u4 [05:40:54] -cavr109 [05:40:54] -PCOM11 [05:40:54] -b57600 [05:40:54] -D [05:40:54] -Uflash:w:C:\Users\Thayer\Documents\Txr.cpp.hex:i [05:40:58] Device update failed.
+[05:40:58] Beginning update of all GUI Values
+[05:41:05] GUI closed at 05:41
+[05:46:08] GUI opened
+[05:46:08] GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+[05:46:08] Begining component set up.
+[05:46:08] Components finished, starting listeners.
+[05:46:08] Listeners finished, staring keyboard manager.
+[05:46:08] Keyboard manager finished, starting dialog frame.
+[05:46:08] Dialog frame finished, starting load of saved settings.
+[05:46:08] Length of Entry: 11
+[05:46:08] Base Setup
+[05:46:08] 	0 32768
+[05:46:08] 	1 256
+[05:46:08] 	2 0
+[05:46:08] 	3 1
+[05:46:08] 	4 3
+[05:46:08] 	5 0
+[05:46:08] 	6 32768
+[05:46:08] 	7 256
+[05:46:08] 	8 60
+[05:46:08] File loading finished, storing settings list
+[05:46:08] Successfully stored. Length: 1
+[05:46:08] Setting gui values.
+[05:46:08] Beginning update of all GUI Values
+[05:46:08] Successfully set look and feel of timelapse window.
+[05:46:08] [Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+[05:46:08] Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 60
+	last R-Channel: 1
+[05:46:08] Avrdude test failed, likely a permissions issue.
+[05:46:08] Setup process finished.
+[05:46:08] Beginning update of all GUI Values
+[05:46:09] Channel changed to 1
+[05:46:09] Opening firmware update utility.
+[05:46:15] Scan 0: 
+[05:46:15] 
+
+	Ports Found: [COM1, COM12]
+[05:46:15] 
+	COM1
+[05:46:16] jssc.SerialPortTimeoutException: Port name - COM1; Method name - readBytes(); Serial port operation timeout (250 ms).
+[05:46:16] COM1 has failed.
+[05:46:16] 
+	COM12
+[05:46:16] jssc.SerialPortTimeoutException: Port name - COM12; Method name - readBytes(); Serial port operation timeout (250 ms).
+[05:46:16] COM12 has failed.
+[05:46:16] Scan 1: 
+[05:46:16] 
+
+	Ports Found: [COM1, COM12]
+[05:46:16] 
+	COM1
+[05:46:16] jssc.SerialPortTimeoutException: Port name - COM1; Method name - readBytes(); Serial port operation timeout (250 ms).
+[05:46:16] COM1 has failed.
+[05:46:16] 
+	COM12
+[05:46:16] jssc.SerialPortTimeoutException: Port name - COM12; Method name - readBytes(); Serial port operation timeout (250 ms).
+[05:46:16] COM12 has failed.
+[05:46:16] Scan 2: 
+[05:46:16] 
+
+	Ports Found: [COM1, COM12]
+[05:46:16] 
+	COM1
+[05:46:17] jssc.SerialPortTimeoutException: Port name - COM1; Method name - readBytes(); Serial port operation timeout (250 ms).
+[05:46:17] COM1 has failed.
+[05:46:17] 
+	COM12
+[05:46:30] Beginning update of all GUI Values
+[05:46:32] Beginning update of all GUI Values
+[05:46:33] Beginning update of all GUI Values
+[05:46:35] GUI closed at 05:46
+[05:47:02] GUI opened
+[05:47:02] GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+[05:47:02] Begining component set up.
+[05:47:02] Components finished, starting listeners.
+[05:47:02] Listeners finished, staring keyboard manager.
+[05:47:02] Keyboard manager finished, starting dialog frame.
+[05:47:02] Dialog frame finished, starting load of saved settings.
+[05:47:02] Length of Entry: 11
+[05:47:02] Base Setup
+[05:47:02] 	0 32768
+[05:47:02] 	1 256
+[05:47:02] 	2 0
+[05:47:02] 	3 1
+[05:47:02] 	4 3
+[05:47:02] 	5 0
+[05:47:02] 	6 32768
+[05:47:02] 	7 256
+[05:47:02] 	8 60
+[05:47:02] File loading finished, storing settings list
+[05:47:02] Successfully stored. Length: 1
+[05:47:02] Setting gui values.
+[05:47:02] Beginning update of all GUI Values
+[05:47:02] Successfully set look and feel of timelapse window.
+[05:47:02] [Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+[05:47:02] Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 60
+	last R-Channel: 1
+[05:47:02] Avrdude test failed, likely a permissions issue.
+[05:47:02] Setup process finished.
+[05:47:02] Beginning update of all GUI Values
+[05:47:03] Channel changed to 1
+[05:47:04] Opening firmware update utility.
+[05:47:08] Scan 0: 
+[05:47:08] 
+
+	Ports Found: [COM1, COM12]
+[05:47:08] 
+	COM1
+[05:47:08] jssc.SerialPortTimeoutException: Port name - COM1; Method name - readBytes(); Serial port operation timeout (250 ms).
+[05:47:08] COM1 has failed.
+[05:47:08] 
+	COM12
+[05:47:08] Check success!
+
+[05:47:08] Update Started...
+[05:47:08] 	Buffer flushed
+[05:47:08] 	Port Reset
+[05:47:08] Starting Ports: [COM1, COM12]
+[05:47:08] 	[COM1, COM12]
+[05:47:08] 	[COM1, COM12]
+[05:47:08] 	[COM1, COM12]
+[05:47:08] 	[COM1, COM12]
+[05:47:08] 	[COM1, COM12]
+[05:47:08] 	[COM1, COM12]
+[05:47:09] 	[COM1, COM12]
+[05:47:09] 	[COM1, COM12]
+[05:47:09] 	[COM1, COM12]
+[05:47:09] 	[COM1, COM12]
+[05:47:09] 	[COM1, COM12]
+[05:47:09] 	[COM1, COM12]
+[05:47:09] 	[COM1, COM12]
+[05:47:09] 	[COM1, COM12]
+[05:47:09] 	[COM1, COM12]
+[05:47:09] 	[COM1, COM12]
+[05:47:10] 	[COM1, COM12]
+[05:47:10] 	[COM1, COM12]
+[05:47:10] 	[COM1, COM12]
+[05:47:10] 	[COM1, COM12]
+[05:47:10] 	[COM1, COM12]
+[05:47:10] 	[COM1, COM12]
+[05:47:10] 	[COM1, COM12]
+[05:47:10] 	[COM1, COM12]
+[05:47:10] 	[COM1, COM12]
+[05:47:10] 	[COM1, COM12]
+[05:47:11] 	[COM1, COM12]
+[05:47:11] 	[COM1, COM11]
+[05:47:11] Found Port: COM11
+C:\Users\Thayer\Desktop\Lenzhound GUI\avr\bin/avrdude.exe -v -CC:\Users\Thayer\Desktop\Lenzhound GUI\avr\etc/avrdude.conf -p atmega32u4 -cavr109 -PCOM11 -b57600 -D -Uflash:w:C:\Users\Thayer\Documents\Txr.cpp.hex:i [05:47:13] Device update failed.
+[05:47:13] Beginning update of all GUI Values
+[05:47:29] Beginning update of all GUI Values
+[05:47:31] GUI closed
+[05:48:41] GUI opened
+[05:48:41] GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+[05:48:41] Begining component set up.
+[05:48:41] Components finished, starting listeners.
+[05:48:41] Listeners finished, staring keyboard manager.
+[05:48:41] Keyboard manager finished, starting dialog frame.
+[05:48:41] Dialog frame finished, starting load of saved settings.
+[05:48:41] Length of Entry: 11
+[05:48:41] Base Setup
+[05:48:41] 	0 32768
+[05:48:41] 	1 256
+[05:48:41] 	2 0
+[05:48:41] 	3 1
+[05:48:41] 	4 3
+[05:48:41] 	5 0
+[05:48:41] 	6 32768
+[05:48:41] 	7 256
+[05:48:41] 	8 60
+[05:48:41] File loading finished, storing settings list
+[05:48:41] Successfully stored. Length: 1
+[05:48:41] Setting gui values.
+[05:48:41] Beginning update of all GUI Values
+[05:48:41] Successfully set look and feel of timelapse window.
+[05:48:41] [Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+[05:48:41] Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 60
+	last R-Channel: 1
+[05:48:41] Avrdude test failed, likely a permissions issue.
+[05:48:41] Setup process finished.
+[05:48:41] Beginning update of all GUI Values
+[05:48:43] Channel changed to 1
+[05:48:44] GUI closed
+[05:51:40] GUI opened
+[05:51:40] GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+[05:51:40] Begining component set up.
+[05:51:40] Components finished, starting listeners.
+[05:51:40] Listeners finished, staring keyboard manager.
+[05:51:40] Keyboard manager finished, starting dialog frame.
+[05:51:40] Dialog frame finished, starting load of saved settings.
+[05:51:40] Length of Entry: 11
+[05:51:40] Base Setup
+[05:51:40] 	0 32768
+[05:51:40] 	1 256
+[05:51:40] 	2 0
+[05:51:40] 	3 1
+[05:51:40] 	4 3
+[05:51:40] 	5 0
+[05:51:40] 	6 32768
+[05:51:40] 	7 256
+[05:51:40] 	8 60
+[05:51:40] File loading finished, storing settings list
+[05:51:40] Successfully stored. Length: 1
+[05:51:40] Setting gui values.
+[05:51:40] Beginning update of all GUI Values
+[05:51:40] Successfully set look and feel of timelapse window.
+[05:51:40] [Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+[05:51:40] Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 60
+	last R-Channel: 1
+[05:51:40] Avrdude test failed, likely a permissions issue.
+[05:51:40] Setup process finished.
+[05:51:40] Beginning update of all GUI Values
+[05:51:43] Channel changed to 1
+[05:51:43] Begining Import from Device
+[05:51:44] Beginning update of all GUI Values
+[05:51:44] Scan 0: 
+[05:51:44] 
+	COM1
+[05:51:44] java.lang.NullPointerException
+[05:51:52] Beginning update of all GUI Values
+[05:51:52] Beginning update of all GUI Values
+[05:51:52] Using file: C:\Users\Thayer\Desktop\Lenzhound GUI\.data.txt
+[05:51:52] Beginning file write...
+[05:51:52] Writing Base Setup
+[05:51:52] Ending file write.
+[05:51:53] Opening firmware update utility.
+[05:51:55] Beginning update of all GUI Values
+[05:51:56] Begining Import from Device
+[05:51:57] Beginning update of all GUI Values
+[05:51:57] Scan 0: 
+[05:51:57] 
+	COM1
+[05:51:57] jssc.SerialPortException: Port name - COM1; Method name - closePort(); Exception type - Port not opened.
+[05:51:57] java.lang.Exception: Port not found
+[05:52:11] Beginning update of all GUI Values
+[05:52:11] Beginning update of all GUI Values
+[05:52:11] Using file: C:\Users\Thayer\Desktop\Lenzhound GUI\.data.txt
+[05:52:11] Beginning file write...
+[05:52:11] Writing Base Setup
+[05:52:11] Ending file write.
+[05:52:13] GUI closed
+[05:53:57] GUI opened
+[05:53:57] GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+[05:53:57] Begining component set up.
+[05:53:57] Components finished, starting listeners.
+[05:53:57] Listeners finished, staring keyboard manager.
+[05:53:57] Keyboard manager finished, starting dialog frame.
+[05:53:57] Dialog frame finished, starting load of saved settings.
+[05:53:57] Length of Entry: 11
+[05:53:57] Base Setup
+[05:53:57] 	0 32768
+[05:53:57] 	1 256
+[05:53:57] 	2 0
+[05:53:57] 	3 1
+[05:53:57] 	4 3
+[05:53:57] 	5 0
+[05:53:57] 	6 32768
+[05:53:57] 	7 256
+[05:53:57] 	8 60
+[05:53:57] File loading finished, storing settings list
+[05:53:57] Successfully stored. Length: 1
+[05:53:57] Setting gui values.
+[05:53:57] Beginning update of all GUI Values
+[05:53:57] Successfully set look and feel of timelapse window.
+[05:53:57] [Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+[05:53:57] Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 60
+	last R-Channel: 1
+[05:53:57] Avrdude test failed, likely a permissions issue.
+[05:53:57] Setup process finished.
+[05:53:57] Beginning update of all GUI Values
+[05:54:03] Channel changed to 1
+[05:54:03] Begining Import from Device
+[05:54:04] Beginning update of all GUI Values
+[05:54:04] Scan 0: 
+[05:54:04] 
+	COM1
+[05:54:05] java.lang.NullPointerException
+[05:54:10] Beginning update of all GUI Values
+[05:54:10] Beginning update of all GUI Values
+[05:54:10] Using file: C:\Users\Thayer\Desktop\Lenzhound GUI\.data.txt
+[05:54:10] Beginning file write...
+[05:54:10] Writing Base Setup
+[05:54:10] Ending file write.
+[05:54:14] GUI closed
+[05:54:59] GUI opened
+[05:54:59] GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+[05:54:59] Begining component set up.
+[05:54:59] Components finished, starting listeners.
+[05:54:59] Listeners finished, staring keyboard manager.
+[05:54:59] Keyboard manager finished, starting dialog frame.
+[05:54:59] Dialog frame finished, starting load of saved settings.
+[05:54:59] Length of Entry: 11
+[05:54:59] Base Setup
+[05:54:59] 	0 32768
+[05:54:59] 	1 256
+[05:54:59] 	2 0
+[05:54:59] 	3 1
+[05:54:59] 	4 3
+[05:54:59] 	5 0
+[05:54:59] 	6 32768
+[05:54:59] 	7 256
+[05:54:59] 	8 60
+[05:54:59] File loading finished, storing settings list
+[05:54:59] Successfully stored. Length: 1
+[05:54:59] Setting gui values.
+[05:54:59] Beginning update of all GUI Values
+[05:54:59] Successfully set look and feel of timelapse window.
+[05:54:59] [Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+[05:54:59] Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 60
+	last R-Channel: 1
+[05:54:59] Avrdude test failed, likely a permissions issue.
+[05:54:59] Setup process finished.
+[05:54:59] Beginning update of all GUI Values
+[05:55:02] Channel changed to 1
+[05:55:02] Begining Import from Device
+[05:55:03] Beginning update of all GUI Values
+[05:55:03] Scan 0: 
+[05:55:03] 
+	COM1
+[05:55:03] java.lang.NullPointerException
+[05:55:06] Beginning update of all GUI Values
+[05:55:06] Beginning update of all GUI Values
+[05:55:06] Using file: C:\Users\Thayer\Desktop\Lenzhound GUI\.data.txt
+[05:55:06] Beginning file write...
+[05:55:06] Writing Base Setup
+[05:55:06] Ending file write.
+[06:00:56] Beginning update of all GUI Values
+[06:00:59] GUI closed
+[06:11:17] GUI opened
+[06:11:17] GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+[06:11:17] Begining component set up.
+[06:11:17] Components finished, starting listeners.
+[06:11:17] Listeners finished, staring keyboard manager.
+[06:11:17] Keyboard manager finished, starting dialog frame.
+[06:11:17] Dialog frame finished, starting load of saved settings.
+[06:11:17] Length of Entry: 11
+[06:11:17] Base Setup
+[06:11:17] 	0 32768
+[06:11:17] 	1 256
+[06:11:17] 	2 0
+[06:11:17] 	3 1
+[06:11:17] 	4 3
+[06:11:17] 	5 0
+[06:11:17] 	6 32768
+[06:11:17] 	7 256
+[06:11:17] 	8 60
+[06:11:17] File loading finished, storing settings list
+[06:11:17] Successfully stored. Length: 1
+[06:11:17] Setting gui values.
+[06:11:17] Beginning update of all GUI Values
+[06:11:17] Successfully set look and feel of timelapse window.
+[06:11:17] [Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+[06:11:17] Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 60
+	last R-Channel: 1
+[06:11:17] Avrdude test failed, likely a permissions issue.
+[06:11:17] Setup process finished.
+[06:11:18] Beginning update of all GUI Values
+[06:11:20] Channel changed to 1
+[06:11:21] Opening firmware update utility.
+[06:11:24] Beginning update of all GUI Values
+[06:11:26] Begining Import from Device
+[06:11:27] Beginning update of all GUI Values
+[06:11:29] Beginning update of all GUI Values
+[06:11:29] Saved Settings Combo Box selected index: 1
+[06:11:29] Beginning update of all GUI Values
+[06:11:29] Beginning update of all GUI Values
+[06:11:29] Successfully stored. Length: 2
+[06:11:29] Created a new setting set named: asdf
+[06:11:29] Scan 0: 
+[06:11:29] 
+	COM1
+[06:11:30] java.lang.NullPointerException
+[06:11:36] Beginning update of all GUI Values
+[06:11:36] Beginning update of all GUI Values
+[06:11:36] Using file: C:\Users\Thayer\Desktop\Lenzhound GUI\.data.txt
+[06:11:36] Beginning file write...
+[06:11:36] Writing Base Setup
+[06:11:36] Writing asdf
+[06:11:36] Ending file write.
+[06:11:40] GUI closed
+[06:12:05] GUI opened
+[06:12:05] GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+[06:12:05] Begining component set up.
+[06:12:05] Components finished, starting listeners.
+[06:12:05] Listeners finished, staring keyboard manager.
+[06:12:05] Keyboard manager finished, starting dialog frame.
+[06:12:05] Dialog frame finished, starting load of saved settings.
+[06:12:05] Length of Entry: 11
+[06:12:05] Base Setup
+[06:12:05] 	0 32768
+[06:12:05] 	1 256
+[06:12:05] 	2 0
+[06:12:05] 	3 1
+[06:12:05] 	4 3
+[06:12:05] 	5 0
+[06:12:05] 	6 32768
+[06:12:05] 	7 256
+[06:12:05] 	8 60
+[06:12:05] Length of Entry: 11
+[06:12:05] asdf
+[06:12:05] 	0 32768
+[06:12:05] 	1 256
+[06:12:05] 	2 0
+[06:12:05] 	3 1
+[06:12:05] 	4 3
+[06:12:05] 	5 0
+[06:12:05] 	6 32768
+[06:12:05] 	7 256
+[06:12:05] 	8 1
+[06:12:05] File loading finished, storing settings list
+[06:12:05] Successfully stored. Length: 2
+[06:12:05] Setting gui values.
+[06:12:05] Beginning update of all GUI Values
+[06:12:05] Successfully set look and feel of timelapse window.
+[06:12:05] [Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+[06:12:05] Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 60
+	last R-Channel: 1
+[06:12:05] Avrdude test failed, likely a permissions issue.
+[06:12:05] Setup process finished.
+[06:12:05] Beginning update of all GUI Values
+[06:12:08] Channel changed to 1
+[06:12:08] Scan 0: 
+[06:12:08] 
+	COM1
+[06:12:12] GUI closed
+[06:35:52] GUI opened
+[06:35:52] GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+[06:35:52] Begining component set up.
+[06:35:52] Components finished, starting listeners.
+[06:35:52] Listeners finished, staring keyboard manager.
+[06:35:52] Keyboard manager finished, starting dialog frame.
+[06:35:52] Dialog frame finished, starting load of saved settings.
+[06:35:52] Length of Entry: 11
+[06:35:52] Base Setup
+[06:35:52] 	0 32768
+[06:35:52] 	1 256
+[06:35:52] 	2 0
+[06:35:52] 	3 1
+[06:35:52] 	4 3
+[06:35:52] 	5 0
+[06:35:52] 	6 32768
+[06:35:52] 	7 256
+[06:35:52] 	8 60
+[06:35:52] Length of Entry: 11
+[06:35:52] asdf
+[06:35:52] 	0 32768
+[06:35:52] 	1 256
+[06:35:52] 	2 0
+[06:35:52] 	3 1
+[06:35:52] 	4 3
+[06:35:52] 	5 0
+[06:35:52] 	6 32768
+[06:35:52] 	7 256
+[06:35:52] 	8 1
+[06:35:52] File loading finished, storing settings list
+[06:35:52] Successfully stored. Length: 2
+[06:35:52] Setting gui values.
+[06:35:52] Beginning update of all GUI Values
+[06:35:52] Successfully set look and feel of timelapse window.
+[06:35:52] [Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+[06:35:52] Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 60
+	last R-Channel: 1
+[06:35:52] Avrdude test failed, likely a permissions issue.
+[06:35:52] Setup process finished.
+[06:35:52] Beginning update of all GUI Values
+[06:35:59] Channel changed to 1
+[06:35:59] Begining Import from Device
+[06:35:59] Beginning update of all GUI Values
+[06:35:59] Scan 0: 
+[06:35:59] 
+	COM1
+[06:36:00] java.lang.NullPointerException
+[06:36:00] COM1 has failed.
+[06:36:00] 
+	COM12
+[06:36:00] Check success!
+
+[06:36:00] Begining Import
+[06:36:00] Attempt:1
+[06:36:01] Bytes read:626
+[06:36:01] 	Available commands:Dogbone
+ 0;                      - This command list
+ 1,<max velocity>;       - Set Max Velocity (10-48000)
+ 2,<acceleration>;       - Set Acceleration (1-32000)
+ 3,<antenna>;            - Set Antenna (0=integrated; 1=remote)
+ 4,<channel>;            - Set Channel Num (1-82)
+ 5,<PA level>;           - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+ 7,<zmode max velocity>; - Set ZMode Max Velocity (10-48000)
+ 8,<zmode acceleration>; - Set ZMode Acceleration (1-32000)
+Current values
+ Max Vel: 32000
+ Accel: 8
+ Antenna: 1
+ Channel: 1
+ PA Level: 3
+ ZMode Max Vel: 1000
+ ZMode Accel: 1
+
+[06:36:01] Lines read:17
+[06:36:01] 	Skipping junk data...Available commands:Dogbone
+[06:36:01] 	Skipping junk data... 0;                      - This command list
+[06:36:01] 	Skipping junk data... 1,<max velocity>;       - Set Max Velocity (10-48000)
+[06:36:01] 	Skipping junk data... 2,<acceleration>;       - Set Acceleration (1-32000)
+[06:36:01] 	Skipping junk data... 3,<antenna>;            - Set Antenna (0=integrated; 1=remote)
+[06:36:01] 	Skipping junk data... 4,<channel>;            - Set Channel Num (1-82)
+[06:36:01] 	Skipping junk data... 5,<PA level>;           - Set Power Amp Level (0=-18; 1=-12; 2=-6; 3=0)[dBm]
+[06:36:01] 	Skipping junk data... 7,<zmode max velocity>; - Set ZMode Max Velocity (10-48000)
+[06:36:01] 	Skipping junk data... 8,<zmode acceleration>; - Set ZMode Acceleration (1-32000)
+[06:36:01] Starting point found in: Current values
+[06:36:01] adding value:  Max Vel: 32000
+[06:36:01] adding value:  Accel: 8
+[06:36:01] adding value:  Antenna: 1
+[06:36:01] adding value:  Channel: 1
+[06:36:01] adding value:  PA Level: 3
+[06:36:01] adding value:  ZMode Max Vel: 1000
+[06:36:01] adding value:  ZMode Accel: 1
+[06:36:01] Setting velocity: 32000
+[06:36:01] Setting acceleration: 8
+[06:36:01] Setting channel: 1
+[06:36:01] Setting z-velocity: 1000
+[06:36:01] Setting z-acceleration: 1
+[06:36:01] Import Successs!
+[06:36:01] Beginning update of all GUI Values
+[06:36:01] Using file: C:\Users\Thayer\Desktop\Lenzhound GUI\.data.txt
+[06:36:01] Beginning file write...
+[06:36:01] Writing Base Setup
+[06:36:01] Writing asdf
+[06:36:01] Ending file write.
+[06:36:12] Opening firmware update utility.
+[06:36:18] Scan 0: 
+[06:36:18] 
+
+	Ports Found: [COM1, COM12]
+[06:36:18] 	COM1
+[06:36:18] jssc.SerialPortTimeoutException: Port name - COM1; Method name - readBytes(); Serial port operation timeout (250 ms).
+[06:36:18] COM1 has failed.
+[06:36:18] 	COM12
+[06:36:18] Check success!
+
+[06:36:18] Update Started...
+[06:36:19] 	Buffer flushed
+[06:36:19] 	Port Reset
+[06:36:19] Starting Ports: [COM1, COM12]
+[06:36:19] 	[COM1, COM12]
+[06:36:19] 	[COM1, COM12]
+[06:36:19] 	[COM1, COM12]
+[06:36:19] 	[COM1, COM12]
+[06:36:19] 	[COM1, COM12]
+[06:36:19] 	[COM1, COM12]
+[06:36:19] 	[COM1, COM12]
+[06:36:19] 	[COM1, COM12]
+[06:36:20] 	[COM1, COM12]
+[06:36:20] 	[COM1, COM12]
+[06:36:20] 	[COM1, COM12]
+[06:36:20] 	[COM1, COM12]
+[06:36:20] 	[COM1, COM12]
+[06:36:20] 	[COM1, COM12]
+[06:36:20] 	[COM1, COM12]
+[06:36:20] 	[COM1, COM12]
+[06:36:20] 	[COM1, COM12]
+[06:36:20] 	[COM1, COM12]
+[06:36:21] 	[COM1, COM12]
+[06:36:21] 	[COM1, COM12]
+[06:36:21] 	[COM1, COM12]
+[06:36:21] 	[COM1, COM12]
+[06:36:21] 	[COM1, COM12]
+[06:36:21] 	[COM1, COM12]
+[06:36:21] 	[COM1, COM12]
+[06:36:21] 	[COM1, COM12]
+[06:36:21] 	[COM1, COM12]
+[06:36:21] 	[COM1, COM11]
+[06:36:21] Found Port: COM11
+C:\Users\Thayer\Desktop\Lenzhound GUI\avr\bin/avrdude.exe -v -CC:\Users\Thayer\Desktop\Lenzhound GUI\avr\etc/avrdude.conf -p atmega32u4 -cavr109 -PCOM11 -b57600 -D -Uflash:w:C:\Users\Thayer\Documents\Txr.cpp.hex:i [06:36:21] 
+[06:36:30] Device update failed.
+[06:36:30] Beginning update of all GUI Values
+[06:36:34] GUI closed at 06:36
+[08:25:45] GUI opened
+[08:25:45] GUI stored at C:\Users\Thayer\Desktop\Lenzhound GUI\
+[08:25:45] Begining component set up.
+[08:25:45] Components finished, starting listeners.
+[08:25:45] Listeners finished, staring keyboard manager.
+[08:25:45] Keyboard manager finished, starting dialog frame.
+[08:25:45] Dialog frame finished, starting load of saved settings.
+[08:25:45] Length of Entry: 11
+[08:25:45] Base Setup
+[08:25:45] 	0 32768
+[08:25:45] 	1 256
+[08:25:45] 	2 0
+[08:25:45] 	3 1
+[08:25:45] 	4 3
+[08:25:45] 	5 0
+[08:25:45] 	6 32768
+[08:25:45] 	7 256
+[08:25:45] 	8 60
+[08:25:45] Length of Entry: 11
+[08:25:45] asdf
+[08:25:45] 	0 32768
+[08:25:45] 	1 256
+[08:25:45] 	2 0
+[08:25:45] 	3 1
+[08:25:45] 	4 3
+[08:25:45] 	5 0
+[08:25:45] 	6 32768
+[08:25:45] 	7 256
+[08:25:45] 	8 1
+[08:25:45] File loading finished, storing settings list
+[08:25:45] Successfully stored. Length: 2
+[08:25:45] Setting gui values.
+[08:25:45] Beginning update of all GUI Values
+[08:25:45] Successfully set look and feel of timelapse window.
+[08:25:45] [Nimbus Look and Feel - javax.swing.plaf.nimbus.NimbusLookAndFeel]
+[08:25:45] Current Values:
+	textEdit = false
+	editLock = false
+	errorThrown = false
+	last T-Channel: 60
+	last R-Channel: 1
+[08:25:45] Avrdude test failed, likely a permissions issue.
+[08:25:45] Setup process finished.
+[08:25:45] Beginning update of all GUI Values
+[08:25:47] Channel changed to 1
+[08:25:47] Opening firmware update utility.
+[08:25:53] Scan 0: 
+[08:25:53] 
+
+	Ports Found: [COM1, COM12]
+[08:25:53] 	COM1
+[08:25:53] jssc.SerialPortTimeoutException: Port name - COM1; Method name - readBytes(); Serial port operation timeout (250 ms).
+[08:25:53] COM1 has failed.
+[08:25:53] 	COM12
+[08:25:53] Check success!
+
+[08:25:53] Update Started...
+[08:25:53] 	Buffer flushed
+[08:25:53] 	Port Reset
+[08:25:53] Starting Ports: [COM1, COM12]
+[08:25:53] 	[COM1, COM12]
+[08:25:53] 	[COM1, COM12]
+[08:25:53] 	[COM1, COM12]
+[08:25:53] 	[COM1, COM12]
+[08:25:53] 	[COM1, COM12]
+[08:25:54] 	[COM1, COM12]
+[08:25:54] 	[COM1, COM12]
+[08:25:54] 	[COM1, COM12]
+[08:25:54] 	[COM1, COM12]
+[08:25:54] 	[COM1, COM12]
+[08:25:54] 	[COM1, COM12]
+[08:25:54] 	[COM1, COM12]
+[08:25:54] 	[COM1, COM12]
+[08:25:54] 	[COM1, COM12]
+[08:25:54] 	[COM1, COM12]
+[08:25:55] 	[COM1, COM12]
+[08:25:55] 	[COM1, COM12]
+[08:25:55] 	[COM1, COM12]
+[08:25:55] 	[COM1, COM12]
+[08:25:55] 	[COM1, COM12]
+[08:25:55] 	[COM1, COM12]
+[08:25:55] 	[COM1, COM12]
+[08:25:55] 	[COM1, COM12]
+[08:25:55] 	[COM1, COM12]
+[08:25:55] 	[COM1, COM12]
+[08:25:56] 	[COM1, COM12]
+[08:25:56] 	[COM1, COM12]
+[08:25:56] 	[COM1, COM11]
+[08:25:56] Found Port: COM11
+C:\Users\Thayer\Desktop\Lenzhound GUI\avr\bin/avrdude.exe -v -CC:\Users\Thayer\Desktop\Lenzhound GUI\avr\etc/avrdude.conf -p atmega32u4 -cavr109 -PCOM11 -b57600 -D -Uflash:w:C:\Users\Thayer\Documents\Txr.cpp.hex:i 
+
+avrdude.exe: Version 6.0.1, compiled on Apr 15 2015 at 19:59:58
+             Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/
+             Copyright (c) 2007-2009 Joerg Wunsch
+
+             System wide configuration file is "C:\Users\Thayer\Desktop\Lenzhound GUI\avr\etc/avrdude.conf"
+
+             Using Port                    : COM11
+             Using Programmer              : avr109
+             Overriding Baud Rate          : 57600
+             AVR Part                      : ATmega32U4
+             Chip Erase delay              : 9000 us
+             PAGEL                         : PD7
+             BS2                           : PA0
+             RESET disposition             : dedicated
+             RETRY pulse                   : SCK
+             serial program mode           : yes
+             parallel program mode         : yes
+             Timeout                       : 200
+             StabDelay                     : 100
+             CmdexeDelay                   : 25
+             SyncLoops                     : 32
+             ByteDelay                     : 0
+             PollIndex                     : 3
+             PollValue                     : 0x53
+             Memory Detail                 :
+
+                                      Block Poll               Page                       Polled
+               Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack
+               ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------
+               eeprom        65    20     4    0 no       1024    4      0  9000  9000 0x00 0x00
+               flash         65     6   128    0 yes     32768  128    256  4500  4500 0x00 0x00
+               lfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+               hfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+               efuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+               lock           0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+               calibration    0     0     0    0 no          1    0      0     0     0 0x00 0x00
+               signature      0     0     0    0 no          3    0      0     0     0 0x00 0x00
+
+             Programmer Type : butterfly
+             Description     : Atmel AppNote AVR109 Boot Loader
+
+Connecting to programmer: .
+Found programmer: Id = "CATERIN"; type = S
+    Software Version = 1.0; No Hardware Version given.
+Programmer supports auto addr increment.
+Programmer supports buffered memory access with buffersize=128 bytes.
+
+Programmer supports the following devices:
+    Device code: 0x44
+
+avrdude.exe: devcode selected: 0x44
+avrdude.exe: AVR device initialized and ready to accept instructions
+
+Reading | ################################################## | 100% -0.00s
+
+avrdude.exe: Device signature = 0x1e9587
+avrdude.exe: reading input file "C:\Users\Thayer\Documents\Txr.cpp.hex"
+avrdude.exe: writing flash (26042 bytes):
+
+Writing | ################################################## | 100% 2.28s
+
+avrdude.exe: 26042 bytes of flash written
+avrdude.exe: verifying flash memory against C:\Users\Thayer\Documents\Txr.cpp.hex:
+avrdude.exe: load data flash data from input file C:\Users\Thayer\Documents\Txr.cpp.hex:
+avrdude.exe: input file C:\Users\Thayer\Documents\Txr.cpp.hex contains 26042 bytes
+avrdude.exe: reading on-chip flash data:
+
+Reading | ################################################## | 100% 0.43s
+
+avrdude.exe: verifying ...
+avrdude.exe: 26042 bytes of flash verified
+
+avrdude.exe done.  Thank you.
+
+[08:26:02] Beginning update of all GUI Values
+[08:26:11] GUI closed
